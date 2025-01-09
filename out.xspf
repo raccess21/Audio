@@ -4,6 +4,13 @@
 	<trackList>
 		<track>
 			<location>files/295_-_Sidhu_Moose_Wala.m4a</location>
+			<title>295</title>
+			<creator>Sidhu Moose Wala</creator>
+			<album>Moosetape</album>
+			<duration>270000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
 		</track>
 		<track>
 			<location>files/4356-16425.mp3</location>

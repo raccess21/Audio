@@ -60,7 +60,7 @@ def xml_clean():
             with open("out_web.xspf", "w", encoding=encoding) as f:
                 f.write(xml_data.replace(
                     "file:///C:/rahul/Audio/files/", 
-                    "https://raw.githubusercontent.com/raccess21/Audio/files/main/"
+                    "https://raw.githubusercontent.com/raccess21/Audio/main/files"
                 ))
 
 
