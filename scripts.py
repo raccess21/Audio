@@ -12,11 +12,14 @@ def name_clean():
         for file in os.listdir(folder):
             file = os.path.join(folder, file)
             new_name = file.replace(" ", "_")
-            os.rename(file, new_name)
+            try:
+                os.rename(file, new_name)
+            except:
+                ...
             names.append(new_name)
     
     with open("song_list.json", "w") as f:
-        f.write(json.dumps(indent=2))
+        f.write(json.dumps(names, indent=2))
 
 
 
@@ -50,19 +53,24 @@ def xml_clean():
 
             xml_data = tag_remove(bad_tag_names, xml_data)
             
-            
-            with open("out.xspf", "w", encoding=encoding) as f:
+            file = file.split(".")[0]
+            with open(f"{file}.xspf", "w", encoding=encoding) as f:
                 f.write(xml_data.replace(
                     "file:///C:/rahul/Audio/", 
                     ""
                 ))
 
-            with open("out_web.xspf", "w", encoding=encoding) as f:
+            with open(f"{file}_web.xspf", "w", encoding=encoding) as f:
                 f.write(xml_data.replace(
                     "file:///C:/rahul/Audio/files/", 
-                    "https://raw.githubusercontent.com/raccess21/Audio/main/files"
+                    "https://raw.githubusercontent.com/raccess21/Audio/main/files/"
                 ))
 
 
+def main():
+    name_clean()
+    xml_clean()
 
-xml_clean()
+
+if __name__ == "__main__":
+    main()
