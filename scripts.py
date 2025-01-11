@@ -1,6 +1,7 @@
 import os
 import json
 import chardet
+from lxml import etree
 
 folders = ["files"] 
 
@@ -22,55 +23,54 @@ def name_clean():
         f.write(json.dumps(names, indent=2))
 
 
-
-def tag_remove(tag_names, xml_data):
-    if not isinstance(tag_names, list):
-        tag_names = [tag_names]
-
-    for tag_name in tag_names:
-        xml_data = xml_data.replace(f"</{tag_name}>", f"<{tag_name}>")
-        xml_data = "".join([val for i, val in enumerate(xml_data.split(f"<{tag_name}>")) if i % 2 == 0])
+def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
+    parser = etree.XMLParser(remove_blank_text=True)
+    tree = etree.parse(file_name, parser)
+    root = tree.getroot()
     
-    return "\n".join([line for line in xml_data.splitlines() if line.strip()])
+    # Define namespaces
+    ns = {
+        'default': "http://xspf.org/ns/0/",
+        'vlc': "http://www.videolan.org/vlc/playlist/ns/0/"
+    }
+    
+    root.xpath("//default:title", namespaces=ns)[0].text = playlist_title
+
+    # remove unnecessary tags from track data
+    for track in root.xpath("//default:track", namespaces=ns):
+        image_tag = track.find("default:image", namespaces=ns)
+        if image_tag is not None:
+            track.remove(image_tag)
+        
+        annotation_tag = track.find("default:annotation", namespaces=ns)
+        if annotation_tag is not None:
+            track.remove(annotation_tag)
+        
+
+    # File location edit for local files 
+    for location_tag in root.xpath("//default:location", namespaces=ns):
+        location_tag.text = location_tag.text.replace("file:///C:/rahul/Audio/", "")
+
+    tree.write(file_name, pretty_print=True, xml_declaration=True, encoding="UTF-8")
+    print(f"Cleaned XSPF written to {file_name}")
 
 
-def encoding_check(file_name):
-    with open(file_name, 'rb') as f:
-        return chardet.detect(f.read())["encoding"]
+    # File location edit for server files 
+    for location_tag in root.xpath("//default:location", namespaces=ns):
+        location_tag.text = location_tag.text.replace(
+                "file:///C:/rahul/Audio/files/", 
+                "https://raw.githubusercontent.com/raccess21/Audio/main/files/"
+            )
 
-def xml_clean():
-    bad_tag_names = [
-        "image",
-        "annotation",
-    ]
-
-    for file in os.listdir():
-        if file.endswith("t.xspf"):
-            encoding = encoding_check(file)
-
-            with open(file, "r", encoding=encoding) as f:
-                xml_data = f.read()
-
-            xml_data = tag_remove(bad_tag_names, xml_data)
-            
-            file = file.split(".")[0]
-            with open(f"{file}.xspf", "w", encoding=encoding) as f:
-                f.write(xml_data.replace(
-                    "file:///C:/rahul/Audio/", 
-                    ""
-                ))
-
-            with open(f"{file}_web.xspf", "w", encoding=encoding) as f:
-                f.write(xml_data.replace(
-                    "file:///C:/rahul/Audio/files/", 
-                    "https://raw.githubusercontent.com/raccess21/Audio/main/files/"
-                ))
+    # Write the modified XML to a new file
+    file_name = f"{file_name.split('.')[0]}_web.xspf"
+    tree.write(file_name, pretty_print=True, xml_declaration=True, encoding="UTF-8")
+    print(f"Cleaned web XSPF written to {file_name}")
 
 
 def main():
     name_clean()
-    xml_clean()
-
+    xml_clean(file_name="all_songs.xspf", playlist_title="All Songs")
 
 if __name__ == "__main__":
     main()
