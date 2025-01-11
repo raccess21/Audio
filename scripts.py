@@ -68,9 +68,13 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
     print(f"Cleaned web XSPF written to {file_name}")
 
 
+def create_xml():
+    ...
+    
 def main():
-    name_clean()
-    xml_clean(file_name="all_songs.xspf", playlist_title="All Songs")
+    # name_clean()
+    # xml_clean(file_name="all_songs.xspf", playlist_title="All Songs")
+    create_xml()
 
 if __name__ == "__main__":
     main()
