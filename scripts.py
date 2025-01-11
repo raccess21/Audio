@@ -69,7 +69,7 @@ def create_xml():
     ...
     
 def main():
-    file_name = "Dark Side of the Moon MP3 - Pink Floyd.xspf"
+    file_name = "The Wall - Pink Floyd (flac).xspf"
     # name_clean()
     xml_clean(file_name, playlist_title=file_name)
     # create_xml()
