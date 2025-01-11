@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
-	<title>Playlist</title>
+	<title>All Songs Web</title>
 	<trackList>
 		<track>
 			<location>https://raw.githubusercontent.com/raccess21/Audio/main/files/295_-_Sidhu_Moose_Wala.m4a</location>
@@ -318,11 +318,6 @@
 				<vlc:id>35</vlc:id>
 			</extension>
 		</track>
-		<track>
-			<location>https://raw.githubusercontent.com/raccess21/Audio/main/files/High_Heels_-_Jaz_Dhami.m4a</location>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>36</vlc:id>
-			</extension>
 		</track>
 		<track>
 			<location>https://raw.githubusercontent.com/raccess21/Audio/main/files/High_Hopes_-_Pink_Floyd.m4a</location>
