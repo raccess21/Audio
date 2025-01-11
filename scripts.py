@@ -61,7 +61,7 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
 
     # Write the modified XML to a new file
     file_name = f"{file_name.split('.')[0]}_web.xspf"
-    tree.write(file_name, pretty_print=True, xml_declaration=True, encoding="UTF-8")
+    tree.write(f"web playlists/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
     print(f"Cleaned web XSPF written to {file_name}")
 
 
@@ -69,7 +69,7 @@ def create_xml():
     ...
     
 def main():
-    file_name = "Pink Floyd - Dark Side of the Moon MP3.xspf"
+    file_name = "Dark Side of the Moon MP3 - Pink Floyd.xspf"
     # name_clean()
     xml_clean(file_name, playlist_title=file_name)
     # create_xml()
