@@ -1,0 +1,221 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 9. September 2010, 10:54
+
+Pink Floyd / The Wall CD 1
+
+Used drive  : HL-DT-STDVDRRW GSA-H30L   Adapter: 0  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 102
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Installed external ASPI interface
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 1024 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\Flac\flac.exe
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "GENRE=%m" -T "COMMENT= EAC - FLAC - 8 - oan" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:19.42 |         0    |    14966   
+        2  |  3:19.42 |  2:29.65 |     14967    |    26206   
+        3  |  5:49.32 |  3:09.73 |     26207    |    40454   
+        4  |  8:59.30 |  1:50.37 |     40455    |    48741   
+        5  | 10:49.67 |  3:59.35 |     48742    |    66701   
+        6  | 14:49.27 |  5:33.65 |     66702    |    91741   
+        7  | 20:23.17 |  2:47.43 |     91742    |   104309   
+        8  | 23:10.60 |  2:08.25 |    104310    |   113934   
+        9  | 25:19.10 |  3:31.07 |    113935    |   129766   
+       10  | 28:50.17 |  3:36.40 |    129767    |   146006   
+       11  | 32:26.57 |  4:16.30 |    146007    |   165236   
+       12  | 36:43.12 |  1:14.53 |    165237    |   170839   
+       13  | 37:57.65 |  1:14.20 |    170840    |   176409   
+
+
+Track  1
+
+     Filename C:\Pink Floyd\01 - In The Flesh .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 97.2 %
+     Track quality 99.9 %
+     Test CRC 50056A78
+     Copy CRC 50056A78
+     Accurately ripped (confidence 200)  [FBAA1740]
+     Copy OK
+
+Track  2
+
+     Filename C:\Pink Floyd\02 - The Thin Ice.wav
+
+     Pre-gap length  0:00:00.02
+
+     Peak level 87.2 %
+     Track quality 100.0 %
+     Test CRC 66CAEACE
+     Copy CRC 66CAEACE
+     Accurately ripped (confidence 200)  [7AFEE8A9]
+     Copy OK
+
+Track  3
+
+     Filename C:\Pink Floyd\03 - Another Brick In The Wall [Part 1].wav
+
+     Pre-gap length  0:00:00.02
+
+     Peak level 95.3 %
+     Track quality 100.0 %
+     Test CRC 4CCDC1A4
+     Copy CRC 4CCDC1A4
+     Accurately ripped (confidence 200)  [A27F2F19]
+     Copy OK
+
+Track  4
+
+     Filename C:\Pink Floyd\04 - The Happiest Days Of Our Lives.wav
+
+     Pre-gap length  0:00:00.04
+
+     Peak level 97.2 %
+     Track quality 100.0 %
+     Test CRC A1E1CFAD
+     Copy CRC A1E1CFAD
+     Accurately ripped (confidence 200)  [AB60ACF4]
+     Copy OK
+
+Track  5
+
+     Filename C:\Pink Floyd\05 - Another Brick In The Wall [Part 2].wav
+
+     Pre-gap length  0:00:00.02
+
+     Peak level 93.6 %
+     Track quality 100.0 %
+     Test CRC DC39C5D8
+     Copy CRC DC39C5D8
+     Accurately ripped (confidence 200)  [DE3F8B27]
+     Copy OK
+
+Track  6
+
+     Filename C:\Pink Floyd\06 - Mother.wav
+
+     Pre-gap length  0:00:00.02
+
+     Peak level 93.8 %
+     Track quality 100.0 %
+     Test CRC A90F8544
+     Copy CRC A90F8544
+     Accurately ripped (confidence 200)  [2C093501]
+     Copy OK
+
+Track  7
+
+     Filename C:\Pink Floyd\07 - Goodbye Blue Sky.wav
+
+     Pre-gap length  0:00:00.02
+
+     Peak level 47.9 %
+     Track quality 100.0 %
+     Test CRC 63156773
+     Copy CRC 63156773
+     Accurately ripped (confidence 200)  [CF190502]
+     Copy OK
+
+Track  8
+
+     Filename C:\Pink Floyd\08 - Empty Spaces.wav
+
+     Pre-gap length  0:00:00.04
+
+     Peak level 57.6 %
+     Track quality 100.0 %
+     Test CRC 9206D550
+     Copy CRC 9206D550
+     Accurately ripped (confidence 200)  [7CF42925]
+     Copy OK
+
+Track  9
+
+     Filename C:\Pink Floyd\09 - Young Lust.wav
+
+     Pre-gap length  0:00:00.04
+
+     Peak level 97.2 %
+     Track quality 100.0 %
+     Test CRC DA6C5914
+     Copy CRC DA6C5914
+     Accurately ripped (confidence 200)  [C9AD92B1]
+     Copy OK
+
+Track 10
+
+     Filename C:\Pink Floyd\10 - One Of My Turns.wav
+
+     Pre-gap length  0:00:00.02
+
+     Peak level 97.2 %
+     Track quality 99.9 %
+     Test CRC 78F96931
+     Copy CRC 78F96931
+     Accurately ripped (confidence 200)  [7A3C2580]
+     Copy OK
+
+Track 11
+
+     Filename C:\Pink Floyd\11 - Don't Leave Me Now.wav
+
+     Pre-gap length  0:00:00.02
+
+     Peak level 93.5 %
+     Track quality 100.0 %
+     Test CRC 5C02F5CB
+     Copy CRC 5C02F5CB
+     Accurately ripped (confidence 200)  [78123DF3]
+     Copy OK
+
+Track 12
+
+     Filename C:\Pink Floyd\12 - Another Brick In The Wall [Part 3].wav
+
+     Peak level 97.2 %
+     Track quality 99.8 %
+     Test CRC BE76A901
+     Copy CRC BE76A901
+     Accurately ripped (confidence 200)  [27BD83AA]
+     Copy OK
+
+Track 13
+
+     Filename C:\Pink Floyd\13 - Goodbye Cruel World.wav
+
+     Pre-gap length  0:00:00.04
+
+     Peak level 26.9 %
+     Track quality 100.0 %
+     Test CRC 66EFC12D
+     Copy CRC 66EFC12D
+     Accurately ripped (confidence 200)  [D25713FA]
+     Copy OK
+
+
+All tracks accurately ripped
+
+No errors occurred
+
+End of status report

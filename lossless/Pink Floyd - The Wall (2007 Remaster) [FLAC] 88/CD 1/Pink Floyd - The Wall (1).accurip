@@ -1,0 +1,684 @@
+[CUETools log; Date: 7/3/2024 10:19:46 AM; Version: 2.1.5]
+[CTDB TOCID: xNmRuQY.ZiIxAoSo_fO9X9FOxEc-] found.
+        [ CTDBID ] Status
+        [a7d8c1a5] (6666/7000) Accurately ripped
+        [53703a65] (007/7000) Differs in 9294 samples @39:11:65-39:11:74
+        [6e7d674d] (008/7000) No match
+        [73b981fa] (019/7000) No match
+        [e4946ee4] (001/7000) No match
+        [5e0bef64] (001/7000) No match
+        [9c93ffc8] (001/7000) No match
+        [3ef8efcd] (001/7000) No match
+        [ec6fcf75] (001/7000) No match
+        [69c5b19c] (001/7000) No match
+        [f85ad20e] (001/7000) No match
+        [3fd4210e] (001/7000) No match
+        [6749296d] (001/7000) No match
+        [b19e4206] (001/7000) No match
+        [b15eb84d] (001/7000) No match
+        [1b866a1d] (001/7000) No match
+        [eeacb0c3] (001/7000) No match
+        [1dbeb93b] (001/7000) No match
+        [0f878067] (001/7000) No match
+        [4c47d425] (003/7000) No match
+        [af27234a] (001/7000) No match
+        [5e978eb3] (001/7000) No match
+        [0ee3566e] (001/7000) No match
+        [7753d13a] (001/7000) No match
+        [45f58b48] (001/7000) No match
+        [4550cd61] (001/7000) No match
+        [2962c02b] (001/7000) No match
+        [d8f7000f] (001/7000) No match
+        [06694028] (001/7000) No match
+        [52b9bc88] (001/7000) No match
+        [3a3ec949] (001/7000) No match
+        [c464580f] (001/7000) No match
+        [7d24e222] (001/7000) No match
+        [a48bfa51] (001/7000) No match
+        [53c17141] (001/7000) No match
+        [0cd9233d] (001/7000) No match
+        [320ecdd4] (001/7000) No match
+        [d7ffebcb] (003/7000) No match
+        [428218b0] (001/7000) No match
+        [4549e68e] (001/7000) No match
+        [491069fb] (001/7000) No match
+        [90c8a7a9] (001/7000) No match
+        [67a8077a] (001/7000) No match
+        [51b5599f] (001/7000) No match
+        [4be00fb5] (001/7000) No match
+        [134a4efc] (001/7000) No match
+        [e488bb5e] (001/7000) No match
+        [d1564dbe] (001/7000) No match
+        [4b76e209] (001/7000) No match
+        [9c5e87b6] (001/7000) No match
+        [06ddfb69] (001/7000) No match
+        [9e022f8c] (001/7000) No match
+        [335e71e4] (001/7000) No match
+        [eb0e9cef] (001/7000) No match
+        [02bdad3e] (001/7000) No match
+        [778f4c56] (001/7000) No match
+        [b565e2a9] (001/7000) No match
+        [cfcfa7b1] (001/7000) No match
+        [d4cbf655] (001/7000) No match
+        [7037bb3b] (001/7000) No match
+        [36b25e29] (001/7000) No match
+        [8e091eab] (001/7000) No match
+        [21ba8671] (001/7000) No match
+        [76faea8b] (005/7000) No match
+        [72a7b96d] (001/7000) No match
+        [2a163c58] (001/7000) No match
+        [f981bc9c] (001/7000) No match
+        [7f70285f] (001/7000) No match
+        [1f77df9b] (001/7000) No match
+        [bf4f4060] (001/7000) No match
+        [c66476ba] (001/7000) No match
+        [03ee08d1] (001/7000) No match
+        [eaf4dcc2] (004/7000) No match
+        [4b0982cb] (001/7000) No match
+        [b8796a04] (001/7000) No match
+        [689fbae8] (007/7000) No match
+        [16469976] (001/7000) No match
+        [9d4f3648] (001/7000) No match
+        [84efe5a2] (001/7000) No match
+        [c1835136] (001/7000) No match
+        [b609f6d1] (001/7000) No match
+        [cd2b2425] (001/7000) No match
+        [234110b6] (001/7000) No match
+        [e3d2e301] (001/7000) No match
+        [766d508b] (001/7000) No match
+        [aa4c3dc7] (001/7000) No match
+        [5afc8b9b] (001/7000) No match
+        [fd14abd9] (001/7000) No match
+        [49f532ad] (004/7000) No match
+        [0cd93a54] (001/7000) No match
+        [81c61f84] (001/7000) No match
+        [70d40267] (001/7000) No match
+        [6d854b69] (001/7000) No match
+        [7e588c33] (001/7000) No match
+        [c4245b90] (001/7000) No match
+        [8a6d2329] (002/7000) No match
+        [a8524d5c] (001/7000) No match
+        [b0d6c42c] (001/7000) No match
+        [8fb07b7a] (001/7000) No match
+        [490da6c2] (001/7000) No match
+        [61f7b9b4] (001/7000) No match
+        [31a5be3e] (001/7000) No match
+        [50ebe596] (001/7000) No match
+        [a0846fc5] (001/7000) No match
+        [edcced57] (001/7000) No match
+        [e43a44f3] (001/7000) No match
+        [85f18569] (001/7000) No match
+        [6e79c6e6] (001/7000) No match
+        [fa18ed90] (002/7000) Differs in 9429 samples @39:11:65-39:11:74
+        [5a2346d8] (001/7000) No match
+        [ea0a1e21] (001/7000) No match
+        [8e4332c3] (001/7000) No match
+        [cb27106a] (004/7000) Differs in 8837 samples @39:11:67-39:12:01
+        [924721e3] (001/7000) No match
+        [d426012a] (001/7000) No match
+        [7a86c024] (001/7000) No match
+        [dc851978] (004/7000) Differs in 9211 samples @39:11:64-39:11:73
+        [b78eee6e] (001/7000) No match
+        [fcfe5fc9] (001/7000) No match
+        [c68a576f] (001/7000) No match
+        [8a30f2fa] (001/7000) No match
+        [a51b9abb] (001/7000) No match
+        [cf4b0de4] (001/7000) No match
+        [ee969d0f] (001/7000) No match
+        [9e567ce9] (001/7000) Has pregap length 00:02:00, Accurately ripped
+        [43e8e630] (001/7000) No match
+        [968b0d3a] (001/7000) No match
+        [927980b0] (001/7000) No match
+        [7fa2614a] (001/7000) No match
+        [b26ac436] (001/7000) No match
+        [75632d6b] (001/7000) No match
+        [ad514324] (001/7000) No match
+        [1534cd74] (001/7000) No match
+        [08dcac2a] (001/7000) No match
+        [77cc139a] (001/7000) No match
+        [91da3c2c] (001/7000) No match
+        [fce9acfe] (001/7000) No match
+        [1cfac19b] (001/7000) No match
+        [a5f92453] (001/7000) No match
+        [d36b39da] (001/7000) No match
+        [0f69a446] (001/7000) No match
+        [8181b315] (001/7000) No match
+        [8848d5d9] (001/7000) No match
+        [325f8161] (001/7000) No match
+        [724ef7ee] (001/7000) No match
+        [c509055f] (001/7000) No match
+        [530978b8] (001/7000) No match
+        [674053e3] (001/7000) No match
+        [43a5f327] (002/7000) Differs in 10316 samples @39:11:63-39:11:73
+        [964e4dea] (001/7000) No match
+        [5e705ccb] (001/7000) No match
+        [fd2a4849] (001/7000) No match
+        [66eeaa37] (001/7000) No match
+        [a180aa2d] (001/7000) No match
+        [eb182190] (001/7000) No match
+        [675bfcd0] (001/7000) No match
+        [5d2329af] (001/7000) No match
+        [e280bac0] (001/7000) No match
+        [5dadf6a9] (001/7000) No match
+        [f13ed43b] (001/7000) No match
+        [1c3f0943] (001/7000) No match
+        [32494cb5] (001/7000) No match
+        [1cbf6622] (001/7000) No match
+        [5c43c44e] (001/7000) No match
+        [e5a90229] (001/7000) No match
+        [f8e428e1] (001/7000) No match
+        [d66eea55] (001/7000) No match
+        [6b639a16] (001/7000) No match
+        [7fc0b590] (001/7000) No match
+        [ebb0b768] (001/7000) No match
+        [407f613a] (001/7000) No match
+        [4caabf53] (002/7000) No match
+        [9d2322d6] (001/7000) No match
+        [4cbc8a6f] (001/7000) No match
+        [d7d795f1] (001/7000) No match
+        [a2059169] (001/7000) No match
+        [981ec74d] (001/7000) No match
+        [dfca2793] (001/7000) No match
+        [1c05852c] (001/7000) No match
+        [ae1c0735] (001/7000) No match
+        [35c23c42] (001/7000) No match
+        [e7978df6] (001/7000) No match
+        [3715a0a4] (001/7000) No match
+        [dd412e1a] (001/7000) No match
+        [dbdecec4] (001/7000) No match
+        [58610a69] (001/7000) No match
+        [7c7fc36b] (001/7000) No match
+        [96e38a6a] (001/7000) No match
+        [000c28e1] (001/7000) No match
+        [369c3cf9] (001/7000) No match
+        [0f81ce09] (001/7000) No match
+        [6fad4a6e] (001/7000) No match
+        [043efd5b] (001/7000) No match
+        [882b4882] (001/7000) No match
+        [fab23467] (001/7000) No match
+        [b919a776] (001/7000) No match
+        [30626547] (001/7000) No match
+        [6a787d5e] (001/7000) No match
+        [b6ee661f] (001/7000) No match
+        [07abaacd] (001/7000) No match
+        [9a538749] (001/7000) No match
+        [f70884b7] (001/7000) No match
+        [12e6eb15] (001/7000) No match
+        [cf0f5b8d] (001/7000) No match
+        [ff88dbf6] (002/7000) Differs in 4698 samples @08:59:28-08:59:29,23:10:58-23:10:59,25:19:08-25:19:09,37:57:63-37:57:64
+        [1ee4e20c] (001/7000) No match
+        [f4e73ac8] (001/7000) No match
+        [d2336726] (001/7000) No match
+        [11da074f] (001/7000) No match
+        [41bdbedc] (001/7000) No match
+        [ae797689] (001/7000) No match
+        [45ad6a5c] (001/7000) No match
+        [0b8e5aa5] (001/7000) No match
+        [d270996e] (001/7000) No match
+        [3c6d3d46] (001/7000) No match
+        [58d84096] (001/7000) No match
+        [aac6e10e] (002/7000) No match
+        [ff44994d] (001/7000) No match
+        [0deb5804] (001/7000) No match
+        [9a7280fe] (001/7000) No match
+        [9950d25d] (001/7000) No match
+        [50694660] (001/7000) No match
+        [048a3e2f] (001/7000) No match
+        [3bea750c] (001/7000) No match
+        [3d349b4f] (001/7000) No match
+        [6c4aea7b] (001/7000) No match
+        [7462731d] (001/7000) No match
+        [34be0676] (002/7000) No match
+        [ba0d7ed6] (001/7000) No match
+        [f30e7a6a] (001/7000) No match
+        [e2a794b3] (001/7000) No match
+        [3980b90f] (001/7000) No match
+        [089edae7] (001/7000) No match
+        [4028ca6f] (001/7000) No match
+        [d9a51e3f] (001/7000) No match
+        [64b460c2] (001/7000) No match
+        [50212009] (001/7000) No match
+        [ac74567a] (001/7000) No match
+        [e47ab061] (001/7000) No match
+        [f02e7260] (001/7000) No match
+        [b4cb97b2] (001/7000) No match
+        [558f28f6] (001/7000) No match
+        [129b4558] (001/7000) No match
+        [64bf7cae] (001/7000) No match
+        [e54a3116] (001/7000) No match
+        [cc04f9b8] (001/7000) No match
+        [7416c743] (001/7000) No match
+        [410ff24e] (001/7000) No match
+        [31ead58a] (001/7000) No match
+        [be604051] (001/7000) No match
+        [d32a3555] (001/7000) No match
+        [ca0880d6] (001/7000) No match
+        [3491153c] (001/7000) No match
+        [ad8989ba] (001/7000) No match
+        [640bf53d] (001/7000) No match
+        [0d06992c] (001/7000) No match
+        [8d15296a] (001/7000) No match
+        [0bc2700d] (001/7000) No match
+        [0260666f] (001/7000) No match
+        [9ebc8c1a] (001/7000) No match
+        [8ddedd0a] (001/7000) No match
+        [b928173e] (001/7000) No match
+        [e25ea2ce] (001/7000) No match
+        [13d23f06] (001/7000) No match
+        [d095d3e4] (001/7000) No match
+        [c5d19835] (001/7000) No match
+        [072b9276] (001/7000) No match
+        [9a229fb9] (001/7000) No match
+        [0f3209b3] (001/7000) No match
+        [8e289d7d] (001/7000) No match
+        [b365430f] (001/7000) No match
+Track | CTDB Status
+  1   | (6859/7000) Accurately ripped
+  2   | (6858/7000) Accurately ripped
+  3   | (6839/7000) Accurately ripped, or (2/7000) differs in 1174 samples @03:09:71-03:09:72
+  4   | (6871/7000) Accurately ripped
+  5   | (6853/7000) Accurately ripped
+  6   | (6854/7000) Accurately ripped
+  7   | (6846/7000) Accurately ripped, or (2/7000) differs in 1172 samples @02:47:41-02:47:42
+  8   | (6846/7000) Accurately ripped, or (2/7000) differs in 1176 samples @02:08:23-02:08:24
+  9   | (6845/7000) Accurately ripped
+ 10   | (6822/7000) Accurately ripped
+ 11   | (6816/7000) Accurately ripped
+ 12   | (6858/7000) Accurately ripped, or (2/7000) differs in 1176 samples @01:14:51-01:14:52
+ 13   | (6835/7000) Accurately ripped, or (7/7000) differs in 9294 samples @01:14:00-01:14:09, or (2/7000) differs in 9429 samples @01:14:00-01:14:09, or (4/7000) differs in 8837 samples @01:14:02-01:14:11, or (4/7000) differs in 9211 samples @01:13:74-01:14:08, or (2/7000) differs in 10316 samples @01:13:73-01:14:08
+[AccurateRip ID: 0013c3d9-00c64466-9809300d] found.
+Track   [  CRC   |   V2   ] Status
+ 01     [fbaa1740|8b77bd34] (200+200/1352) Accurately ripped
+ 02     [7afee8a9|4adab996] (200+200/1353) Accurately ripped
+ 03     [a27f2f19|2dc7b51c] (200+200/1353) Accurately ripped
+ 04     [ab60acf4|11956c52] (200+200/1354) Accurately ripped
+ 05     [de3f8b27|e89aa091] (200+200/1347) Accurately ripped
+ 06     [2c093501|0fa7c113] (200+200/1349) Accurately ripped
+ 07     [cf190502|e38252e1] (200+200/1352) Accurately ripped
+ 08     [7cf42925|b1c9e7f6] (200+200/1354) Accurately ripped
+ 09     [c9ad92b1|33120d9c] (200+200/1347) Accurately ripped
+ 10     [7a3c2580|c0cb02da] (200+200/1349) Accurately ripped
+ 11     [78123df3|4e0ff0b8] (200+200/1349) Accurately ripped
+ 12     [27bd83aa|8fa5d876] (200+200/1351) Accurately ripped
+ 13     [d25713fa|6b0eb290] (200+200/1370) Accurately ripped
+Offsetted by -742:
+ 01     [536c55af] (005/1352) Accurately ripped
+ 02     [701f06ec] (005/1353) Accurately ripped
+ 03     [e08bf0b1] (005/1353) Accurately ripped
+ 04     [d9d45544] (005/1354) Accurately ripped
+ 05     [1fb41102] (005/1347) Accurately ripped
+ 06     [91a2f09c] (005/1349) Accurately ripped
+ 07     [86a1ff6c] (005/1352) Accurately ripped
+ 08     [50119d5a] (005/1354) Accurately ripped
+ 09     [2d6afc64] (005/1347) Accurately ripped
+ 10     [c8d3adda] (005/1349) Accurately ripped
+ 11     [09bb81ec] (005/1349) Accurately ripped
+ 12     [b949b715] (005/1351) Accurately ripped
+ 13     [ef1f1fd8] (005/1370) Accurately ripped
+Offsetted by -703:
+ 01     [fd7c65de] (008/1352) Accurately ripped
+ 02     [6f18e7a2] (008/1353) Accurately ripped
+ 03     [cfb87c99] (008/1353) Accurately ripped
+ 04     [15e3eff3] (008/1354) Accurately ripped
+ 05     [356dd99b] (008/1347) Accurately ripped
+ 06     [2f4fbea7] (008/1349) Accurately ripped
+ 07     [4bb6b7c6] (008/1352) Accurately ripped
+ 08     [bfd05f4e] (008/1354) Accurately ripped
+ 09     [b3ecd69b] (008/1347) Accurately ripped
+ 10     [7d052bb7] (008/1349) Accurately ripped
+ 11     [ee067e8b] (008/1349) Accurately ripped
+ 12     [356ced48] (008/1351) Accurately ripped
+ 13     [9f6c8495] (008/1370) Accurately ripped
+Offsetted by -676:
+ 01     [e6378b90] (192/1352) Accurately ripped
+ 02     [80625fa2] (194/1353) Accurately ripped
+ 03     [4aaf1348] (192/1353) Accurately ripped
+ 04     [83bd62db] (192/1354) Accurately ripped
+ 05     [3e385ddc] (193/1347) Accurately ripped
+ 06     [ce168e51] (193/1349) Accurately ripped
+ 07     [9965bab0] (192/1352) Accurately ripped
+ 08     [e5b755dc] (194/1354) Accurately ripped
+ 09     [da39e9e6] (193/1347) Accurately ripped
+ 10     [d86e41bc] (193/1349) Accurately ripped
+ 11     [9022d9ea] (193/1349) Accurately ripped
+ 12     [b116280a] (193/1351) Accurately ripped
+ 13     [7c73a7f3] (190/1370) Accurately ripped
+Offsetted by -667:
+ 01     [f5911fdf] (018/1352) Accurately ripped
+ 02     [ed7f3915] (018/1353) Accurately ripped
+ 03     [0b827503] (018/1353) Accurately ripped
+ 04     [87143591] (018/1354) Accurately ripped
+ 05     [030e22a8] (018/1347) Accurately ripped
+ 06     [4bacc886] (018/1349) Accurately ripped
+ 07     [13f38673] (018/1352) Accurately ripped
+ 08     [a7a9a659] (018/1354) Accurately ripped
+ 09     [d13f8307] (018/1347) Accurately ripped
+ 10     [7f290a56] (018/1349) Accurately ripped
+ 11     [c8fc8d4a] (018/1349) Accurately ripped
+ 12     [998ad359] (018/1351) Accurately ripped
+ 13     [6656d0d4] (018/1370) Accurately ripped
+Offsetted by -29:
+ 01     [9ddae999] (003/1352) Accurately ripped
+ 02     [a9dcb158] (003/1353) Accurately ripped
+ 03     [4b932b13] (003/1353) Accurately ripped
+ 04     [7f2aba19] (003/1354) Accurately ripped
+ 05     [3381f250] (003/1347) Accurately ripped
+ 06     [5faf8895] (003/1349) Accurately ripped
+ 07     [2a20181a] (003/1352) Accurately ripped
+ 08     [f722e4ac] (003/1354) Accurately ripped
+ 09     [4d8a4f6f] (003/1347) Accurately ripped
+ 10     [e6ddf8c3] (003/1349) Accurately ripped
+ 11     [fe06b603] (003/1349) Accurately ripped
+ 12     [c26e4bb2] (003/1351) Accurately ripped
+ 13     [088e7300] (003/1370) Accurately ripped
+Offsetted by 6:
+ 01     [1abae8e1] (002/1352) Accurately ripped
+ 02     [05f0b203] (002/1353) Accurately ripped
+ 03     [04d1929c] (002/1353) Accurately ripped
+ 04     [6bcb303a] (003/1354) Accurately ripped
+ 05     [f2a73e56] (002/1347) Accurately ripped
+ 06     [66915a4e] (002/1349) Accurately ripped
+ 07     [b18aa1e5] (002/1352) Accurately ripped
+ 08     [9aa107f1] (002/1354) Accurately ripped
+ 09     [2c0b6688] (003/1347) Accurately ripped
+ 10     [1deb826e] (002/1349) Accurately ripped
+ 11     [a37ca028] (003/1349) Accurately ripped
+ 12     [f9b2d0f4] (004/1351) Accurately ripped
+ 13     [8a417400] (003/1370) Accurately ripped
+Offsetted by 646:
+ 01     [7905b0c2] (004/1352) Accurately ripped
+ 02     [cf8c3ecc] (003/1353) Accurately ripped
+ 03     [c2214d22] (003/1353) Accurately ripped
+ 04     [845822c4] (003/1354) Accurately ripped
+ 05     [b837a345] (003/1347) Accurately ripped
+ 06     [66ec7332] (003/1349) Accurately ripped
+ 07     [1a4cf4dd] (003/1352) Accurately ripped
+ 08     [1de83f2c] (003/1354) Accurately ripped
+ 09     [1f7222fa] (003/1347) Accurately ripped
+ 10     [baab60de] (003/1349) Accurately ripped
+ 11     [6d730a85] (002/1349) Accurately ripped
+ 12     [1b282d00] (002/1351) Accurately ripped
+ 13     [040ab43b] (002/1370) Accurately ripped
+Offsetted by 664:
+ 01     [e8a8b8f9] (200/1352) Accurately ripped
+ 02     [48aeb983] (200/1353) Accurately ripped
+ 03     [00206c03] (200/1353) Accurately ripped
+ 04     [aeab316d] (200/1354) Accurately ripped
+ 05     [2519a168] (200/1347) Accurately ripped
+ 06     [c8fde90f] (200/1349) Accurately ripped
+ 07     [4c0006d9] (200/1352) Accurately ripped
+ 08     [2c6a16b3] (200/1354) Accurately ripped
+ 09     [0c492844] (200/1347) Accurately ripped
+ 10     [f6e3d328] (200/1349) Accurately ripped
+ 11     [05f2248b] (200/1349) Accurately ripped
+ 12     [4d977b1e] (200/1351) Accurately ripped
+ 13     [7c16e3dd] (200/1370) Accurately ripped
+Offsetted by 670:
+ 01     [24afc87a] (002/1352) Accurately ripped
+ 02     [3048b480] (002/1353) Accurately ripped
+ 03     [c3bad568] (003/1353) Accurately ripped
+ 04     [7a83744d] (003/1354) Accurately ripped
+ 05     [18f58209] (003/1347) Accurately ripped
+ 06     [b2f84a12] (003/1349) Accurately ripped
+ 07     [697a7c7c] (002/1352) Accurately ripped
+ 08     [4d2559e5] (002/1354) Accurately ripped
+ 09     [a225b5f7] (002/1347) Accurately ripped
+ 10     [77c11459] (002/1349) Accurately ripped
+ 11     [f1f3d5db] (002/1349) Accurately ripped
+ 12     [7524a375] (002/1351) Accurately ripped
+ 13     [221e9210] (002/1370) Accurately ripped
+Offsetted by -1770:
+ 01     [d1d29935] (000/1352) No match
+ 02     [ac3a71d7] (000/1353) No match
+ 03     [057e554f] (000/1353) No match
+ 04     [07b99a0b] (000/1354) No match
+ 05     [b4664729] (000/1347) No match
+ 06     [6bb2a95a] (000/1349) No match
+ 07     [923445bd] (000/1352) No match
+ 08     [7c674459] (000/1354) No match
+ 09     [99466c7e] (000/1347) No match
+ 10     [ae42e11e] (000/1349) No match
+ 11     [835bb011] (000/1349) No match
+ 12     [174635d3] (000/1351) No match
+ 13     [070e8b41] (000/1370) No match (V2 was not tested)
+Offsetted by -1338:
+ 01     [7ae1868f] (000/1352) No match (V2 was not tested)
+ 02     [e58d2f76] (000/1353) No match
+ 03     [cffcce13] (000/1353) No match
+ 04     [e932abe9] (000/1354) No match (V2 was not tested)
+ 05     [96cc8542] (000/1347) No match
+ 06     [6a1a073a] (000/1349) No match
+ 07     [041a1556] (000/1352) No match
+ 08     [44de83ca] (000/1354) No match
+ 09     [80ee61ce] (000/1347) No match
+ 10     [da5302ba] (000/1349) No match
+ 11     [622692b9] (000/1349) No match
+ 12     [1bff84f8] (000/1351) No match
+ 13     [22780290] (000/1370) No match
+Offsetted by -1337:
+ 01     [ba939c72] (000/1352) No match
+ 02     [d63fb5fa] (000/1353) No match (V2 was not tested)
+ 03     [194ffeff] (000/1353) No match (V2 was not tested)
+ 04     [575f96f6] (000/1354) No match
+ 05     [60925d61] (000/1347) No match (V2 was not tested)
+ 06     [e9ef0db1] (000/1349) No match (V2 was not tested)
+ 07     [c2a203ff] (000/1352) No match (V2 was not tested)
+ 08     [ea4e680a] (000/1354) No match (V2 was not tested)
+ 09     [f111781a] (000/1347) No match (V2 was not tested)
+ 10     [1847034b] (000/1349) No match (V2 was not tested)
+ 11     [b9b0ccae] (000/1349) No match (V2 was not tested)
+ 12     [b723c3d7] (000/1351) No match (V2 was not tested)
+ 13     [b131642a] (000/1370) No match (V2 was not tested)
+Offsetted by -1325:
+ 01     [c3c92908] (000/1352) No match (V2 was not tested)
+ 02     [a87a750a] (000/1353) No match (V2 was not tested)
+ 03     [3e6285f0] (000/1353) No match (V2 was not tested)
+ 04     [d4211722] (000/1354) No match (V2 was not tested)
+ 05     [0ac61032] (000/1347) No match (V2 was not tested)
+ 06     [30824fa5] (000/1349) No match (V2 was not tested)
+ 07     [400574a3] (000/1352) No match (V2 was not tested)
+ 08     [eab1a8b4] (000/1354) No match (V2 was not tested)
+ 09     [9558aa1d] (000/1347) No match (V2 was not tested)
+ 10     [40e04eae] (003/1349) Accurately ripped
+ 11     [34957a81] (000/1349) No match (V2 was not tested)
+ 12     [3bca23ea] (000/1351) No match (V2 was not tested)
+ 13     [b3d509a3] (000/1370) No match (V2 was not tested)
+Offsetted by -1207:
+ 01     [1a9b5d01] (000/1352) No match
+ 02     [151ade8c] (000/1353) No match
+ 03     [2a70d795] (000/1353) No match (V2 was not tested)
+ 04     [93c5a839] (000/1354) No match (V2 was not tested)
+ 05     [04a8901b] (000/1347) No match (V2 was not tested)
+ 06     [0f4fb850] (000/1349) No match (V2 was not tested)
+ 07     [51a0f3e4] (000/1352) No match (V2 was not tested)
+ 08     [ea68baf0] (000/1354) No match (V2 was not tested)
+ 09     [b9ffa33b] (000/1347) No match (V2 was not tested)
+ 10     [153ac9de] (000/1349) No match (V2 was not tested)
+ 11     [596c069b] (000/1349) No match (V2 was not tested)
+ 12     [c8eb6b6b] (000/1351) No match (V2 was not tested)
+ 13     [89ba701a] (000/1370) No match (V2 was not tested)
+Offsetted by -1200:
+ 01     [38d3852a] (000/1352) No match (V2 was not tested)
+ 02     [230cf192] (000/1353) No match (V2 was not tested)
+ 03     [19ba13ef] (000/1353) No match (V2 was not tested)
+ 04     [fb13ab11] (000/1354) No match (V2 was not tested)
+ 05     [5257fd76] (000/1347) No match (V2 was not tested)
+ 06     [e2def971] (000/1349) No match (V2 was not tested)
+ 07     [cc0e3f42] (000/1352) No match (V2 was not tested)
+ 08     [e5c0a544] (000/1354) No match (V2 was not tested)
+ 09     [44977b59] (000/1347) No match (V2 was not tested)
+ 10     [859fb1d9] (000/1349) No match (V2 was not tested)
+ 11     [cc792448] (000/1349) No match (V2 was not tested)
+ 12     [6e4c5d6d] (000/1351) No match (V2 was not tested)
+ 13     [bf9ccb8e] (000/1370) No match (V2 was not tested)
+Offsetted by -772:
+ 01     [758600e6] (000/1352) No match (V2 was not tested)
+ 02     [c0d7435b] (000/1353) No match (V2 was not tested)
+ 03     [24a56247] (000/1353) No match (V2 was not tested)
+ 04     [d2b9f010] (000/1354) No match (V2 was not tested)
+ 05     [daf5670e] (000/1347) No match (V2 was not tested)
+ 06     [41072ed8] (000/1349) No match (V2 was not tested)
+ 07     [7e02dddd] (000/1352) No match (V2 was not tested)
+ 08     [316837c2] (000/1354) No match (V2 was not tested)
+ 09     [0dd97b1c] (000/1347) No match (V2 was not tested)
+ 10     [4517f762] (000/1349) No match (V2 was not tested)
+ 11     [216e330e] (000/1349) No match (V2 was not tested)
+ 12     [e1ba0688] (000/1351) No match (V2 was not tested)
+ 13     [9c28977c] (000/1370) No match (V2 was not tested)
+Offsetted by -724:
+ 01     [d5e15825] (000/1352) No match (V2 was not tested)
+ 02     [1ca88111] (000/1353) No match (V2 was not tested)
+ 03     [19ed1f32] (000/1353) No match (V2 was not tested)
+ 04     [049920b7] (000/1354) No match (V2 was not tested)
+ 05     [9a037602] (000/1347) No match (V2 was not tested)
+ 06     [d5bcad39] (000/1349) No match (V2 was not tested)
+ 07     [c3780670] (000/1352) No match (V2 was not tested)
+ 08     [a28196fe] (000/1354) No match (V2 was not tested)
+ 09     [f60fd721] (000/1347) No match (V2 was not tested)
+ 10     [39167004] (000/1349) No match (V2 was not tested)
+ 11     [e081f4a5] (000/1349) No match (V2 was not tested)
+ 12     [0ee111da] (000/1351) No match (V2 was not tested)
+ 13     [56f5e1c5] (000/1370) No match (V2 was not tested)
+Offsetted by -700:
+ 01     [39011d67] (000/1352) No match (V2 was not tested)
+ 02     [bb6f9b13] (000/1353) No match (V2 was not tested)
+ 03     [06a0e3ee] (000/1353) No match (V2 was not tested)
+ 04     [2146a8f5] (000/1354) No match (V2 was not tested)
+ 05     [a4a1e587] (000/1347) No match (V2 was not tested)
+ 06     [5f182d1e] (000/1349) No match (V2 was not tested)
+ 07     [3c98c40e] (000/1352) No match (V2 was not tested)
+ 08     [d5ad4f33] (000/1354) No match (V2 was not tested)
+ 09     [b3878660] (000/1347) No match (V2 was not tested)
+ 10     [eb7c31fd] (000/1349) No match (V2 was not tested)
+ 11     [e509162a] (000/1349) No match (V2 was not tested)
+ 12     [d559c15f] (000/1351) No match (V2 was not tested)
+ 13     [f91d2214] (000/1370) No match (V2 was not tested)
+Offsetted by -697:
+ 01     [08fc67a6] (000/1352) No match
+ 02     [33dadb8d] (000/1353) No match
+ 03     [f3a9781e] (000/1353) No match
+ 04     [a252424f] (000/1354) No match
+ 05     [e1e65b52] (000/1347) No match
+ 06     [8ec19b38] (000/1349) No match
+ 07     [757af97e] (000/1352) No match
+ 08     [65b37f15] (000/1354) No match
+ 09     [1e021f5e] (000/1347) No match (V2 was not tested)
+ 10     [a33a340e] (000/1349) No match
+ 11     [4c1da174] (000/1349) No match
+ 12     [a7306f1e] (000/1351) No match
+ 13     [081c734b] (000/1370) No match
+Offsetted by -694:
+ 01     [2c686b20] (000/1352) No match (V2 was not tested)
+ 02     [1321b4ec] (000/1353) No match (V2 was not tested)
+ 03     [3255be0b] (000/1353) No match (V2 was not tested)
+ 04     [525dbd28] (000/1354) No match (V2 was not tested)
+ 05     [211554a9] (000/1347) No match (V2 was not tested)
+ 06     [be7d0942] (000/1349) No match (V2 was not tested)
+ 07     [91935c31] (000/1352) No match (V2 was not tested)
+ 08     [fbe58ecc] (000/1354) No match (V2 was not tested)
+ 09     [9d27fa48] (000/1347) No match (V2 was not tested)
+ 10     [cdc8523f] (000/1349) No match (V2 was not tested)
+ 11     [168cc7c6] (000/1349) No match (V2 was not tested)
+ 12     [f3f8aed7] (000/1351) No match (V2 was not tested)
+ 13     [2ac06eb7] (000/1370) No match (V2 was not tested)
+Offsetted by -673:
+ 01     [ba2f1ead] (000/1352) No match (V2 was not tested)
+ 02     [695fc580] (000/1353) No match (V2 was not tested)
+ 03     [97e35c2e] (000/1353) No match (V2 was not tested)
+ 04     [b0cc2cae] (000/1354) No match (V2 was not tested)
+ 05     [deb06353] (000/1347) No match (V2 was not tested)
+ 06     [f89ef782] (000/1349) No match (V2 was not tested)
+ 07     [51320a51] (000/1352) No match (V2 was not tested)
+ 08     [e926b2b3] (000/1354) No match (V2 was not tested)
+ 09     [114d6eda] (000/1347) No match (V2 was not tested)
+ 10     [3315b6b3] (000/1349) No match (V2 was not tested)
+ 11     [dba5f026] (000/1349) No match (V2 was not tested)
+ 12     [2cfb031c] (000/1351) No match (V2 was not tested)
+ 13     [888bcc11] (000/1370) No match (V2 was not tested)
+Offsetted by -664:
+ 01     [16dd44ad] (000/1352) No match (V2 was not tested)
+ 02     [5d1dcede] (000/1353) No match (V2 was not tested)
+ 03     [50402d50] (000/1353) No match (V2 was not tested)
+ 04     [5a49c9a0] (000/1354) No match (V2 was not tested)
+ 05     [820d8cc3] (000/1347) No match (V2 was not tested)
+ 06     [73d52fe8] (000/1349) No match (V2 was not tested)
+ 07     [3612dc96] (000/1352) No match (V2 was not tested)
+ 08     [366318f7] (000/1354) No match (V2 was not tested)
+ 09     [cb7c42e0] (000/1347) No match (V2 was not tested)
+ 10     [e2119946] (000/1349) No match (V2 was not tested)
+ 11     [da7364be] (000/1349) No match (V2 was not tested)
+ 12     [0c6bbaeb] (000/1351) No match (V2 was not tested)
+ 13     [0086dbc5] (000/1370) No match (V2 was not tested)
+Offsetted by -384:
+ 01     [0c40c8c2] (000/1352) No match
+ 02     [d55bb7cc] (000/1353) No match
+ 03     [195d6fb8] (000/1353) No match
+ 04     [58afa24f] (000/1354) No match
+ 05     [603df93e] (000/1347) No match
+ 06     [72a30a87] (000/1349) No match
+ 07     [f69900d9] (000/1352) No match
+ 08     [f7cb20ee] (000/1354) No match
+ 09     [913d5eda] (000/1347) No match
+ 10     [e26ac244] (000/1349) No match
+ 11     [3dfb3c0e] (000/1349) No match
+ 12     [ad7babe3] (000/1351) No match (V2 was not tested)
+ 13     [7b2b5b9b] (000/1370) No match
+Offsetted by -362:
+ 01     [83dda6b7] (000/1352) No match
+ 02     [312d0114] (000/1353) No match
+ 03     [83dca1c8] (000/1353) No match
+ 04     [5c4c890c] (000/1354) No match
+ 05     [b218e56a] (000/1347) No match
+ 06     [03715759] (000/1349) No match
+ 07     [8e7c560d] (000/1352) No match
+ 08     [369a62f7] (000/1354) No match
+ 09     [85aeadef] (000/1347) No match
+ 10     [9631f81b] (000/1349) No match
+ 11     [287d2920] (000/1349) No match
+ 12     [91a95509] (000/1351) No match
+ 13     [70d5b28e] (000/1370) No match (V2 was not tested)
+Offsetted by -360:
+ 01     [1faa0518] (000/1352) No match
+ 02     [874e5cfc] (000/1353) No match
+ 03     [0513906d] (000/1353) No match
+ 04     [1e952b5c] (000/1354) No match
+ 05     [0cb7b70e] (000/1347) No match
+ 06     [b526a687] (000/1349) No match
+ 07     [feb8ca3b] (000/1352) No match
+ 08     [0198ab01] (000/1354) No match
+ 09     [e1139538] (000/1347) No match (V2 was not tested)
+ 10     [d445225f] (000/1349) No match
+ 11     [bcc873c2] (000/1349) No match
+ 12     [111f38f4] (000/1351) No match
+ 13     [2c27a778] (000/1370) No match
+Offsetted by -358:
+ 01     [74d53f87] (000/1352) No match
+ 02     [915648a4] (000/1353) No match
+ 03     [2104e722] (000/1353) No match
+ 04     [be708828] (000/1354) No match
+ 05     [977f6998] (000/1347) No match
+ 06     [676af651] (000/1349) No match
+ 07     [56cb83a2] (000/1352) No match (V2 was not tested)
+ 08     [2799a253] (000/1354) No match
+ 09     [b441b952] (000/1347) No match
+ 10     [c5c73025] (000/1349) No match (V2 was not tested)
+ 11     [8bc31246] (000/1349) No match
+ 12     [dbcb08e4] (000/1351) No match
+ 13     [09f5a823] (000/1370) No match
+More than 16 offsets match!
+
+Track Peak [ CRC32  ] [W/O NULL] [  LOG   ]
+ --   97.2 [413AC275] [AD2CB741]           
+ 01   97.2 [50056A78] [ABC3FECB]   CRC32   
+ 02   87.2 [66CAEACE] [DB6C7C80]   CRC32   
+ 03   95.3 [4CCDC1A4] [3CC30BC2]   CRC32   
+ 04   97.2 [A1E1CFAD] [9309A1B6]   CRC32   
+ 05   93.6 [DC39C5D8] [18B72D1D]   CRC32   
+ 06   93.8 [A90F8544] [1C7429CD]   CRC32   
+ 07   47.9 [63156773] [EB2A56F8]   CRC32   
+ 08   57.6 [9206D550] [4216E8A9]   CRC32   
+ 09   97.2 [DA6C5914] [8BDA8205]   CRC32   
+ 10   97.2 [78F96931] [A6CD6C7E]   CRC32   
+ 11   93.5 [5C02F5CB] [B44D98DC]   CRC32   
+ 12   97.2 [BE76A901] [4158B987]   CRC32   
+ 13   26.9 [66EFC12D] [F53CC419]   CRC32   

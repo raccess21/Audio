@@ -57,10 +57,7 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
 
     # File location edit for server files 
     for location_tag in root.xpath("//default:location", namespaces=ns):
-        location_tag.text = location_tag.text.replace(
-                "file:///C:/rahul/Audio/files/", 
-                "https://raw.githubusercontent.com/raccess21/Audio/main/files/"
-            )
+        location_tag.text = "https://raw.githubusercontent.com/raccess21/Audio/main/" + location_tag.text
 
     # Write the modified XML to a new file
     file_name = f"{file_name.split('.')[0]}_web.xspf"
@@ -72,9 +69,10 @@ def create_xml():
     ...
     
 def main():
+    file_name = "Pink Floyd - Dark Side of the Moon MP3.xspf"
     # name_clean()
-    # xml_clean(file_name="all_songs.xspf", playlist_title="All Songs")
-    create_xml()
+    xml_clean(file_name, playlist_title=file_name)
+    # create_xml()
 
 if __name__ == "__main__":
     main()
