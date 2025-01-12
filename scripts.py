@@ -70,8 +70,9 @@ def create_xml():
     
 def main():
     file_name = "The Wall - Pink Floyd (flac).xspf"
+    playlist_title = file_name.split('.xspf')[0].strip()
     # name_clean()
-    xml_clean(file_name, playlist_title=file_name)
+    xml_clean(file_name, playlist_title)
     # create_xml()
 
 if __name__ == "__main__":
