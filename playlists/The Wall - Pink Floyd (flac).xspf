@@ -3,7 +3,7 @@
   <title>The Wall - Pink Floyd (flac)</title>
   <trackList>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/01.%20In%20The%20Flesh_.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/01.%20In%20The%20Flesh_.flac</location>
       <title>In The Flesh?</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -14,7 +14,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/02.%20The%20Thin%20Ice.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/02.%20The%20Thin%20Ice.flac</location>
       <title>The Thin Ice</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -25,7 +25,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/03.%20Another%20Brick%20In%20The%20Wall%20%28Part%201%29.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/03.%20Another%20Brick%20In%20The%20Wall%20%28Part%201%29.flac</location>
       <title>Another Brick In The Wall (Part 1)</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -36,7 +36,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/04.%20The%20Happiest%20Days%20Of%20Our%20Lives.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/04.%20The%20Happiest%20Days%20Of%20Our%20Lives.flac</location>
       <title>The Happiest Days Of Our Lives</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -47,7 +47,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/05.%20Another%20Brick%20In%20The%20Wall%20%28Part%202%29.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/05.%20Another%20Brick%20In%20The%20Wall%20%28Part%202%29.flac</location>
       <title>Another Brick In The Wall (Part 2)</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -58,7 +58,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/06.%20Mother.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/06.%20Mother.flac</location>
       <title>Mother</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -69,7 +69,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/07.%20Goodbye%20Blue%20Sky.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/07.%20Goodbye%20Blue%20Sky.flac</location>
       <title>Goodbye Blue Sky</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -80,7 +80,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/08.%20Empty%20Spaces.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/08.%20Empty%20Spaces.flac</location>
       <title>Empty Spaces</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -91,7 +91,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/09.%20Young%20Lust.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/09.%20Young%20Lust.flac</location>
       <title>Young Lust</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -102,7 +102,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/10.%20One%20Of%20My%20Turns.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/10.%20One%20Of%20My%20Turns.flac</location>
       <title>One Of My Turns</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -113,7 +113,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/11.%20Don%27t%20Leave%20Me%20Now.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/11.%20Don%27t%20Leave%20Me%20Now.flac</location>
       <title>Don't Leave Me Now</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -124,7 +124,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/12.%20Another%20Brick%20In%20The%20Wall%20%28Part%203%29.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/12.%20Another%20Brick%20In%20The%20Wall%20%28Part%203%29.flac</location>
       <title>Another Brick In The Wall (Part 3)</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -135,7 +135,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/13.%20Goodbye%20Cruel%20World.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/13.%20Goodbye%20Cruel%20World.flac</location>
       <title>Goodbye Cruel World</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (1)</album>
@@ -146,19 +146,19 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/Pink%20Floyd%20-%20The%20Wall%20%281%29%20%28UK%20-%20EMI%2050999%20511267%202%208%20-%202007%29.log</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/Pink%20Floyd%20-%20The%20Wall%20%281%29%20%28UK%20-%20EMI%2050999%20511267%202%208%20-%202007%29.log</location>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>13</vlc:id>
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/Pink%20Floyd%20-%20The%20Wall%20%281%29.accurip</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/Pink%20Floyd%20-%20The%20Wall%20%281%29.accurip</location>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>14</vlc:id>
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/01.%20Hey%20You.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/01.%20Hey%20You.flac</location>
       <title>Hey You</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -169,7 +169,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/02.%20Is%20There%20Anybody%20Out%20There.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/02.%20Is%20There%20Anybody%20Out%20There.flac</location>
       <title>Is There Anybody Out There</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -180,7 +180,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/03.%20Nobody%20Home.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/03.%20Nobody%20Home.flac</location>
       <title>Nobody Home</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -191,7 +191,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/04.%20Vera.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/04.%20Vera.flac</location>
       <title>Vera</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -202,7 +202,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/05.%20Bring%20The%20Boys%20Back%20Home.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/05.%20Bring%20The%20Boys%20Back%20Home.flac</location>
       <title>Bring The Boys Back Home</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -213,7 +213,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/06.%20Comfortably%20Numb.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/06.%20Comfortably%20Numb.flac</location>
       <title>Comfortably Numb</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -224,7 +224,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/07.%20The%20Show%20Must%20Go%20On.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/07.%20The%20Show%20Must%20Go%20On.flac</location>
       <title>The Show Must Go On</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -235,7 +235,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/08.%20In%20The%20Flesh.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/08.%20In%20The%20Flesh.flac</location>
       <title>In The Flesh</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -246,7 +246,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/09.%20Run%20Like%20Hell.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/09.%20Run%20Like%20Hell.flac</location>
       <title>Run Like Hell</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -257,7 +257,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/10.%20Waiting%20For%20The%20Worms.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/10.%20Waiting%20For%20The%20Worms.flac</location>
       <title>Waiting For The Worms</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -268,7 +268,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/11.%20Stop.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/11.%20Stop.flac</location>
       <title>Stop</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -279,7 +279,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/12.%20The%20Trial.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/12.%20The%20Trial.flac</location>
       <title>The Trial</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -290,7 +290,7 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/13.%20Outside%20The%20Wall.flac</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/13.%20Outside%20The%20Wall.flac</location>
       <title>Outside The Wall</title>
       <creator>Pink Floyd</creator>
       <album>The Wall (2)</album>
@@ -301,13 +301,13 @@
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/Pink%20Floyd%20-%20The%20Wall%20%282%29%20%28UK%20-%20EMI%2050999%20511267%202%208%20-%202007%29.log</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/Pink%20Floyd%20-%20The%20Wall%20%282%29%20%28UK%20-%20EMI%2050999%20511267%202%208%20-%202007%29.log</location>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>28</vlc:id>
       </extension>
     </track>
     <track>
-      <location>lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/Pink%20Floyd%20-%20The%20Wall%20%282%29.accurip</location>
+      <location>../lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%202/Pink%20Floyd%20-%20The%20Wall%20%282%29.accurip</location>
       <extension application="http://www.videolan.org/vlc/playlist/0">
         <vlc:id>29</vlc:id>
       </extension>

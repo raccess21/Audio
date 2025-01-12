@@ -25,7 +25,7 @@ def name_clean():
 
 def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
     parser = etree.XMLParser(remove_blank_text=True)
-    tree = etree.parse(file_name, parser)
+    tree = etree.parse(f"playlists temp/{file_name}", parser)
     root = tree.getroot()
     
     # Define namespaces
@@ -49,11 +49,11 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
 
     # File location edit for local files 
     for location_tag in root.xpath("//default:location", namespaces=ns):
-        location_tag.text = location_tag.text.replace("file:///C:/rahul/Audio/", "")
+        location_tag.text = location_tag.text.replace("file:///C:/rahul/Audio/", "../")
 
     title_tag.text = playlist_title
-    tree.write(file_name, pretty_print=True, xml_declaration=True, encoding="UTF-8")
-    print(f"Cleaned XSPF written to {file_name}")
+    tree.write(f"playlists/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
+    print(f"{file_name} XSPF Cleaned and written")
 
 
     # File location edit for server files 
@@ -63,8 +63,8 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
     # Write the modified XML to a new file
     title_tag.text = playlist_title + " Web"
     file_name = f"{file_name.split('.')[0]}_web.xspf"
-    tree.write(f"web playlists/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
-    print(f"Cleaned web XSPF written to {file_name}")
+    tree.write(f"playlists web/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
+    print(f"{file_name} XSPF Cleaned and written web")
 
 
 def create_xml():
