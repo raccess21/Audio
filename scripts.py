@@ -1,7 +1,7 @@
 import os
 import json
-import chardet
 from lxml import etree
+import eyed3
 
 folders = ["files"] 
 
@@ -85,6 +85,16 @@ def xml_clean_vlc(file_name = "all.xspf", playlist_title = "Playlist"):
     print(f"{file_name} XSPF Cleaned and written web")
 
 
+def embed_lyrics(lyrics, file_name):
+    audiofile = eyed3.load(file_name)
+    try:
+        audiofile.tag
+    except AttributeError:
+        audiofile.initTag()
+    # audiofile.tag.lyrics.set(lyrics)
+    # audiofile.tag.save()
+    print(audiofile.tag)
+
 def create_xml():
     ...
     
@@ -101,6 +111,8 @@ def main():
         xml_clean_vlc(file_name, playlist_title)
         # create_xml()
         # ...
+        # embed_lyrics("[00:43.22]lala", "Asi_Gabru_Punjabi_-_Amrinder_Gill.m4a")
+
     # remove_tags(tree=1, tags=["duration", "extension"])
 
 if __name__ == "__main__":
