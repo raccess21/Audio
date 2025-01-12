@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
-  <title>The Wall - Pink Floyd (flac)</title>
+  <title>The Wall - Pink Floyd (flac) Web</title>
   <trackList>
     <track>
       <location>https://raw.githubusercontent.com/raccess21/Audio/main/lossless/Pink%20Floyd%20-%20The%20Wall%20%282007%20Remaster%29%20%5BFLAC%5D%2088/CD%201/01.%20In%20The%20Flesh_.flac</location>

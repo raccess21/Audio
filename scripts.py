@@ -34,7 +34,7 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
         'vlc': "http://www.videolan.org/vlc/playlist/ns/0/"
     }
     
-    root.xpath("//default:title", namespaces=ns)[0].text = playlist_title
+    title_tag = root.xpath("//default:title", namespaces=ns)[0]
 
     # remove unnecessary tags from track data
     for track in root.xpath("//default:track", namespaces=ns):
@@ -51,6 +51,7 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
     for location_tag in root.xpath("//default:location", namespaces=ns):
         location_tag.text = location_tag.text.replace("file:///C:/rahul/Audio/", "")
 
+    title_tag.text = playlist_title
     tree.write(file_name, pretty_print=True, xml_declaration=True, encoding="UTF-8")
     print(f"Cleaned XSPF written to {file_name}")
 
@@ -60,6 +61,7 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
         location_tag.text = "https://raw.githubusercontent.com/raccess21/Audio/main/" + location_tag.text
 
     # Write the modified XML to a new file
+    title_tag.text = playlist_title + " Web"
     file_name = f"{file_name.split('.')[0]}_web.xspf"
     tree.write(f"web playlists/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
     print(f"Cleaned web XSPF written to {file_name}")
@@ -69,11 +71,17 @@ def create_xml():
     ...
     
 def main():
-    file_name = "The Wall - Pink Floyd (flac).xspf"
-    playlist_title = file_name.split('.xspf')[0].strip()
-    # name_clean()
-    xml_clean(file_name, playlist_title)
-    # create_xml()
+    file_names = [
+        "The Wall - Pink Floyd (flac).xspf",
+        "all_songs.xspf",
+        "Dark Side of the Moon - Pink Floyd (MP3).xspf"
+    ]
+
+    for file_name in file_names:
+        playlist_title = file_name.split('.xspf')[0].strip()
+        # name_clean()
+        xml_clean(file_name, playlist_title)
+        # create_xml()
 
 if __name__ == "__main__":
     main()
