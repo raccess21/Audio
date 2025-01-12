@@ -55,26 +55,33 @@ def xml_clean_vlc(file_name = "all.xspf", playlist_title = "Playlist"):
     bad_tags = ["image", "annotation", "extension"]    
     remove_tags(tree, bad_tags, ns)
 
-    # File location edit for local files hard path 
-    tree.write(f"playlists temp2/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
-
+    songs = []
     # File location edit for local files relative paths
     for location_tag in root.xpath("//default:location", namespaces=ns):
         location_tag.text = location_tag.text.replace("file:///C:/rahul/Audio/", "../")
-
+        songs.append(location_tag.text)
+           
     title_tag.text = playlist_title
     tree.write(f"playlists/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
+    
+    with open(f"playlists/{file_name.split('.')[0]}.m3u", 'w') as fo:
+        fo.write("\n".join(songs))
+        
     print(f"{file_name} XSPF Cleaned and written")
 
-
+    songs = []
     # File location edit for server files 
     for location_tag in root.xpath("//default:location", namespaces=ns):
         location_tag.text = location_tag.text.replace("../", "https://raw.githubusercontent.com/raccess21/Audio/main/")
-
+        songs.append(location_tag.text)
+        
     # Write the modified XML to a new file
     title_tag.text = playlist_title + " Web"
     file_name = f"{file_name.split('.')[0]}_web.xspf"
     tree.write(f"playlists web/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
+    
+    with open(f"playlists web/{file_name.split('.')[0]}.m3u", 'w') as fo:
+        fo.write("\n".join(songs))
     print(f"{file_name} XSPF Cleaned and written web")
 
 
