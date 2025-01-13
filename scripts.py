@@ -135,7 +135,7 @@ def main():
         # create_xml()
         # ...
         # embed_lyrics("[00:43.22]lala", "Asi_Gabru_Punjabi_-_Amrinder_Gill.m4a")
-        rename_files_recursively(base_dir="Paudio")
+        rename_files_recursively(base_dir="")
     # remove_tags(tree=1, tags=["duration", "extension"])
 
 if __name__ == "__main__":
