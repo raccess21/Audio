@@ -119,13 +119,6 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
     print(f"{file_name} Web XSPF Cleaned and written")
 
 
-def get_lyrics(name, duration=0):
-    lyrics = syncedlyrics.search(name)
-    pyperclip.copy(lyrics)
-
-    # DURATION edit code here
-    return lyrics
-    
 def main():
     for file_name in os.listdir("playlists temp"):
         playlist_title = file_name.split('.xspf')[0].strip()
