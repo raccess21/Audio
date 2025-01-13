@@ -46,6 +46,27 @@ def xml_clean_vlc(root, ns):
         location_tag.text = location_tag.text.replace("file:///C:/rahul/Audio/", "../")
            
 
+from lxml import etree
+
+def xspf_to_m3u(root, ns, playlist_name="Playlist"):
+    m3u = f"#EXTM3U\n#PLAYLIST:{playlist_name}\n"
+    
+    # Iterate through <track> elements
+    for track in root.xpath("//default:track", namespaces=ns):
+        location = track.find("default:location", namespaces=ns)
+        title = track.find("default:title", namespaces=ns)
+        duration = track.find("default:duration", namespaces=ns)
+
+        if location is not None:
+            # Write the extended info line if available
+            if title is not None or duration is not None:
+                duration_ms = int(duration.text) if duration is not None else -1
+                m3u += f"#EXTINF:{duration_ms // 1000},{title.text if title is not None else 'Unknown'}\n"
+
+            # Write the file location
+            m3u += f"{location.text}\n"
+    return m3u
+
 
 def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
     # Define namespaces
@@ -61,28 +82,28 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
     
     if root.xpath("//default:extension", namespaces=ns):
         xml_clean_vlc(root, ns)
-           
+
     title_tag.text = playlist_title
     tree.write(f"playlists/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
     
+    #writing m3u local files
+    with open(f"playlists/{file_name.split('.')[0]}.m3u", 'w') as fo:
+        fo.write(xspf_to_m3u(root, ns, playlist_title))
 
-    songs = []
+    print(f"{file_name} Local XSPF and m3u Cleaned and written")
+
     # File location edit for server files 
     for location_tag in root.xpath("//default:location", namespaces=ns):
-        songs.append(location_tag.text)
         location_tag.text = location_tag.text.replace("../", "https://raw.githubusercontent.com/raccess21/Audio/main/")
         
-    # Write the modified XML to a new file
+    # Write web files
     title_tag.text = playlist_title + " Web"
     tree.write(f"playlists web/{file_name.split('.')[0]} web.xspf", pretty_print=True, xml_declaration=True, encoding="UTF-8")
-    print(f"{file_name} Web and local XSPF Cleaned and written")
     
-    with open(f"playlists/{file_name.split('.')[0]}.m3u", 'w') as fo:
-        fo.write("\n".join(songs))
-    
-    print(f"{file_name} Local m3u cleaned and written.")
+    with open(f"playlists web/{file_name.split('.')[0]} web.m3u", 'w') as fo:
+        fo.write(xspf_to_m3u(root, ns, playlist_title + " Web"))
+    print(f"{file_name} Web XSPF and m3u Cleaned and written")
 
-#def xsfp_process(file_name = "all.xspf", playlist_title = "Playlist"):
 
 def embed_lyrics(lyrics, file_name):
     audiofile = eyed3.load(file_name)
