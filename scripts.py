@@ -74,7 +74,7 @@ def xspf_to_m3u(root, ns, playlist_name="Playlist"):
 
             # Write the file location
             m3u += f"{location.text}\n"
-    return m3u
+    return m3u.replace("%20", " ")
 
 
 def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
