@@ -2,6 +2,8 @@ import os
 import json
 from lxml import etree
 import subprocess
+import syncedlyrics
+import pyperclip
 
 folders = ["files"] 
 
@@ -117,6 +119,12 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
     print(f"{file_name} Web XSPF Cleaned and written")
 
 
+def get_lyrics(name, duration=0):
+    lyrics = syncedlyrics.search(name)
+    pyperclip.copy(lyrics)
+
+    # DURATION edit code here
+    return lyrics
     
 def main():
     for file_name in os.listdir("playlists temp"):
