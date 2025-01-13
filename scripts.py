@@ -7,6 +7,8 @@ folders = ["files"]
 
 
 def rename_files_recursively(base_dir):
+    skip_extensions = [".xspf", ".m3u", ".json"]
+    
     """
     Recursively rename files in a directory by replacing spaces with underscores.
     Use `git mv` to stage the renames in Git.
@@ -16,6 +18,9 @@ def rename_files_recursively(base_dir):
             old_path = os.path.join(root, file)
             new_filename = file.replace(" ", "_")
             new_path = os.path.join(root, new_filename)
+
+            if any(file.endswith(ext) for ext in skip_extensions):
+                continue
 
             # Rename the file if it contains spaces
             if old_path != new_path:
