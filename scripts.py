@@ -1,26 +1,31 @@
 import os
 import json
 from lxml import etree
-import eyed3
+import subprocess
 
 folders = ["files"] 
 
 
-# clean audio file names 
-def name_clean():
-    names = []
-    for folder in folders:
-        for file in os.listdir(folder):
-            file = os.path.join(folder, file)
-            new_name = file.replace(" ", "_")
-            try:
-                os.rename(file, new_name)
-            except:
-                ...
-            names.append(new_name)
-    
-    with open("song_list.json", "w") as f:
-        f.write(json.dumps(names, indent=2))
+def rename_files_recursively(base_dir):
+    """
+    Recursively rename files in a directory by replacing spaces with underscores.
+    Use `git mv` to stage the renames in Git.
+    """
+    for root, _, files in os.walk(base_dir):
+        for file in files:
+            old_path = os.path.join(root, file)
+            new_filename = file.replace(" ", "_")
+            new_path = os.path.join(root, new_filename)
+
+            # Rename the file if it contains spaces
+            if old_path != new_path:
+                os.rename(old_path, new_path)
+                try:
+                    # Stage the rename in Git
+                    subprocess.run(["git", "mv", old_path, new_path], check=True)
+                    print(f"Renamed and staged: {old_path} -> {new_path}")
+                except subprocess.CalledProcessError as e:
+                    print(f"Error staging {old_path} -> {new_path} in Git: {e}")
 
 
 def remove_tags(root, tags, ns):
@@ -122,11 +127,11 @@ def main():
     for file_name in os.listdir("playlists temp"):
         playlist_title = file_name.split('.xspf')[0].strip()
         # name_clean()
-        xml_clean(file_name, playlist_title)
+        # xml_clean(file_name, playlist_title)
         # create_xml()
         # ...
         # embed_lyrics("[00:43.22]lala", "Asi_Gabru_Punjabi_-_Amrinder_Gill.m4a")
-
+        rename_files_recursively(base_dir="C:/rahul/Audio/Paudio")
     # remove_tags(tree=1, tags=["duration", "extension"])
 
 if __name__ == "__main__":
