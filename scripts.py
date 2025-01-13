@@ -92,8 +92,10 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
     if root.xpath("//default:extension", namespaces=ns):
         xml_clean_vlc(root, ns)
 
-    title_tag.text = playlist_title
-    tree.write(f"playlists/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
+    
+    # local xspf not needed
+    # title_tag.text = playlist_title
+    # tree.write(f"playlists/{file_name}", pretty_print=True, xml_declaration=True, encoding="UTF-8")
     
     #writing m3u local files
     with open(f"playlists/{file_name.split('.')[0]}.m3u", 'w') as fo:
@@ -109,33 +111,22 @@ def xml_clean(file_name = "all.xspf", playlist_title = "Playlist"):
     title_tag.text = playlist_title + " Web"
     tree.write(f"playlists web/{file_name.split('.')[0]} web.xspf", pretty_print=True, xml_declaration=True, encoding="UTF-8")
     
-    with open(f"playlists web/{file_name.split('.')[0]} web.m3u", 'w') as fo:
-        fo.write(xspf_to_m3u(root, ns, playlist_title + " Web"))
-    print(f"{file_name} Web XSPF and m3u Cleaned and written")
+    # web m3u not needed 
+    # with open(f"playlists web/{file_name.split('.')[0]} web.m3u", 'w') as fo:
+    #     fo.write(xspf_to_m3u(root, ns, playlist_title + " Web"))
+    print(f"{file_name} Web XSPF Cleaned and written")
 
 
-def embed_lyrics(lyrics, file_name):
-    audiofile = eyed3.load(file_name)
-    try:
-        audiofile.tag
-    except AttributeError:
-        audiofile.initTag()
-    # audiofile.tag.lyrics.set(lyrics)
-    # audiofile.tag.save()
-    print(audiofile.tag)
-
-def create_xml():
-    ...
     
 def main():
     for file_name in os.listdir("playlists temp"):
         playlist_title = file_name.split('.xspf')[0].strip()
         # name_clean()
-        # xml_clean(file_name, playlist_title)
+        xml_clean(file_name, playlist_title)
         # create_xml()
         # ...
         # embed_lyrics("[00:43.22]lala", "Asi_Gabru_Punjabi_-_Amrinder_Gill.m4a")
-        rename_files_recursively(base_dir="")
+        # rename_files_recursively(base_dir="")
     # remove_tags(tree=1, tags=["duration", "extension"])
 
 if __name__ == "__main__":
