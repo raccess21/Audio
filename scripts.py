@@ -19,7 +19,6 @@ def rename_files_recursively(base_dir):
 
             # Rename the file if it contains spaces
             if old_path != new_path:
-                os.rename(old_path, new_path)
                 try:
                     # Stage the rename in Git
                     subprocess.run(["git", "mv", old_path, new_path], check=True)
@@ -131,7 +130,7 @@ def main():
         # create_xml()
         # ...
         # embed_lyrics("[00:43.22]lala", "Asi_Gabru_Punjabi_-_Amrinder_Gill.m4a")
-        rename_files_recursively(base_dir="C:/rahul/Audio/Paudio")
+        rename_files_recursively(base_dir="Paudio")
     # remove_tags(tree=1, tags=["duration", "extension"])
 
 if __name__ == "__main__":
