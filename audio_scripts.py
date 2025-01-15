@@ -76,11 +76,10 @@ def xspf_to_m3u(root, ns, playlist_name="Playlist"):
 
             # Write the file location
             m3u += f"{location.text}\n"
-    return m3u.replace("%20", " ")
+    return m3u
 
 
-# web playlist in xspf for vlc -> better naming in interface
-# local playlist in m3u for musicbee/musicolet, don't support xspf
+# local and web playlist in m3u for musicbee/musicolet don't support xspf
 def playlists_from_xspf(file_name = "all.xspf", playlist_title = "Playlist"):
     # Define namespaces
     ns = {
@@ -110,10 +109,10 @@ def playlists_from_xspf(file_name = "all.xspf", playlist_title = "Playlist"):
     for location_tag in root.xpath("//default:location", namespaces=ns):
         location_tag.text = "https://raw.githubusercontent.com/raccess21/Audio/main/" + location_tag.text.split("../")[1]
         
-    # Write web files
-    title_tag.text = playlist_title + " Web"
-    tree.write(f"playlists web/{file_name.split('.')[0]} web.xspf", pretty_print=True, xml_declaration=True, encoding="UTF-8")
-    print(f"{file_name} Web XSPF Cleaned and written")
+    #writing m3u local files
+    with open(f"playlists web/{file_name.split('.')[0]} web.m3u", 'w') as fo:
+        fo.write(xspf_to_m3u(root, ns, playlist_title))
+        print(f"{file_name} Local m3u Cleaned and written")
 
 
 def main():

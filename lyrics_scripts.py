@@ -97,5 +97,5 @@ if __name__ == "__main__":
     ]
 
     # get_lyrics("You_Belong_With_Me_-_Taylor_Swift.m4a")
-    # all_files_in()
-    all_tags("lossy/Co2.mp3")
+    all_files_in("lossless/Indian Ocean - Black Friday [2004-FLAC] {Times Music - TDIFI 027V}")
+    # all_tags("lossy/Co2.mp3")
