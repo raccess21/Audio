@@ -9,11 +9,10 @@ import chardet
 
 # extensions supported
 
-music_extensions = ['.flac', '.mp3', ".m4a"]
-
+#music_extensions = ['.flac', '.mp3', ".m4a"]
+music_extensions = ['flac', 'mp3', "m4a"]
 def search_lyrics(song_name, duration=0):
     lyrics = syncedlyrics.search(song_name)
-    # pyperclip.copy(lyrics)
     return lyrics
 
 def get_lyrics(file):
@@ -53,29 +52,34 @@ def write_lrc(filename, lyrics = ""):
 def remove_extension(filename, pattern=None):
     pattern = pattern or "|".join(re.escape(ext) for ext in music_extensions)
     return re.sub(pattern, "", filename)
+    
+# saves lyrics to file 
+# return 1 if successfully fetches and save lyrics else return 0
+def save_lyrics(file_counter, file_path):
+    # pattern for extension removal
+    pattern = "|".join(re.escape(f".{ext}") for ext in music_extensions)
+
+    if file_path.split('.')[-1].lower() in music_extensions:
+        filename = remove_extension(file_path, pattern) + ".lrc"        
+        # if lrc file does not exist search and write lyrics
+        if not os.path.exists(filename):
+            lyrics = get_lyrics(file_path)
+            if lyrics:
+                write_lrc(filename, lyrics)
+                print(f"{file_counter}. {filename} written")
+                return 1
+            else:
+                write_lrc(filename, "Not Found")
+    return 0
 
 # walk all files in provided base directory
-def all_files_in(base_dir="./"):
-    # pattern for extension removal
-    pattern = "|".join(re.escape(ext) for ext in music_extensions)
-
-    file_counter = 0                                                       #file counter
+def all_files_in(base_dir="./", next_function=save_lyrics):
+    file_counter = 1                                                       #file counter
     for root, _, files in os.walk(base_dir):
         for file in files:
             file_path = os.path.join(root, file).replace("\\", "/")
-            if os.path.splitext(file)[1].lower() in music_extensions:
-                filename = remove_extension(file_path, pattern) + ".lrc"
-                
-                # if lrc file does not exist search and write lyrics
-                if not os.path.exists(filename):
-                    lyrics = get_lyrics(file_path)
-                    if lyrics:
-                        write_lrc(filename, lyrics)
-                        file_counter += 1
-                        print(f"{file_counter}. {filename} written")
-                    else:
-                        write_lrc(filename, "Not Found")
-
+            file_counter += next_function(file_counter, file_path)
+            
 def clean_spam_tags():
     # web download tag remove
     # lyricist tag update
@@ -97,5 +101,5 @@ if __name__ == "__main__":
     ]
 
     # get_lyrics("You_Belong_With_Me_-_Taylor_Swift.m4a")
-    all_files_in("lossless/Indian Ocean - Black Friday [2004-FLAC] {Times Music - TDIFI 027V}")
+    all_files_in(base_dir="lossless/Pink Floyd - The Division Bell 1994 Rock [FLAC-Lossless]/", next_function=save_lyrics)
     # all_tags("lossy/Co2.mp3")
