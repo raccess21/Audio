@@ -147,7 +147,7 @@ def main():
     #     if file_name.split(".")[1] in playlist_extensions:
     #         playlist_title = file_name.split('.xspf')[0].strip()
     #         playlists_from_xspf(file_name, playlist_title)
-    # playlists_from_m3u("Poweramp.m3u8")
-    playlists_from_m3u("Musicolet.m3u")
+    playlists_from_xspf("Rockstar.xspf", "Rockstar")
+    # playlists_from_m3u("Musicolet.m3u")
 if __name__ == "__main__":
     main()
