@@ -1,9 +1,6 @@
 import os
-import json
 from lxml import etree
 import subprocess
-import syncedlyrics
-import pyperclip
 
 folders = ["files"] 
 playlist_extensions = ["xspf", "m3u", "m3u8"]
