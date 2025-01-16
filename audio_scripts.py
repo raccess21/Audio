@@ -6,6 +6,7 @@ import syncedlyrics
 import pyperclip
 
 folders = ["files"] 
+playlist_extensions = ["xspf", "m3u", "m3u8"]
 
 
 def rename_files_recursively(base_dir):
@@ -115,12 +116,41 @@ def playlists_from_xspf(file_name = "all.xspf", playlist_title = "Playlist"):
         print(f"{file_name} Local m3u Cleaned and written")
 
 
-def main():
-    playlist_extensions = ["xspf"]
-    for file_name in os.listdir("playlists temp"):
-        if file_name.split(".")[1] in playlist_extensions:
-            playlist_title = file_name.split('.xspf')[0].strip()
-            playlists_from_xspf(file_name, playlist_title)
+def playlists_from_m3u(file_name, playlist_title = "Playlist"):
+    with open(f"playlists temp/{file_name}", 'r') as f:
+        m3u = f.readlines()
 
+    # file location edit for relative path local files
+    for i in range(2, len(m3u), 2):
+        m3u[i] = "../" + m3u[i].split("Audio/")[1]
+
+    # track info embed
+    if "#EXTINF:" not in m3u[1]:
+        for i in range(1, len(m3u), 2):
+            name, artist = m3u[i+1].replace("_", " ").split("/")[-1].split(".")[0].split('-')
+            m3u[i] = f"#EXTINF:100,{name} - {artist}\n"
+            # track duration code pending
+    
+    # add playlist name tag if not present
+    if "#PLAYLIST:" not in m3u[1]:
+        m3u.insert(1, f"#PLAYLIST:{playlist_title}\n")
+
+    m3u = "".join(m3u)
+
+    # write local file m3u playlist
+    with open(f"playlists/{file_name.split('.')[0]}.m3u", 'w') as fo:
+        fo.write(m3u)
+
+    # write web m3u playlist
+    with open(f"playlists web/{file_name.split('.')[0]} web.m3u", 'w') as fo:
+        fo.write(m3u.replace("../", "https://raw.githubusercontent.com/raccess21/Audio/main/"))
+
+def main():
+    # for file_name in os.listdir("playlists temp"):
+    #     if file_name.split(".")[1] in playlist_extensions:
+    #         playlist_title = file_name.split('.xspf')[0].strip()
+    #         playlists_from_xspf(file_name, playlist_title)
+    # playlists_from_m3u("Poweramp.m3u8")
+    playlists_from_m3u("Musicolet.m3u")
 if __name__ == "__main__":
     main()
