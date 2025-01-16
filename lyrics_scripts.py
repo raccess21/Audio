@@ -101,5 +101,5 @@ if __name__ == "__main__":
     ]
 
     # get_lyrics("You_Belong_With_Me_-_Taylor_Swift.m4a")
-    all_files_in(base_dir="lossless/Pink Floyd - The Division Bell 1994 Rock [FLAC-Lossless]/", next_function=save_lyrics)
+    all_files_in(base_dir="lossless/Pink Floyd - Meddle (1971) (UK LP 24-96 PBTHAL) [FLAC] vtwin88cube/", next_function=save_lyrics)
     # all_tags("lossy/Co2.mp3")
