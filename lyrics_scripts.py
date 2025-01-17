@@ -73,7 +73,7 @@ def save_lyrics(file_counter, file_path):
     return 0
 
 # walk all files in provided base directory
-def all_files_in(base_dir="./", next_function=save_lyrics):
+def all_files_in(base_dir="new downloads/", next_function=save_lyrics):
     file_counter = 1                                                       #file counter
     for root, _, files in os.walk(base_dir):
         for file in files:
@@ -95,11 +95,6 @@ def all_tags(filename):
 if __name__ == "__main__":
     os.system('cls')
     
-    test_files = [
-        "Brain Damage.mp3",
-        "Vera.flac"
-    ]
-
     # get_lyrics("You_Belong_With_Me_-_Taylor_Swift.m4a")
-    all_files_in(base_dir="lossless/Pink Floyd - Meddle (1971) (UK LP 24-96 PBTHAL) [FLAC] vtwin88cube/", next_function=save_lyrics)
+    all_files_in()
     # all_tags("lossy/Co2.mp3")
