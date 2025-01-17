@@ -7,7 +7,7 @@ playlist_extensions = ["xspf", "m3u", "m3u8"]
 
 
 def rename_files_recursively(base_dir):
-    skip_extensions = [".xspf", ".m3u", ".json"]
+    # skip_extensions = [".xspf", ".m3u", ".json"]
     
     """
     Recursively rename files in a directory by replacing spaces with underscores.
@@ -16,11 +16,11 @@ def rename_files_recursively(base_dir):
     for root, _, files in os.walk(base_dir):
         for file in files:
             old_path = os.path.join(root, file)
-            new_filename = file.replace(" ", "_")
+            new_filename = " ".join(file.split())
             new_path = os.path.join(root, new_filename)
 
-            if any(file.endswith(ext) for ext in skip_extensions):
-                continue
+            # if any(file.endswith(ext) for ext in skip_extensions):
+            #     continue
 
             # Rename the file if it contains spaces
             if old_path != new_path:
@@ -63,14 +63,15 @@ def xspf_to_m3u(root, ns, playlist_name="Playlist"):
     # Iterate through <track> elements
     for track in root.xpath("//default:track", namespaces=ns):
         location = track.find("default:location", namespaces=ns)
-        title = track.find("default:title", namespaces=ns)
+
+        # title = location for web stream to lrc resoltion for poweramp
+        title = location.text.split('/')[-1].split('.')[0].replace('%20', ' ')
         duration = track.find("default:duration", namespaces=ns)
 
         if location is not None:
             # Write the extended info line if available
-            if title is not None or duration is not None:
-                duration_ms = int(duration.text) if duration is not None else -1
-                m3u += f"#EXTINF:{duration_ms // 1000},{title.text if title is not None else 'Unknown'}\n"
+            duration_ms = int(duration.text) if duration is not None else -1
+            m3u += f"#EXTINF:{duration_ms // 1000},{title}\n"
 
             # Write the file location
             m3u += f"{location.text}\n"
@@ -148,6 +149,7 @@ def main():
     #         playlist_title = file_name.split('.xspf')[0].strip()
     #         playlists_from_xspf(file_name, playlist_title)
     playlists_from_xspf("Rockstar.xspf", "Rockstar")
+    # rename_files_recursively("lossy/")
     # playlists_from_m3u("Musicolet.m3u")
 if __name__ == "__main__":
     main()
