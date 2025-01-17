@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lyrics Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+        h1 {
+            font-size: 24px;
+            color: #333;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 15px;
+            border: 1px solid #ddd;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Lyrics Viewer</h1>
+    <div id="lyrics">
+        Loading lyrics...
+    </div>
+    <script>
+        // Function to get URL parameter by name
+        function getQueryParam(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        // Function to fetch and display lyrics
+        async function displayLyrics() {
+            const title = getQueryParam('title');
+            if (!title) {
+                document.getElementById('lyrics').innerText = 'Error: No title parameter provided in the URL.';
+                return;
+            }
+
+            // Construct the .lrc file URL
+            const baseUrl = 'https://your-repo-url/path-to-lrc-files/';
+            const lrcFileUrl = `${baseUrl}${title}.lrc`;
+
+            try {
+                // Fetch the .lrc file
+                const response = await fetch(lrcFileUrl);
+                if (!response.ok) {
+                    throw new Error(`Lyrics file not found for title: ${title}`);
+                }
+
+                // Read and display the file content
+                const lrcContent = await response.text();
+                document.getElementById('lyrics').innerHTML = `<pre>${lrcContent}</pre>`;
+            } catch (error) {
+                document.getElementById('lyrics').innerText = `Error: ${error.message}`;
+            }
+        }
+
+        // Run the function to display lyrics
+        displayLyrics();
+    </script>
+</body>
+</html>
