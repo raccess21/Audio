@@ -94,6 +94,6 @@ footer a:hover {
     text-decoration: underline;
 }
 
-.lyric-line .active {
-    font-weight: bold;
+.lyric-line.active {
+    font-weight: bolder;
 }
