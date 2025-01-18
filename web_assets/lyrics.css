@@ -60,11 +60,12 @@ header {
     word-wrap: break-word;
     font-size: 1rem;  /* Increased text size */
     /* line-height: 1.8;   Adjusted line height for readability */
-    text-align: center;
+    text-align: left;
 }
 
 .lyric-line.active {
     font-size: 1.2rem;
+    font-weight: bolder;
 }
 
 
