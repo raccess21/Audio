@@ -13,7 +13,9 @@
     <div class="container">
         <h2 id="title"></h2>
         <pre id="lyrics">Loading...</pre>
+        
     </div>
+    <button id="stopSyncButton">Stop Sync</button>
     <style href="web_assests/lyrics.css"></style>
     <script>
         // Get 'title' parameter from URL
@@ -24,12 +26,14 @@
         const titleElement = document.getElementById("title");
         const lyricsElement = document.getElementById("lyrics");
         const themeToggleButton = document.getElementById("themeToggle");
+        const stopSyncButton = document.getElementById("stopSyncButton");
+        
         const bodyElement = document.body;
-
         let theme = localStorage.getItem("theme") || "dark";
         let themChange = theme === "dark" ? "Switch to Light Mode" : "Switch to Dark Mode";
         bodyElement.classList = theme;
         themeToggleButton.textContent = themChange;
+        let timer = null;
 
         // Update title
         if (title) {
@@ -66,7 +70,6 @@
                 
                     // Add click event listeners for syncing
                     const lyricLines = document.querySelectorAll(".lyric-line");
-                    let timer = null;
 
                     const scrollToLine = (index) => {
                         if (index < lyricLines.length) {
@@ -82,6 +85,7 @@
                         let clickTime = performance.now() / 1000;
                         if (timer) clearInterval(timer);
                         
+                        stopSyncButton.textContent = "Stop Sync";
                         timer = setInterval(() => {
                             const elapsedTime = (performance.now() / 1000) - clickTime + lyrics[startIndex].time;
                             const nextTime = currentIndex + 1 < lyrics.length ? lyrics[currentIndex + 1].time : null;
@@ -90,7 +94,6 @@
 
                             if (nextTime && elapsedTime >= nextTime) {
                                 currentIndex++; // Move to the next line
-                                console.log(lyrics[currentIndex].time, lyrics[currentIndex].text);
                             }
                             
                             if (!nextTime) {
@@ -126,6 +129,16 @@
             // Save theme preference to localStorage
             localStorage.setItem("theme", bodyElement.classList.contains("dark") ? "dark" : "light");
         });
+
+        // Logic to stop the sync autoflow
+        stopSyncButton.addEventListener("click", () => {
+            if (timer) {
+                clearInterval(timer); // Stop the sync
+                timer = null; // Reset the timer
+                stopSyncButton.textContent = "Stopped";
+            }
+        });
+
     </script>
 </body>
 </html>

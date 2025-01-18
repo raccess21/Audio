@@ -38,7 +38,7 @@ header {
 }
 
 #title {
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight: bold;
     color: var(--accent-color);
     text-align: center;
@@ -59,6 +59,7 @@ header {
     word-wrap: break-word;
     font-size: 1.5rem;  /* Increased text size */
     line-height: 1.8;   /* Adjusted line height for readability */
+    text-align: center;
 }
 
 
@@ -96,4 +97,19 @@ footer a:hover {
 
 .lyric-line.active {
     font-weight: bolder;
+    font-size: larger;
+}
+
+#stopSyncButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#stopSyncButton:hover {
+    background-color: #dd2121;
 }
