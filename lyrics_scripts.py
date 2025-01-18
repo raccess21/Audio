@@ -109,6 +109,6 @@ if __name__ == "__main__":
     os.system('cls')
     
     # get_lyrics("You_Belong_With_Me_-_Taylor_Swift.m4a")
-    # all_files_in()
-    save_all_lyrics_for_web_assets()
+    all_files_in()
+    # save_all_lyrics_for_web_assets()
     # all_tags("lossy/Co2.mp3")

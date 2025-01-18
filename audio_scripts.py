@@ -1,6 +1,7 @@
 import os
 from lxml import etree
 import subprocess
+import sys
 
 folders = ["files"] 
 playlist_extensions = ["xspf", "m3u", "m3u8"]
@@ -57,12 +58,15 @@ def xml_clean_vlc(root, ns):
 
 from lxml import etree
 
-def xspf_to_m3u(root, ns, playlist_name="Playlist"):
+def xspf_to_m3u(root, ns, playlist_name="Playlist", web=True):
     m3u = f"#EXTM3U\n#PLAYLIST:{playlist_name}\n"
     
     # Iterate through <track> elements
     for track in root.xpath("//default:track", namespaces=ns):
         location = track.find("default:location", namespaces=ns)
+        if web:
+            if "lossy" not in location.text:
+                continue
 
         # title = location for web stream to lrc resoltion for poweramp
         title = location.text.split('/')[-1].split('.')[0].replace('%20', ' ')
@@ -98,7 +102,7 @@ def playlists_from_xspf(file_name = "all.xspf", playlist_title = "Playlist"):
     # plylist export absolute path will always contain Audio -> reform into relative path
     for location_tag in root.xpath("//default:location", namespaces=ns):
         location_tag.text = "../" + location_tag.text.split("Audio/")[1]
-    
+            
     #writing m3u local files
     with open(f"playlists/{file_name.split('.')[0]}.m3u", 'w') as fo:
         fo.write(xspf_to_m3u(root, ns, playlist_title))
@@ -148,7 +152,7 @@ def main():
     #     if file_name.split(".")[1] in playlist_extensions:
     #         playlist_title = file_name.split('.xspf')[0].strip()
     #         playlists_from_xspf(file_name, playlist_title)
-    playlists_from_xspf("Rockstar.xspf", "Rockstar")
+    playlists_from_xspf("All Songs.xspf", "All Songs")
     # rename_files_recursively("lossy/")
     # playlists_from_m3u("Musicolet.m3u")
 if __name__ == "__main__":

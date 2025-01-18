@@ -45,7 +45,64 @@
                     return response.text();
                 })
                 .then(data => {
-                    lyricsElement.textContent = data.replace(/\[.*?\]/g, '').trim();
+                    // Parse the .lrc data
+                    let lyrics = [];
+                    lyricsElement.innerHTML = "";
+                    data.split("\n").forEach(lyric => {
+                        const match = lyric.match(/\[(\d{2}):(\d{2}\.\d{2})\]/);
+                        if (match) {
+                            const minutes = parseInt(match[1], 10);
+                            const seconds = parseFloat(match[2]);
+                            const timeInSeconds = minutes * 60 + seconds;
+                        
+                            const text = lyric.replace(/\[\d{2}:\d{2}.\d{2}\]/, '').trim()
+                            lyrics.push({
+                                time: timeInSeconds,
+                                text
+                            })
+                            lyricsElement.innerHTML += `<span class="lyric-line">${text}</span><br>`
+                            }
+                    });
+                
+                    // Add click event listeners for syncing
+                    const lyricLines = document.querySelectorAll(".lyric-line");
+                    let timer = null;
+
+                    const scrollToLine = (index) => {
+                        if (index < lyricLines.length) {
+                            lyricLines.forEach(line => line.classList.remove("active")); // Remove active class
+                            lyricLines[index].classList.add("active"); // Highlight the current line
+                            lyricLines[index].scrollIntoView({ behavior: "smooth", block: "center" }); // Scroll into view
+                        }
+                    };
+
+                    const startSync = (startIndex) => {
+                        let currentIndex = startIndex;
+                        
+                        let clickTime = performance.now() / 1000;
+                        if (timer) clearInterval(timer);
+                        
+                        timer = setInterval(() => {
+                            const elapsedTime = (performance.now() / 1000) - clickTime + lyrics[startIndex].time;
+                            const nextTime = currentIndex + 1 < lyrics.length ? lyrics[currentIndex + 1].time : null;
+                            
+                            scrollToLine(currentIndex);
+
+                            if (nextTime && elapsedTime >= nextTime) {
+                                currentIndex++; // Move to the next line
+                                console.log(lyrics[currentIndex].time, lyrics[currentIndex].text);
+                            }
+                            
+                            if (!nextTime) {
+                                clearInterval(timer);
+                            }
+                        }, 100);
+                    };
+
+                    // Attach click event listeners
+                    lyricLines.forEach((line, index) => {
+                        line.addEventListener("click", () => startSync(index));
+                    });
                 })
                 .catch(error => {
                     lyricsElement.textContent = "Error loading lyrics: " + error.message;
