@@ -1,3 +1,17 @@
+/* fonts */
+.ubuntu-mono-regular {
+    font-family: "Ubuntu Mono", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ubuntu-mono-bold {
+    font-family: "Ubuntu Mono", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
 /* Resetting margin and padding for clean layout */
 * {
     margin: 0;
@@ -6,7 +20,8 @@
 }
 
 body {
-    font-family: 'Arial', sans-serif;
+    /* font-family: 'Arial', sans-serif; */
+    font-family: "Ubuntu Mono", serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -57,7 +72,7 @@ header {
     max-height: 60vh;
     white-space: pre-wrap;
     word-wrap: break-word;
-    font-size: 1.5rem;  /* Increased text size */
+    font-size: medium;  /* Increased text size */
     line-height: 1.8;   /* Adjusted line height for readability */
     text-align: center;
 }
@@ -97,7 +112,7 @@ footer a:hover {
 
 .lyric-line.active {
     font-weight: bolder;
-    font-size: larger;
+    font-size: large;
 }
 
 #stopSyncButton {
@@ -113,3 +128,4 @@ footer a:hover {
 #stopSyncButton:hover {
     background-color: #dd2121;
 }
+

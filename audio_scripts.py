@@ -5,7 +5,7 @@ import sys
 
 folders = ["files"] 
 playlist_extensions = ["xspf", "m3u", "m3u8"]
-
+music_extensions = ["mp3", "flac", "m4a"]
 
 def rename_files_recursively(base_dir):
     # skip_extensions = [".xspf", ".m3u", ".json"]
@@ -69,7 +69,12 @@ def xspf_to_m3u(root, ns, playlist_name="Playlist", web=True):
                 continue
 
         # title = location for web stream to lrc resoltion for poweramp
-        title = location.text.split('/')[-1].split('.')[0].replace('%20', ' ')
+        for ext in music_extensions:
+            if ext in location.text:
+                exetension = ext
+                break
+
+        title = location.text.split('/')[-1].split(exetension)[0].replace('%20', ' ')
         duration = track.find("default:duration", namespaces=ns)
 
         if location is not None:

@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="web_assets/lyrics.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <title>LRC Viewer</title>
 </head>
 <body class="light">
@@ -34,11 +37,12 @@
         bodyElement.classList = theme;
         themeToggleButton.textContent = themChange;
         let timer = null;
+        let endOfSong = false;
 
         // Update title
         if (title) {
             const lrcFileUrl = `${repoBaseUrl}${title}.lrc`;
-            titleElement.textContent = `Lyrics for: ${title}`;
+            titleElement.textContent = title;
 
             // Fetch the .lrc file
             fetch(lrcFileUrl)
@@ -76,6 +80,8 @@
                             lyricLines.forEach(line => line.classList.remove("active")); // Remove active class
                             lyricLines[index].classList.add("active"); // Highlight the current line
                             lyricLines[index].scrollIntoView({ behavior: "smooth", block: "center" }); // Scroll into view
+                        } else {
+                            endOfSong = true;
                         }
                     };
 
@@ -131,13 +137,16 @@
         });
 
         // Logic to stop the sync autoflow
-        stopSyncButton.addEventListener("click", () => {
+        const stopSyncHandler =  () => {
             if (timer) {
                 clearInterval(timer); // Stop the sync
                 timer = null; // Reset the timer
                 stopSyncButton.textContent = "Stopped";
             }
-        });
+        };
+
+        stopSyncButton.addEventListener("click", stopSyncHandler);
+
 
     </script>
 </body>
