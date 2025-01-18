@@ -69,12 +69,9 @@ def xspf_to_m3u(root, ns, playlist_name="Playlist", web=True):
                 continue
 
         # title = location for web stream to lrc resoltion for poweramp
-        for ext in music_extensions:
-            if ext in location.text:
-                exetension = ext
-                break
+        ext = '.' + location.text.split('.')[-1]
 
-        title = location.text.split('/')[-1].split(exetension)[0].replace('%20', ' ')
+        title = location.text.split('/')[-1].split(ext)[0].replace('%20', ' ')
         duration = track.find("default:duration", namespaces=ns)
 
         if location is not None:

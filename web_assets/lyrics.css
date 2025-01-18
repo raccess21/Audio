@@ -58,9 +58,13 @@ header {
     max-height: 60vh;
     white-space: pre-wrap;
     word-wrap: break-word;
-    font-size: medium;  /* Increased text size */
-    line-height: 1.8;   /* Adjusted line height for readability */
+    font-size: 1rem;  /* Increased text size */
+    /* line-height: 1.8;   Adjusted line height for readability */
     text-align: center;
+}
+
+.lyric-line.active {
+    font-size: 1.2rem;
 }
 
 
@@ -94,11 +98,6 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
-}
-
-.lyric-line.active {
-    font-weight: bolder;
-    font-size: large;
 }
 
 #stopSyncButton {
