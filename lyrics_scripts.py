@@ -6,6 +6,7 @@ from mutagen.id3 import ID3, USLT, SYLT, Encoding
 from mutagen.flac import FLAC
 from mutagen.mp3 import MP3
 import chardet
+from shutil import copyfile
 
 # extensions supported
 
@@ -79,7 +80,19 @@ def all_files_in(base_dir="new downloads/", next_function=save_lyrics):
         for file in files:
             file_path = os.path.join(root, file).replace("\\", "/")
             file_counter += next_function(file_counter, file_path)
-            
+
+# save all lrc files in in web_assets 
+def save_all_lyrics_for_web_assets():
+    if not os.path.exists("web_assets/lyrics/"):
+        os.mkdir("web_assets/lyrics/")
+
+    for base_dir in ["lossy/", "lossless/"]:
+        for root, _, files in os.walk(base_dir):
+            for file in files:
+                if ".lrc" in file:
+                    file_path = os.path.join(root, file).replace("\\", "/")
+                    copyfile(file_path, f"web_assets/lyrics/{file}")
+
 def clean_spam_tags():
     # web download tag remove
     # lyricist tag update
@@ -96,5 +109,6 @@ if __name__ == "__main__":
     os.system('cls')
     
     # get_lyrics("You_Belong_With_Me_-_Taylor_Swift.m4a")
-    all_files_in()
+    # all_files_in()
+    save_all_lyrics_for_web_assets()
     # all_tags("lossy/Co2.mp3")

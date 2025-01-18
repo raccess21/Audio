@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="web_assests/lyrics.css">
+    <link rel="stylesheet" href="web_assets/lyrics.css">
     <title>LRC Viewer</title>
 </head>
 <body class="light">
     <header>
-        <h1>LRC Viewer</h1>
         <button id="themeToggle">Switch to Dark Mode</button>
     </header>
     <div class="container">
@@ -20,7 +19,7 @@
         // Get 'title' parameter from URL
         const urlParams = new URLSearchParams(window.location.search);
         const title = urlParams.get('title');
-        const repoBaseUrl = "lossy/";
+        const repoBaseUrl = "web_assets/lyrics/";
 
         const titleElement = document.getElementById("title");
         const lyricsElement = document.getElementById("lyrics");
