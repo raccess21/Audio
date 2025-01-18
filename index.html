@@ -25,6 +25,12 @@
         const lyricsElement = document.getElementById("lyrics");
         const themeToggleButton = document.getElementById("themeToggle");
         const bodyElement = document.body;
+
+        let theme = localStorage.getItem("theme") || "dark";
+        let themChange = theme === "dark" ? "Switch to Light Mode" : "Switch to Dark Mode";
+        bodyElement.classList = theme;
+        themeToggleButton.textContent = themChange;
+
         // Update title
         if (title) {
             const lrcFileUrl = `${repoBaseUrl}${title}.lrc`;
@@ -59,6 +65,9 @@
                 bodyElement.classList.replace("light", "dark");
                 themeToggleButton.textContent = "Switch to Light Mode";
             }
+
+            // Save theme preference to localStorage
+            localStorage.setItem("theme", bodyElement.classList.contains("dark") ? "dark" : "light");
         });
     </script>
 </body>
