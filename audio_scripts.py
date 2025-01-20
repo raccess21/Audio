@@ -2,36 +2,31 @@ import os
 from lxml import etree
 import subprocess
 import sys
+from lyrics_scripts import all_files_in, file_name_ext
 
 folders = ["files"] 
 playlist_extensions = ["xspf", "m3u", "m3u8"]
 music_extensions = ["mp3", "flac", "m4a"]
 
-def rename_files_recursively(base_dir):
+def rename_file_git(file_counter, file_path):
     # skip_extensions = [".xspf", ".m3u", ".json"]
     
     """
     Recursively rename files in a directory by replacing spaces with underscores.
     Use `git mv` to stage the renames in Git.
     """
-    for root, _, files in os.walk(base_dir):
-        for file in files:
-            old_path = os.path.join(root, file)
-            new_filename = " ".join(file.split())
-            new_path = os.path.join(root, new_filename)
+    new_path = "new path"
 
-            # if any(file.endswith(ext) for ext in skip_extensions):
-            #     continue
-
-            # Rename the file if it contains spaces
-            if old_path != new_path:
-                try:
-                    # Stage the rename in Git
-                    subprocess.run(["git", "mv", old_path, new_path], check=True)
-                    print(f"Renamed and staged: {old_path} -> {new_path}")
-                except subprocess.CalledProcessError as e:
-                    print(f"Error staging {old_path} -> {new_path} in Git: {e}")
-
+    # Rename the file if it contains spaces
+    if file_path != new_path:
+        try:
+            # Stage the rename in Git
+            subprocess.run(["git", "mv", file_path, new_path], check=True)
+            print(f"{file_counter}. Renamed and staged: {file_path} -> {new_path}")
+            return (1, None)
+        except subprocess.CalledProcessError as e:
+            print(f"Error staging {file_path} -> {new_path} in Git: {e}")
+    return (0, None)
 
 def remove_tags(root, tags, ns):
     if not isinstance(tags, list):
@@ -69,9 +64,8 @@ def xspf_to_m3u(root, ns, playlist_name="Playlist", web=True):
                 continue
 
         # title = location for web stream to lrc resoltion for poweramp
-        ext = '.' + location.text.split('.')[-1]
-
-        title = location.text.split('/')[-1].split(ext)[0].replace('%20', ' ')
+        title, _ = file_name_ext(location.text.split('/')[-1])
+        title = title.replace('%20', ' ')
         duration = track.find("default:duration", namespaces=ns)
 
         if location is not None:
@@ -106,7 +100,7 @@ def playlists_from_xspf(file_name = "all.xspf", playlist_title = "Playlist"):
         location_tag.text = "../" + location_tag.text.split("Audio/")[1]
             
     #writing m3u local files
-    with open(f"playlists/{file_name.split('.')[0]}.m3u", 'w') as fo:
+    with open(f"playlists/{file_name_ext(file_name)[0]}.m3u", 'w') as fo:
         fo.write(xspf_to_m3u(root, ns, playlist_title))
         print(f"{file_name} Local m3u Cleaned and written")
 
@@ -149,13 +143,38 @@ def playlists_from_m3u(file_name, playlist_title = "Playlist"):
     with open(f"playlists web/{file_name.split('.')[0]} web.m3u", 'w') as fo:
         fo.write(m3u.replace("../", "https://raw.githubusercontent.com/raccess21/Audio/main/"))
 
+
+def m3u_web_string_for_file(file_counter, file_path):
+    file_name, ext = file_name_ext(file_path)
+
+    if ext not in music_extensions:
+        return (0, None)
+    
+    value = f"#EXTINF:100,{file_name}\n"
+    full_path = os.path.abspath(file_path).replace("\\", "/")
+    value += f"https://raw.githubusercontent.com/raccess21/Audio/main/{full_path.split('Audio/')[1]}\n"
+    print(f"{file_counter}. {file_path} done.")
+    return (1, value)
+
+def default_all_web():
+    data = ["#EXTM3U\n#PLAYLIST:All Songs\n"]
+    data = all_files_in(base_dir="lossy/", next_function=m3u_web_string_for_file, buffer=data)
+
+    with open("playlists web/All Songs Web.m3u", "w", encoding='UTF-8') as fo:
+        fo.write("".join(data))
+    
 def main():
     # for file_name in os.listdir("playlists temp"):
     #     if file_name.split(".")[1] in playlist_extensions:
     #         playlist_title = file_name.split('.xspf')[0].strip()
     #         playlists_from_xspf(file_name, playlist_title)
-    playlists_from_xspf("All Songs.xspf", "All Songs")
+    # playlists_from_xspf("All Songs.xspf", "All Songs")
     # rename_files_recursively("lossy/")
     # playlists_from_m3u("Musicolet.m3u")
+    
+    default_all_web()
+
+
+
 if __name__ == "__main__":
     main()
