@@ -162,6 +162,7 @@ def default_all_web():
 
     with open("playlists web/All Songs Web.m3u", "w", encoding='UTF-8') as fo:
         fo.write("".join(data))
+        print("Updated: All Songs Web.m3u")
     
 def main():
     # for file_name in os.listdir("playlists temp"):
