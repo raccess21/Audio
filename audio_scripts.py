@@ -145,14 +145,17 @@ def playlists_from_m3u(file_name, playlist_title = "Playlist"):
 
 
 def m3u_web_string_for_file(file_counter, file_path):
-    file_name, ext = file_name_ext(file_path)
+    # folder/sub-folder/filename.extension
+    file_name, ext = file_name_ext(file_path.split('/')[-1])
 
     if ext not in music_extensions:
         return (0, None)
     
     value = f"#EXTINF:100,{file_name}\n"
     full_path = os.path.abspath(file_path).replace("\\", "/")
-    value += f"https://raw.githubusercontent.com/raccess21/Audio/main/{full_path.split('Audio/')[1]}\n"
+
+    # ' ' replaced by %20 to make stream work on poweramp
+    value += f"https://raw.githubusercontent.com/raccess21/Audio/main/{full_path.split('Audio/')[1].replace(' ', '%20')}\n"
     print(f"{file_counter}. {file_path} done.")
     return (1, value)
 
