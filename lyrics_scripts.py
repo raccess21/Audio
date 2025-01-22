@@ -58,7 +58,7 @@ def file_name_ext(filename):
 # saves lyrics to file 
 # return 1 if successfully fetches and save lyrics else return 0
 def save_lyrics(file_counter, file_path):
-    filename, ext = file_name_ext(filename)
+    filename, ext = file_name_ext(file_path)
 
     if ext in music_extensions:
         filename += ".lrc"        
@@ -125,5 +125,7 @@ if __name__ == "__main__":
     # pyperclip.copy(search_lyrics("November Rain"))
     
     # save all lyrics for web assets
-    buffer = all_files_in(["lossy/", "lossless/"], next_function=save_all_lyrics_for_web_assets, buffer=[5])
-    print(buffer)
+    all_files_in(["lossy/", "lossless/"], next_function=save_all_lyrics_for_web_assets)
+
+    # download lyrics for new new downloads
+    # all_files_in("new downloads/", next_function=save_lyrics)
