@@ -116,6 +116,7 @@ def all_tags(filename):
         if len(str(value)) < 10000:
             print(tag, value, sep=": ")
 
+
 if __name__ == "__main__":
     os.system('cls')
     
@@ -129,3 +130,4 @@ if __name__ == "__main__":
 
     # download lyrics for new new downloads
     # all_files_in("new downloads/", next_function=save_lyrics)
+    
