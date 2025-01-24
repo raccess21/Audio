@@ -2,7 +2,7 @@ import os
 from lxml import etree
 import subprocess
 import sys
-from lyrics_scripts import all_files_in, file_name_ext
+from lyrics_scripts import all_files_in, file_name_ext, save_all_lyrics_for_web_assets
 
 folders = ["files"] 
 playlist_extensions = ["xspf", "m3u", "m3u8"]
@@ -159,6 +159,7 @@ def m3u_web_string_for_file(file_counter, file_path):
     print(f"{file_counter}. {file_path} done.")
     return (1, value)
 
+# save all lyrics for web assets and create web playlist
 def default_all_web():
     data = ["#EXTM3U\n#PLAYLIST:All Songs\n"]
     data = all_files_in(base_dir="lossy/", next_function=m3u_web_string_for_file, buffer=data)
@@ -166,7 +167,8 @@ def default_all_web():
     with open("playlists web/All Songs Web.m3u", "w", encoding='UTF-8') as fo:
         fo.write("".join(data))
         print("Updated: All Songs Web.m3u")
-
+    all_files_in(["lossy/", "lossless/"], next_function=save_all_lyrics_for_web_assets)
+    
 def main():
     # for file_name in os.listdir("playlists temp"):
     #     if file_name.split(".")[1] in playlist_extensions:
@@ -176,7 +178,10 @@ def main():
     # rename_files_recursively("lossy/")
     # playlists_from_m3u("Musicolet.m3u")
     
+    
     default_all_web()
+    
+    
 
 
 

@@ -125,9 +125,7 @@ if __name__ == "__main__":
     # all_tags("lossy/Co2.mp3")
     # pyperclip.copy(search_lyrics("November Rain"))
     
-    # save all lyrics for web assets
-    all_files_in(["lossy/", "lossless/"], next_function=save_all_lyrics_for_web_assets)
-
     # download lyrics for new new downloads
     # all_files_in("new downloads/", next_function=save_lyrics)
+
     
