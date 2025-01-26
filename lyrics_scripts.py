@@ -126,6 +126,6 @@ if __name__ == "__main__":
     # pyperclip.copy(search_lyrics("November Rain"))
     
     # download lyrics for new new downloads
-    # all_files_in("new downloads/", next_function=save_lyrics)
+    all_files_in("new downloads/", next_function=save_lyrics)
 
     
