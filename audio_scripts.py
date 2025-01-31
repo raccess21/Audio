@@ -2,11 +2,10 @@ import os
 from lxml import etree
 import subprocess
 import sys
-from lyrics_scripts import all_files_in, file_name_ext, save_all_lyrics_for_web_assets
+from lyrics_scripts import all_files_in, save_all_lyrics_for_web_assets
+import info
 
 folders = ["files"] 
-playlist_extensions = ["xspf", "m3u", "m3u8"]
-music_extensions = ["mp3", "flac", "m4a"]
 
 def rename_file_git(file_counter, file_path):
     # skip_extensions = [".xspf", ".m3u", ".json"]
@@ -64,7 +63,7 @@ def xspf_to_m3u(root, ns, playlist_name="Playlist", web=True):
                 continue
 
         # title = location for web stream to lrc resoltion for poweramp
-        title, _ = file_name_ext(location.text.split('/')[-1])
+        title, _ = info.file_name_ext(location.text.split('/')[-1])
         title = title.replace('%20', ' ')
         duration = track.find("default:duration", namespaces=ns)
 
@@ -100,7 +99,7 @@ def playlists_from_xspf(file_name = "all.xspf", playlist_title = "Playlist"):
         location_tag.text = "../" + location_tag.text.split("Audio/")[1]
             
     #writing m3u local files
-    with open(f"playlists/{file_name_ext(file_name)[0]}.m3u", 'w') as fo:
+    with open(f"playlists/{info.file_name_ext(file_name)[0]}.m3u", 'w') as fo:
         fo.write(xspf_to_m3u(root, ns, playlist_title))
         print(f"{file_name} Local m3u Cleaned and written")
 
@@ -145,33 +144,47 @@ def playlists_from_m3u(file_name, playlist_title = "Playlist"):
 
 
 def m3u_web_string_for_file(file_counter, file_path):
-    # folder/sub-folder/filename.extension
-    file_name, ext = file_name_ext(file_path.split('/')[-1])
-
-    if ext not in music_extensions:
-        return (0, None)
+    file_name, ext = info.file_name_ext(file_path)
+    print(f"{file_counter}. {file_path} done.")
+    audio = info.audio_tags()[ext]["function"](file_path)
+    duration = round(audio.info.length)
     
-    value = f"#EXTINF:100,{file_name}\n"
+    value = f"#EXTINF:{duration},{file_name}\n"
     full_path = os.path.abspath(file_path).replace("\\", "/")
 
     # ' ' replaced by %20 to make stream work on poweramp
     value += f"https://raw.githubusercontent.com/raccess21/Audio/main/{full_path.split('Audio/')[1].replace(' ', '%20')}\n"
-    print(f"{file_counter}. {file_path} done.")
-    return (1, value)
+    return value
+
 
 # save all lyrics for web assets and create web playlist
 def default_all_web():
-    data = ["#EXTM3U\n#PLAYLIST:All Songs\n"]
-    data = all_files_in(base_dir="lossy/", next_function=m3u_web_string_for_file, buffer=data)
+    try:
+        with open("playlists web/All Songs Web.m3u", "r", encoding='UTF-8') as fi:
+            data = fi.read()
+    except FileNotFoundError:
+        data = "#EXTM3U\n#PLAYLIST:All Songs\n"
 
+    file_counter = 0
+    music_extensions = info.music_extensions()
+
+    for file_path in info.all_files_in(base_dir="lossy/"):
+        file_name, ext = info.file_name_ext(file_path)
+        if ext in music_extensions:
+            if file_path.replace(" ", "%20") not in data:
+                file_counter += 1
+                data += m3u_web_string_for_file(file_counter, file_name, file_path)
+        
     with open("playlists web/All Songs Web.m3u", "w", encoding='UTF-8') as fo:
-        fo.write("".join(data))
+        fo.write(data)
         print("Updated: All Songs Web.m3u")
-    all_files_in(["lossy/", "lossless/"], next_function=save_all_lyrics_for_web_assets)
     
+    # all_files_in(["lossy/", "lossless/"] save lrc for web assets)
+    save_all_lyrics_for_web_assets()
+
 def main():
     # for file_name in os.listdir("playlists temp"):
-    #     if file_name.split(".")[1] in playlist_extensions:
+    #     if file_name.split(".")[1] in info.playlist_extensions():
     #         playlist_title = file_name.split('.xspf')[0].strip()
     #         playlists_from_xspf(file_name, playlist_title)
     # playlists_from_xspf("All Songs.xspf", "All Songs")

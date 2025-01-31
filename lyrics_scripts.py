@@ -8,6 +8,7 @@ from mutagen.mp3 import MP3
 import chardet
 from shutil import copyfile
 import pyperclip
+import info 
 
 # extensions supported
 
@@ -50,34 +51,30 @@ def write_lrc(filename, lyrics = ""):
     with open(filename, "w", encoding=use_encoding) as f:
         f.write(str(lyrics))
 
-# return a tuple for (file_name, extension_of_file)
-def file_name_ext(filename):
-    ext = filename.split('.')[-1]
-    return (filename.split('.' + ext)[0], ext)
-
 # saves lyrics to file 
 # return 1 if successfully fetches and save lyrics else return 0
-def save_lyrics(file_counter, file_path):
-    filename, ext = file_name_ext(file_path)
+def save_lyrics(dirs=["new downloads/"]):
+    file_counter = 1
+    dirs = info.make_list(dirs)
+    for file_path in info.all_files_in(dirs):
+        filename, ext = info.file_name_ext(file_path)
 
-    if ext in music_extensions:
-        filename += ".lrc"        
-        # if lrc file does not exist search and write lyrics
-        if not os.path.exists(filename):
-            lyrics = get_lyrics(file_path)
-            if lyrics:
-                write_lrc(filename, lyrics)
-                print(f"{file_counter}. {filename} written")
-                return (1, None)
-            else:
-                write_lrc(filename, "Not Found")
-    return (0, None)
+        if ext in music_extensions:
+            filename += ".lrc"        
+            # if lrc file does not exist search and write lyrics
+            if not os.path.exists(filename):
+                file_counter += 1
+                lyrics = get_lyrics(file_path)
+                if lyrics:
+                    write_lrc(filename, lyrics)
+                    print(f"{file_counter}. {filename} written")
+                else:
+                    write_lrc(filename, "Not Found")
 
 # walk all files in provided base directory
 # manages buffer by saving returns in list for each iteration
 def all_files_in(base_dir="new downloads/", next_function=save_lyrics, buffer=[None]):
-    if not isinstance(base_dir, list):
-        base_dir = [base_dir]
+    base_dir = info.make_list(base_dir)
 
     file_counter = 1                                                       #file counter
     for dir in base_dir:
@@ -92,16 +89,18 @@ def all_files_in(base_dir="new downloads/", next_function=save_lyrics, buffer=[N
     return buffer
 
 # save all lrc files in in web_assets 
-def save_all_lyrics_for_web_assets(filecounter, filepath):
+def save_all_lyrics_for_web_assets(dirs=["lossy/", "lossless/"]):
     if not os.path.exists("web_assets/lyrics/"):
         os.mkdir("web_assets/lyrics/")
 
-    file = filepath.split("/")[-1]
-    if ".lrc" in file and file not in os.listdir("web_assets/lyrics/"):
-        copyfile(filepath, f"web_assets/lyrics/{file}")
-        print(f"{filecounter}. {file} written to web assets.")
-        return (1, None)
-    return (0, None)
+    filecounter = 1
+    for file_path in info.all_files_in(dirs):
+        file_name = file_path.split("/")[-1]
+        if ".lrc" in file_name and file_name not in os.listdir("web_assets/lyrics/"):
+            copyfile(file_path, f"web_assets/lyrics/{file_name}")
+            print(f"{filecounter}. {file_name} written to web assets.")
+            filecounter += 1
+
 
 
 def clean_spam_tags():
@@ -126,6 +125,6 @@ if __name__ == "__main__":
     # pyperclip.copy(search_lyrics("November Rain"))
     
     # download lyrics for new new downloads
-    all_files_in("new downloads/", next_function=save_lyrics)
+    save_lyrics()
 
     
