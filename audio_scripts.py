@@ -173,7 +173,7 @@ def default_all_web():
         if ext in music_extensions:
             if file_path.replace(" ", "%20") not in data:
                 file_counter += 1
-                data += m3u_web_string_for_file(file_counter, file_name, file_path)
+                data += m3u_web_string_for_file(file_counter, file_path)
         
     with open("playlists web/All Songs Web.m3u", "w", encoding='UTF-8') as fo:
         fo.write(data)
