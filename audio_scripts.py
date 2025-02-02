@@ -156,12 +156,24 @@ def m3u_web_string_for_file(file_counter, file_path):
     value += f"https://raw.githubusercontent.com/raccess21/Audio/main/{full_path.split('Audio/')[1].replace(' ', '%20')}\n"
     return value
 
+# return valid m3u by removing non existent songs from the list
+def checked_playlist(fi):
+    playlist = fi.readlines()
+    new_playlist = playlist[:2]
+    
+    for i in range(2, len(playlist), 2):
+        song_path = playlist[i+1].split("main/")[1].replace("%20", " ").strip('\n')
+        if os.path.exists(song_path):
+            new_playlist += [playlist[i], playlist[i+1]]
+
+    return "".join(new_playlist)
+
 
 # save all lyrics for web assets and create web playlist
 def default_all_web():
     try:
         with open("playlists web/All Songs Web.m3u", "r", encoding='UTF-8') as fi:
-            data = fi.read()
+            data = checked_playlist(fi)
     except FileNotFoundError:
         data = "#EXTM3U\n#PLAYLIST:All Songs\n"
 
@@ -182,6 +194,7 @@ def default_all_web():
     # all_files_in(["lossy/", "lossless/"] save lrc for web assets)
     save_all_lyrics_for_web_assets()
 
+
 def main():
     # for file_name in os.listdir("playlists temp"):
     #     if file_name.split(".")[1] in info.playlist_extensions():
@@ -191,9 +204,7 @@ def main():
     # rename_files_recursively("lossy/")
     # playlists_from_m3u("Musicolet.m3u")
     
-    
     default_all_web()
-    
     
 
 
