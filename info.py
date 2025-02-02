@@ -20,7 +20,8 @@ def audio_tags():
 # return a tuple for (file_name, extension_of_file)
 def file_name_ext(filename):
     ext = filename.split('.')[-1]
-    return (filename.split('.' + ext)[0], ext)
+    filename = filename.split('/')[-1].split('.' + ext)[0]
+    return (filename, ext)
 
 # walk all files in provided base directory
 # manages buffer by saving returns in list for each iteration
