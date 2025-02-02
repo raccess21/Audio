@@ -54,7 +54,7 @@ def write_lrc(filename, lyrics = ""):
 # saves lyrics to file 
 # return 1 if successfully fetches and save lyrics else return 0
 def save_lyrics(dirs=["new downloads/"]):
-    file_counter = 1
+    file_counter = 0
     dirs = info.make_list(dirs)
     for file_path in info.all_files_in(dirs):
         filename, ext = info.file_name_ext(file_path)
