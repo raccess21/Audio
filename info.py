@@ -43,3 +43,7 @@ def make_list(param):
     if not isinstance(param, list):
         param = [param]
     return param
+    
+
+if __name__ == "__main__":
+    print(file_name_ext("as/bas/has.txt"))

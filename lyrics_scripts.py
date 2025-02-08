@@ -58,9 +58,9 @@ def save_lyrics(dirs=["new downloads/"]):
     dirs = info.make_list(dirs)
     for file_path in info.all_files_in(dirs):
         filename, ext = info.file_name_ext(file_path)
-
+        
         if ext in music_extensions:
-            filename += ".lrc"        
+            filename = file_path.split(ext)[-1] + ".lrc"        
             # if lrc file does not exist search and write lyrics
             if not os.path.exists(filename):
                 file_counter += 1
