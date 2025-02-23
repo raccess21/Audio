@@ -2,6 +2,7 @@ from mutagen import File
 from mutagen.flac import FLAC
 from mutagen.mp3 import MP3
 from mutagen.mp4 import MP4
+from mutagen.id3 import ID3, TCON
 import os
 
 def music_extensions():
@@ -10,12 +11,22 @@ def music_extensions():
 def playlist_extensions():
     return ["xspf", "m3u", "m3u8"]
 
+# print all tags of audio file for analysis
+def all_tags(filename):
+    audio = File(filename)
+    for tag, value in audio.tags.items():
+        if len(str(value)) < 10000:
+            print(tag, value, sep=": ")
+
 def audio_tags():
     return {
-        "flac": {"function": FLAC, "title": "title", "artist": "artist"},
-        "mp3":  {"function": MP3, "title": "TIT2", "artist": "TPE1"},
-        "m4a":  {"function": MP4, "title": "©nam", "artist": "©ART"}
+        "flac": {"function": FLAC, "title": "title", "artist": "artist", "genre": "genre"},
+        "mp3":  {"function": MP3, "title": "TIT2", "artist": "TPE1", "genre": "TCON"},
+        "m4a":  {"function": MP4, "title": "©nam", "artist": "©ART", "genre": "©gen"}
     }
+
+def save_audio(audio):
+    audio.save()
 
 # return a tuple for (file_name, extension_of_file)
 def file_name_ext(filename):

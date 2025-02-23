@@ -20,11 +20,7 @@ def search_lyrics(song_name, duration=0):
 
 def get_lyrics(file):
     # tag list for file types
-    tags = {
-        "flac": {"function": FLAC, "title": "title", "artist": "artist"},
-        "mp3":  {"function": MP3, "title": "TIT2", "artist": "TPE1"},
-        "m4a":  {"function": File, "title": "©nam", "artist": "©ART"}
-    }
+    tags = info.audio_tags()
     # pending audio tags, vorbis, wav, opus, ogg
 
     ext = file.split('.')[-1].lower()
@@ -108,12 +104,6 @@ def clean_spam_tags():
     # lyricist tag update
     
     ...
-# print all tags of audio file for analysis
-def all_tags(filename):
-    audio = File(filename)
-    for tag, value in audio.tags.items():
-        if len(str(value)) < 10000:
-            print(tag, value, sep=": ")
 
 
 if __name__ == "__main__":
