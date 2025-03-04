@@ -85,7 +85,7 @@ def all_files_in(base_dir="new downloads/", next_function=save_lyrics, buffer=[N
     return buffer
 
 # save all lrc files in in web_assets 
-def save_all_lyrics_for_web_assets(dirs=["lossy/", "lossless/"]):
+def save_all_lyrics_for_web_assets(dirs=["lossy/", "lossless/", "lossy_web"]):
     if not os.path.exists("web_assets/lyrics/"):
         os.mkdir("web_assets/lyrics/")
 

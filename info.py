@@ -56,5 +56,16 @@ def make_list(param):
     return param
     
 
+def sorted_m3u(m3u):
+    m3u = m3u.split("\n")
+    new_m3u = []
+
+    for i in range(2, len(m3u)-1, 2):
+        name = m3u[i].split(',', 1)[1].lower()
+        new_m3u.append((name, m3u[i], m3u[i+1]))
+
+    new_m3u.sort()
+    return "\n".join(m3u[:2] + [line for _, line1, line2 in new_m3u for line in [line1, line2]]) 
+
 if __name__ == "__main__":
     print(file_name_ext("as/bas/has.txt"))

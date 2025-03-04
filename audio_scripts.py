@@ -180,7 +180,7 @@ def default_all_web():
     file_counter = 0
     music_extensions = info.music_extensions()
 
-    for file_path in info.all_files_in(base_dir="lossy/"):
+    for file_path in info.all_files_in(base_dir=["lossy/", "lossy_web"]):
         file_name, ext = info.file_name_ext(file_path)
         if ext in music_extensions:
             if file_path.replace(" ", "%20") not in data:
@@ -188,12 +188,18 @@ def default_all_web():
                 data += m3u_web_string_for_file(file_counter, file_path)
         
     with open("playlists web/All Songs Web.m3u", "w", encoding='UTF-8') as fo:
-        fo.write(data)
+        fo.write(info.sorted_m3u(data))
         print("Updated: All Songs Web.m3u")
     
     # all_files_in(["lossy/", "lossless/"] save lrc for web assets)
     save_all_lyrics_for_web_assets()
 
+def test_sorted():
+    with open("playlists web/All Songs Web.m3u", "r", encoding='UTF-8') as fi:
+        m3u = fi.read()
+
+    with open("playlists web/All Songs Web Test.m3u", "w", encoding='UTF-8') as fo:
+        fo.write(info.sorted_m3u(m3u))
 
 def main():
     # for file_name in os.listdir("playlists temp"):
@@ -204,7 +210,8 @@ def main():
     # rename_files_recursively("lossy/")
     # playlists_from_m3u("Musicolet.m3u")
     
-    default_all_web()
+    # default_all_web()
+    test_sorted()
     
 
 
