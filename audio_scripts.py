@@ -177,6 +177,7 @@ def default_all_web():
     except FileNotFoundError:
         data = "#EXTM3U\n#PLAYLIST:All Songs\n"
 
+    
     file_counter = 0
     music_extensions = info.music_extensions()
 
