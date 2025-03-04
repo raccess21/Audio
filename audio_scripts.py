@@ -194,12 +194,6 @@ def default_all_web():
     # all_files_in(["lossy/", "lossless/"] save lrc for web assets)
     save_all_lyrics_for_web_assets()
 
-def test_sorted():
-    with open("playlists web/All Songs Web.m3u", "r", encoding='UTF-8') as fi:
-        m3u = fi.read()
-
-    with open("playlists web/All Songs Web Test.m3u", "w", encoding='UTF-8') as fo:
-        fo.write(info.sorted_m3u(m3u))
 
 def main():
     # for file_name in os.listdir("playlists temp"):
@@ -210,8 +204,7 @@ def main():
     # rename_files_recursively("lossy/")
     # playlists_from_m3u("Musicolet.m3u")
     
-    # default_all_web()
-    test_sorted()
+    default_all_web()
     
 
 
