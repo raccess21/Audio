@@ -203,7 +203,6 @@ def main():
     # playlists_from_xspf("All Songs.xspf", "All Songs")
     # rename_files_recursively("lossy/")
     # playlists_from_m3u("Musicolet.m3u")
-    
     default_all_web()
     
 
