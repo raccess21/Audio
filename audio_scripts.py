@@ -149,11 +149,11 @@ def m3u_web_string_for_file(file_counter, file_path):
     audio = info.audio_tags()[ext]["function"](file_path)
     duration = round(audio.info.length)
     
-    value = f"#EXTINF:{duration},{file_name}\n"
+    value = f"\n#EXTINF:{duration},{file_name}\n"
     full_path = os.path.abspath(file_path).replace("\\", "/")
 
     # ' ' replaced by %20 to make stream work on poweramp
-    value += f"https://raw.githubusercontent.com/raccess21/Audio/main/{full_path.split('Audio/')[1].replace(' ', '%20')}\n"
+    value += f"https://raw.githubusercontent.com/raccess21/Audio/main/{full_path.split('Audio/')[1].replace(' ', '%20')}"
     return value
 
 # return valid m3u by removing non existent songs from the list
@@ -187,7 +187,8 @@ def default_all_web():
             if file_path.replace(" ", "%20") not in data:
                 file_counter += 1
                 data += m3u_web_string_for_file(file_counter, file_path)
-        
+    
+    
     with open("playlists web/All Songs Web.m3u", "w", encoding='UTF-8') as fo:
         fo.write(info.sorted_m3u(data))
         print("Updated: All Songs Web.m3u")
