@@ -79,23 +79,32 @@ def get_playlist(url="https://music.youtube.com/playlist?list=PLlXEnX_5coLX9fgXE
         print(track["title"])
 
 def all_songs_dict():
-    songs = {}
+    # songs = {}
+    # for file_path in all_files_in(base_dir=["lossy/"]):
+    #     name, ext = file_name_ext(file_path)
+    #     # if ext in music_extensions():
+    #     if ext == "mp3":
+    #         print(name)
+    #         tags = audio_tags()[ext]
+    #         audio = tags["function"](file_path)
+    #         songs[file_path.split("Audio/")[-1]] = {
+    #             "title": str(audio[tags["title"]]),
+    #             "artist": str(audio[tags["artist"]]).replace("\u0000", ";"),
+    #             # "album": str(audio[tags["album"]]),
+    #             "genre": str(audio[tags["genre"]]).replace("\u0000", ";"),
+    #         }
+
+    # with open("web_assets/songs.json", "w") as f:
+    #     f.write(json.dumps(songs, indent=4))
+
     for file_path in all_files_in(base_dir=["lossy/"]):
         name, ext = file_name_ext(file_path)
         # if ext in music_extensions():
-        if ext == "mp3":
+        if ext == "m4a":
             print(name)
-            tags = audio_tags()[ext]
-            audio = tags["function"](file_path)
-            songs[file_path.split("Audio/")[-1]] = {
-                "title": str(audio[tags["title"]]),
-                "artist": str(audio[tags["artist"]]).replace("\u0000", ";"),
-                # "album": str(audio[tags["album"]]),
-                "genre": str(audio[tags["genre"]]).replace("\u0000", ";"),
-            }
-
-    with open("web_assets/songs.json", "w") as f:
-        f.write(json.dumps(songs, indent=4))
+            fname = file_path.split("." + ext)[0]
+            os.rename(file_path, file_path.replace("lossy/", "new downloads/"))
+            os.rename(f"{fname}.lrc", f"{fname}.lrc".replace("lossy/", "new downloads/"))
 
 if __name__ == "__main__":
     all_songs_dict()
