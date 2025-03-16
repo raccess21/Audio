@@ -22,9 +22,9 @@ def all_tags(filename):
 
 def audio_tags():
     return {
-        "flac": {"function": FLAC, "title": "title", "artist": "artist", "genre": "genre"},
-        "mp3":  {"function": MP3, "title": "TIT2", "artist": "TPE1", "genre": "TCON"},
-        "m4a":  {"function": MP4, "title": "©nam", "artist": "©ART", "genre": "©gen"}
+        "flac": {"function": FLAC, "title": "title", "artist": "artist", "genre": "genre", "album": "album"},
+        "mp3":  {"function": MP3, "title": "TIT2", "artist": "TPE1", "genre": "TCON", "album": "TALB"},
+        "m4a":  {"function": MP4, "title": "©nam", "artist": "©ART", "genre": "©gen", "album": "©alb"},
     }
 
 def save_audio(audio):
@@ -78,5 +78,24 @@ def get_playlist(url="https://music.youtube.com/playlist?list=PLlXEnX_5coLX9fgXE
     for track in playlist["tracks"]:
         print(track["title"])
 
+def all_songs_dict():
+    songs = {}
+    for file_path in all_files_in(base_dir=["lossy/"]):
+        name, ext = file_name_ext(file_path)
+        # if ext in music_extensions():
+        if ext == "mp3":
+            print(name)
+            tags = audio_tags()[ext]
+            audio = tags["function"](file_path)
+            songs[file_path.split("Audio/")[-1]] = {
+                "title": str(audio[tags["title"]]),
+                "artist": str(audio[tags["artist"]]).replace("\u0000", ";"),
+                # "album": str(audio[tags["album"]]),
+                "genre": str(audio[tags["genre"]]).replace("\u0000", ";"),
+            }
+
+    with open("web_assets/songs.json", "w") as f:
+        f.write(json.dumps(songs, indent=4))
+
 if __name__ == "__main__":
-    get_playlist()
+    all_songs_dict()
