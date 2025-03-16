@@ -4,6 +4,8 @@ from mutagen.mp3 import MP3
 from mutagen.mp4 import MP4
 from mutagen.id3 import ID3, TCON
 import os
+from ytmusicapi import YTMusic
+import json
 
 def music_extensions():
     return ["flac", "mp3", "m4a"]
@@ -69,5 +71,12 @@ def sorted_m3u(m3u):
     new_m3u.sort()
     return "\n".join(m3u[:2] + [line for _, line1, line2 in new_m3u for line in [line1, line2]]) 
 
+def get_playlist(url="https://music.youtube.com/playlist?list=PLlXEnX_5coLX9fgXECnCGrYtXWob9t_x3"):
+    yt = YTMusic()
+    playlist = yt.get_playlist(url.split("list=")[-1])
+
+    for track in playlist["tracks"]:
+        print(track["title"])
+
 if __name__ == "__main__":
-    print(file_name_ext("as/bas/has.txt"))
+    get_playlist()
