@@ -2,7 +2,7 @@ from mutagen import File
 from mutagen.flac import FLAC
 from mutagen.mp3 import MP3
 from mutagen.mp4 import MP4
-from mutagen.id3 import ID3, TCON
+from mutagen.id3 import ID3, TCON, TALB
 import os
 from ytmusicapi import YTMusic
 import json
@@ -22,9 +22,9 @@ def all_tags(filename):
 
 def audio_tags():
     return {
-        "flac": {"function": FLAC, "title": "title", "artist": "artist", "genre": "genre", "album": "album"},
-        "mp3":  {"function": MP3, "title": "TIT2", "artist": "TPE1", "genre": "TCON", "album": "TALB"},
-        "m4a":  {"function": MP4, "title": "©nam", "artist": "©ART", "genre": "©gen", "album": "©alb"},
+        "flac": {"function": FLAC, "title": "title", "artist": "artists", "genre": "genre", "album": "album"},
+        "mp3":  {"function": MP3, "title": "TIT2", "artists": "TPE1", "genre": "TCON", "album": "TALB"},
+        "m4a":  {"function": MP4, "title": "©nam", "artists": "©ART", "genre": "©gen", "album": "©alb"},
     }
 
 def save_audio(audio):
@@ -71,40 +71,63 @@ def sorted_m3u(m3u):
     new_m3u.sort()
     return "\n".join(m3u[:2] + [line for _, line1, line2 in new_m3u for line in [line1, line2]]) 
 
-def get_playlist(url="https://music.youtube.com/playlist?list=PLlXEnX_5coLX9fgXECnCGrYtXWob9t_x3"):
-    yt = YTMusic()
-    playlist = yt.get_playlist(url.split("list=")[-1])
-
-    for track in playlist["tracks"]:
-        print(track["title"])
-
 def all_songs_dict():
-    # songs = {}
+    try:
+        with open("web_assets/songs.json", "r") as f:
+            songs = json.loads(f.read())
+    except FileNotFoundError:
+        songs = {}
+    
+    for file_path in all_files_in(base_dir=["lossy/"]):
+        name, ext = file_name_ext(file_path)
+        if ext in music_extensions() and file_path not in songs:
+            print(name)
+            tags = audio_tags()[ext]
+            audio = tags["function"](file_path)
+            songs[str(audio[tags["title"]])] = {
+                "path": file_path.split("Audio/")[-1],
+                "artists": str(audio[tags["artists"]]).replace("\u0000", ";"),
+                "duration": round(audio.info.length),
+                "album": str(audio[tags["album"]]),
+                "genre": str(audio[tags["genre"]]).replace("\u0000", ";"),
+            }
+
+    with open("web_assets/songs.json", "w") as f:
+        f.write(json.dumps(songs, indent=4))
+
     # for file_path in all_files_in(base_dir=["lossy/"]):
     #     name, ext = file_name_ext(file_path)
     #     # if ext in music_extensions():
-    #     if ext == "mp3":
+    #     if ext == "m4a":
     #         print(name)
-    #         tags = audio_tags()[ext]
-    #         audio = tags["function"](file_path)
-    #         songs[file_path.split("Audio/")[-1]] = {
-    #             "title": str(audio[tags["title"]]),
-    #             "artist": str(audio[tags["artist"]]).replace("\u0000", ";"),
-    #             # "album": str(audio[tags["album"]]),
-    #             "genre": str(audio[tags["genre"]]).replace("\u0000", ";"),
-    #         }
+    #         fname = file_path.split("." + ext)[0]
+    #         os.rename(file_path, file_path.replace("lossy/", "new downloads/"))
+    #         os.rename(f"{fname}.lrc", f"{fname}.lrc".replace("lossy/", "new downloads/"))
 
-    # with open("web_assets/songs.json", "w") as f:
-    #     f.write(json.dumps(songs, indent=4))
+# search algo to match youtube songs with local songs
+def get_playlist(id="PLlXEnX_5coLUM5Sn_YV1ldufT55OxP9VS"):
+    with open("web_assets/songs.json", "r") as f:
+        songs = json.loads(f.read())
+    
+    yt = YTMusic()
+    playlist = yt.get_playlist(id)
+    
+    print(playlist["title"])
 
-    for file_path in all_files_in(base_dir=["lossy/"]):
-        name, ext = file_name_ext(file_path)
-        # if ext in music_extensions():
-        if ext == "m4a":
-            print(name)
-            fname = file_path.split("." + ext)[0]
-            os.rename(file_path, file_path.replace("lossy/", "new downloads/"))
-            os.rename(f"{fname}.lrc", f"{fname}.lrc".replace("lossy/", "new downloads/"))
+    # title: Start A Fire: 
+    # artists: [{'name': 'John Legend', 'id': 'UC7wYAi5loaBGEbOQz7VBF2w'}]
+    found = 0
+    for track in playlist["tracks"]:
+        if track["title"] in songs:
+            found += 1
+            print(found, track["title"], sep=". ")
+
 
 if __name__ == "__main__":
-    all_songs_dict()
+    with open("web_assets/yt_playlists.json", "r") as f:
+        playlists = json.loads(f.read())
+    
+    for playlist in playlists:
+        get_playlist(playlists[playlist])
+        print("\n\n")
+    # all_songs_dict()

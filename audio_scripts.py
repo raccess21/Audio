@@ -124,8 +124,8 @@ def playlists_from_m3u(file_name, playlist_title = "Playlist"):
     # track info embed
     if "#EXTINF:" not in m3u[1]:
         for i in range(1, len(m3u), 2):
-            name, artist = m3u[i+1].replace("_", " ").split("/")[-1].split(".")[0].split('-')
-            m3u[i] = f"#EXTINF:100,{name} - {artist}\n"
+            name, artists = m3u[i+1].replace("_", " ").split("/")[-1].split(".")[0].split('-')
+            m3u[i] = f"#EXTINF:100,{name} - {artists}\n"
             # track duration code pending
     
     # add playlist name tag if not present

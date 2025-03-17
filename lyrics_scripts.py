@@ -32,7 +32,7 @@ def get_lyrics(file):
         if audio.tags is not None:
             # catch not found/timeout error
             try:
-                lyrics = search_lyrics(str(audio[tags["title"]]) + " " + str(audio[tags["artist"]]))
+                lyrics = search_lyrics(str(audio[tags["title"]]) + " " + str(audio[tags["artists"]]))
                 return lyrics
             except Exception as e:
                 print(f"{e} : {file}")
