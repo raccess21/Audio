@@ -2007,5 +2007,110 @@
         "duration": 743,
         "album": "Wish You Were Here",
         "genre": "Progressive Rock;English"
+    },
+    "Dheere Dheere Se Meri Zindagi Mein Aana": {
+        "path": "lossy/Dheere Dheere Se Meri Zindagi Mein Aana Anuradha Paudwal.mp3",
+        "artists": "Anuradha Paudwal; Kumar Sanu; Udit Narayan; Rani Malik; Sameer",
+        "duration": 328,
+        "album": "Aashiqui",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Dil Dooba": {
+        "path": "lossy/Dil Dooba Sonu Nigam.mp3",
+        "artists": "Sonu Nigam; Shreya Ghoshal; Sameer",
+        "duration": 231,
+        "album": "Khakee",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Ek Sanam Chahiye Aashiqui Ke Liye": {
+        "path": "lossy/Ek Sanam Chahiye Aashiqui Ke Liye Kumar Sanu.mp3",
+        "artists": "Kumar Sanu; Sameer",
+        "duration": 371,
+        "album": "Aashiqui",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Hall of Fame (feat. will.i.am)": {
+        "path": "lossy/Hall of Fame (feat. will.i.am) The Script.mp3",
+        "artists": "The Script; will.i.am",
+        "duration": 203,
+        "album": "Hall of Fame",
+        "genre": "Pop; English"
+    },
+    "Hona Hai Kya": {
+        "path": "lossy/Hona Hai Kya Ram Sampath.mp3",
+        "artists": "Ram Sampath; Javed Akhtar",
+        "duration": 283,
+        "album": "Talaash",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "It Must Have Been Love": {
+        "path": "lossy/It Must Have Been Love Roxette.mp3",
+        "artists": "Roxette",
+        "duration": 259,
+        "album": "Pretty Woman",
+        "genre": "Movie; Hollywood; English; Pop"
+    },
+    "Jaise Suraj Ki Garmi Se": {
+        "path": "lossy/Jaise Suraj Ki Garmi Se Sharma Brothers.mp3",
+        "artists": "Sharma Brothers; Ramanand Sharma",
+        "duration": 384,
+        "album": "Parinay (Original Motion Picture Soundtrack)",
+        "genre": "Bollywood; Movie; Hindi; Prayer"
+    },
+    "Jee Le Zaraa": {
+        "path": "lossy/Jee Le Zaraa Vishal Dadlani.mp3",
+        "artists": "Vishal Dadlani; Javed Akhtar",
+        "duration": 215,
+        "album": "Talaash",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Main Agar Saamne": {
+        "path": "lossy/Main Agar Saamne Alka Yagnik.mp3",
+        "artists": "Alka Yagnik; Abhijeet Bhattacharya; Sameer",
+        "duration": 346,
+        "album": "Raaz (Original Motion Picture Soundtrack)",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Mitti Di Khushboo": {
+        "path": "lossy/Mitti Di Khushboo Ayushmann Khurrana.mp3",
+        "artists": "Ayushmann Khurrana",
+        "duration": 247,
+        "album": "Ayushman - The Rockstar",
+        "genre": "Punjabi"
+    },
+    "Muskaanein Jhooti Hai": {
+        "path": "lossy/Muskaanein Jhooti Hai Suman Sridhar.mp3",
+        "artists": "Suman Sridhar; Javed Akhtar",
+        "duration": 198,
+        "album": "Talaash",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Saibo": {
+        "path": "lossy/Saibo.mp3",
+        "artists": "Shreya Ghoshal; Tochi Raina; Priya Saraiya; Sameer",
+        "duration": 196,
+        "album": "Shor in the City (Original Motion Picture Soundtrack Deluxe Edition)",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Tumhari Nazar Kyon Khafa Ho Gayi": {
+        "path": "lossy/Tumhari Nazar Kyon Khafa Ho Gayi Lata Mangeshkar.mp3",
+        "artists": "Lata Mangeshkar; Mohammed Rafi; Sahir Ludhiyanvi",
+        "duration": 307,
+        "album": "Do Kaliyan (Original Motion Picture Soundtrack)",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Until I Found You": {
+        "path": "lossy/Until I Found You Stephen Sanchez.mp3",
+        "artists": "Stephen Sanchez; Georgia Brown",
+        "duration": 178,
+        "album": "Until I Found You",
+        "genre": "English; Pop"
+    },
+    "Ya Ali": {
+        "path": "lossy/Ya Ali (From  Gangster ).mp3",
+        "artists": "Zubeen Garg; Sayeed Quadri",
+        "duration": 296,
+        "album": "Gangster (Original Motion Picture Soundtrack)",
+        "genre": "Bollywood; Movie; Hindi"
     }
 }

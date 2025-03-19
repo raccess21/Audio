@@ -195,6 +195,9 @@ def default_all_web():
     
     # all_files_in(["lossy/", "lossless/"] save lrc for web assets)
     save_all_lyrics_for_web_assets()
+    
+    # save all songs metadata as json
+    info.all_songs_dict()
 
 
 def main():
