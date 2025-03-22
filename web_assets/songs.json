@@ -2112,5 +2112,54 @@
         "duration": 296,
         "album": "Gangster (Original Motion Picture Soundtrack)",
         "genre": "Bollywood; Movie; Hindi"
+    },
+    "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi": {
+        "path": "lossy/Comptine d'un autre \u00e9t\u00e9 l'apr\u00e8s midi Yann Tiersen.mp3",
+        "artists": "Yann Tiersen",
+        "duration": 141,
+        "album": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
+        "genre": "Movie; French; Soundtrack"
+    },
+    "Flight": {
+        "path": "lossy/Flight Hans Zimmer.mp3",
+        "artists": "Hans Zimmer",
+        "duration": 249,
+        "album": "Man of Steel (Original Motion Picture Soundtrack) (Deluxe Edition)",
+        "genre": "Hollywood; Movie; Soundtrack"
+    },
+    "La valse d'Am\u00e9lie": {
+        "path": "lossy/La valse d'Am\u00e9lie Yann Tiersen.mp3",
+        "artists": "Yann Tiersen",
+        "duration": 136,
+        "album": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
+        "genre": "Movie; French; Soundtrack"
+    },
+    "Roar": {
+        "path": "lossy/Roar Katy Perry.mp3",
+        "artists": "Katy Perry",
+        "duration": 224,
+        "album": "PRISM (Deluxe)",
+        "genre": "Pop; English"
+    },
+    "Sajdaa": {
+        "path": "lossy/Sajdaa Rahat Fateh Ali Khan.mp3",
+        "artists": "Rahat Fateh Ali Khan; Richa Sharma; Niranjan Iyengar",
+        "duration": 366,
+        "album": "My Name Is Khan",
+        "genre": "Bollywood; Movie; Hindi; Sufi"
+    },
+    "The Middle": {
+        "path": "lossy/The Middle ZEDD.mp3",
+        "artists": "Zedd; Maren Morris; Grey",
+        "duration": 185,
+        "album": "The Middle",
+        "genre": "Dance; English"
+    },
+    "The Show": {
+        "path": "lossy/The Show Lenka.mp3",
+        "artists": "Lenka Kripac",
+        "duration": 236,
+        "album": "Lenka (Expanded Edition)",
+        "genre": "Pop; English"
     }
 }

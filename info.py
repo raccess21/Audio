@@ -78,10 +78,10 @@ def all_songs_dict():
     except FileNotFoundError:
         songs = {}
     
-    for file_path in all_files_in(base_dir=["lossy/"]):
+    for i, file_path in enumerate(all_files_in(base_dir=["lossy/"])):
         name, ext = file_name_ext(file_path)
         if ext in music_extensions() and file_path not in songs:
-            print(name)
+            print(i, name, ' ', sep='"')
             tags = audio_tags()[ext]
             audio = tags["function"](file_path)
             songs[str(audio[tags["title"]])] = {
