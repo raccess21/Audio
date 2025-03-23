@@ -2161,5 +2161,54 @@
         "duration": 236,
         "album": "Lenka (Expanded Edition)",
         "genre": "Pop; English"
+    },
+    "Etude": {
+        "path": "lossy/Etude Nero.mp3",
+        "artists": "Nero",
+        "duration": 257,
+        "album": "Won't You (Be There) EP",
+        "genre": "Electro; Soundtrack"
+    },
+    "Idea 10": {
+        "path": "lossy/Idea 10 Gibran Alcocer.mp3",
+        "artists": "Gibran Alcocer",
+        "duration": 128,
+        "album": "Idea 10",
+        "genre": "Pop; Soundtrack"
+    },
+    "Isq Risk": {
+        "path": "lossy/Isq Risk Rahat Fateh Ali Khan.mp3",
+        "artists": "Rahat Fateh Ali Khan; Irshad Kamil",
+        "duration": 295,
+        "album": "Mere Brother Ki Dulhan",
+        "genre": "Hindi; Urdu; Sufi"
+    },
+    "Riders In The Sky": {
+        "path": "lossy/Riders In The Sky Lawrence Welk.mp3",
+        "artists": "Lawrence Welk and his Orchestra & Chorus",
+        "duration": 115,
+        "album": "The Lawrence Welk Collection: Lawrence Welk & His Champagne Music 1938-62",
+        "genre": "Pop; Soundtrack"
+    },
+    "What A Wonderful World": {
+        "path": "lossy/What A Wonderful World Louis Armstrong.mp3",
+        "artists": "Louis Armstrong",
+        "duration": 139,
+        "album": "Platinum Classics",
+        "genre": "Jazz; English"
+    },
+    "Yumeji's Theme": {
+        "path": "lossy/Yumejis Theme (From In the Mood for Love).mp3",
+        "artists": "Shigeru Umebayashi",
+        "duration": 151,
+        "album": "Yumeji's Theme (Original Motion Picture Soundtrack)",
+        "genre": "Movie; Soundtrack"
+    },
+    "Zaroori Tha": {
+        "path": "lossy/Zaroori Tha Rahat Fateh Ali Khan.mp3",
+        "artists": "Rahat Fateh Ali Khan; Kalil-ur-Rehman",
+        "duration": 342,
+        "album": "Back 2 Love",
+        "genre": "Urdu; Hindi"
     }
 }
