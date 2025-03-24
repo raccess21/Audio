@@ -172,7 +172,7 @@ def checked_playlist(fi):
 # save all lyrics for web assets and create web playlist
 def default_all_web():
     try:
-        with open("playlists web/All Songs Web.m3u", "r", encoding='UTF-8') as fi:
+        with open("playlists web/All Web.m3u", "r", encoding='UTF-8') as fi:
             data = checked_playlist(fi)
     except FileNotFoundError:
         data = "#EXTM3U\n#PLAYLIST:All Songs\n"
@@ -189,9 +189,9 @@ def default_all_web():
                 data += m3u_web_string_for_file(file_counter, file_path)
     
     
-    with open("playlists web/All Songs Web.m3u", "w", encoding='UTF-8') as fo:
+    with open("playlists web/All Web.m3u", "w", encoding='UTF-8') as fo:
         fo.write(info.sorted_m3u(data))
-        print("Updated: All Songs Web.m3u")
+        print("Updated: All Web.m3u")
     
     # all_files_in(["lossy/", "lossless/"] save lrc for web assets)
     save_all_lyrics_for_web_assets()
