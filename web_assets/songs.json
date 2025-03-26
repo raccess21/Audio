@@ -2210,5 +2210,26 @@
         "duration": 342,
         "album": "Back 2 Love",
         "genre": "Urdu; Hindi"
+    },
+    "Humnava": {
+        "path": "lossy/Man Mera (Hamari Adhuri Kahani).mp3",
+        "artists": "Papon, Mithoon",
+        "duration": 329,
+        "album": "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
+        "genre": "Films/Games & Film Scores & Bollywood"
+    },
+    "Mann Mera": {
+        "path": "lossy/Mann Mera Gajendra Verma.mp3",
+        "artists": "Gajendra Verma",
+        "duration": 200,
+        "album": "Table No. 21 (Original Motion Picture Soundtrack)",
+        "genre": "\u0410\u0437\u0438\u0430\u0442\u0441\u043a\u0430\u044f \u043c\u0443\u0437\u044b\u043a\u0430/\u0424\u0438\u043b\u044c\u043c\u044b/\u0418\u0433\u0440\u044b/\u0411\u043e\u043b\u043b\u0438\u0432\u0443\u0434"
+    },
+    "Njan Chendena": {
+        "path": "lossy/Njan Chendena Vijay Yesudas.mp3",
+        "artists": "Vijay Yesudas; Swetha Mohan; Mankombu Gopalkrishnan",
+        "duration": 332,
+        "album": "Baahubali - The Beginning (Original Motion Picture Soundtrack)",
+        "genre": "Telugu; Movie"
     }
 }
