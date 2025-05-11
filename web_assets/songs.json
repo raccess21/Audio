@@ -2275,10 +2275,52 @@
         "genre": "Pop; English"
     },
     "Tere Bin": {
-        "path": "lossy/Tere Bin Atif Aslam.mp3",
-        "artists": "Atif Aslam; Sayeed Quadri",
-        "duration": 276,
-        "album": "Bas Ek Pal (Original Motion Picture Soundtrack)",
-        "genre": "Bollywood; Movie; Hindi; Pop; Sufi"
+        "path": "lossy/Tere Bin Rabbi Shergill.mp3",
+        "artists": "Rabbi Shergill",
+        "duration": 323,
+        "album": "Rabbi",
+        "genre": "Punjabi; Sufi"
+    },
+    "Bade Achhe Lagte Hain": {
+        "path": "lossy/Bade Achhe Lagte Hain Amit Kumar.mp3",
+        "artists": "Amit Kumar; Anand Bakshi",
+        "duration": 302,
+        "album": "Balika Vadhu",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Choo Lo": {
+        "path": "lossy/Choo Lo The Local Train.mp3",
+        "artists": "The Local Train",
+        "duration": 234,
+        "album": "Aalas Ka Pedh",
+        "genre": "Pop; Rock; Hindi"
+    },
+    "Hum to Dil Se Haare": {
+        "path": "lossy/Hum to Dil Se Haare Udit Narayan.mp3",
+        "artists": "Udit Narayan; Alka Yagnik; Sameer",
+        "duration": 308,
+        "album": "Josh (Original Motion Picture Soundtrack)",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Suraj Hua Maddham": {
+        "path": "lossy/Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack.mp3",
+        "artists": "Sonu Nigam; Alka Yagnik; Anil Pandey",
+        "duration": 428,
+        "album": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Mere Mehboob Qayamat Hogi, Pt. 1 (From \"Mr. X in Bombay\")": {
+        "path": "lossy/Mere Mehboob Qayamat Hogi Pt 1 Kishore Kumar.mp3",
+        "artists": "Kishore Kumar; Anand Bakshi",
+        "duration": 229,
+        "album": "Mr. X in Bombay",
+        "genre": "Bollywood; Movie; Hindi"
+    },
+    "Teri Meri Kahaani": {
+        "path": "lossy/Teri Meri Kahaani Arijit Singh.mp3",
+        "artists": "Palak Muchhal; Arijit Singh; Manoj Yadav",
+        "duration": 371,
+        "album": "Gabbar Is Back (Original Motion Picture Soundtrack)",
+        "genre": "Bollywood; Movie; Hindi; Pop"
     }
 }
