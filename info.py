@@ -87,7 +87,7 @@ def clean_tag(ext, file_path):
     
     # Helper to safely parse and clean list-like fields
     def clean_mp3(song):
-        song["artists"] = [a.strip() for a in song["artists"].replace(',', ';').split(";")]
+        song["artists"] = [a.strip() for a in song["artists"].replace(',', ';').replace("\u0000", ";").split(";")]
         song["genre"] = [a.strip() for a in song["genre"].replace("\u0000", ";").split(";")]
         return song
     

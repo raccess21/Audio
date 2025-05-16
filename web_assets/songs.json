@@ -87,7 +87,9 @@
     },
     "Aadat": {
         "artists": [
-            "Atif Aslam\u0000Jal\u0000Mithun Sharma"
+            "Atif Aslam",
+            "Jal",
+            "Mithun Sharma"
         ],
         "genre": [
             "Films",
@@ -100,7 +102,10 @@
     },
     "Aaj Ki Raat": {
         "artists": [
-            "Shankar-Ehsaan-Loy\u0000Sonu Nigam\u0000Mahalakshmi Iyer\u0000Alisha Chinai"
+            "Shankar-Ehsaan-Loy",
+            "Sonu Nigam",
+            "Mahalakshmi Iyer",
+            "Alisha Chinai"
         ],
         "genre": [
             "Bollywood",
@@ -114,7 +119,9 @@
     },
     "Aaja Nachle": {
         "artists": [
-            "Sunidhi Chauhan\u0000Salim-Sulaiman\u0000Piyush Mishra"
+            "Sunidhi Chauhan",
+            "Salim-Sulaiman",
+            "Piyush Mishra"
         ],
         "genre": [
             "Bollywood",
@@ -290,7 +297,8 @@
     },
     "Awara Hoon": {
         "artists": [
-            "Shankar-Jaikishan\u0000Mukesh"
+            "Shankar-Jaikishan",
+            "Mukesh"
         ],
         "genre": [
             "Hindi"
@@ -623,7 +631,9 @@
     },
     "Bulleya": {
         "artists": [
-            "Pritam\u0000Amit Mishra\u0000Shilpa Rao"
+            "Pritam",
+            "Amit Mishra",
+            "Shilpa Rao"
         ],
         "genre": [
             "Films",
@@ -662,7 +672,8 @@
     },
     "Chaahat": {
         "artists": [
-            "Jeet Gannguli\u0000Rahat Fateh Ali Khan"
+            "Jeet Gannguli",
+            "Rahat Fateh Ali Khan"
         ],
         "genre": [
             "Hindi"
@@ -688,7 +699,8 @@
     },
     "Chahun Main Ya Naa": {
         "artists": [
-            "Palak Muchhal\u0000Arijit Singh"
+            "Palak Muchhal",
+            "Arijit Singh"
         ],
         "genre": [
             "Hindi"
@@ -907,7 +919,8 @@
     },
     "Coney Island": {
         "artists": [
-            "Taylor Swift\u0000The National"
+            "Taylor Swift",
+            "The National"
         ],
         "genre": [
             "Alternative",
@@ -965,7 +978,8 @@
     },
     "Death Note OST I - 03 - Light's Theme (\u30e9\u30a4\u30c8\u306e\u30c6\u30fc\u30de, Raito no T\u0113ma)": {
         "artists": [
-            "Hideki Taniuchi\u0000Yoshihisa Hirano"
+            "Hideki Taniuchi",
+            "Yoshihisa Hirano"
         ],
         "genre": [
             "Soundtrack"
@@ -1082,7 +1096,9 @@
     },
     "Excuses": {
         "artists": [
-            "AP Dhillon\u0000Gurinder Gill\u0000Intense"
+            "AP Dhillon",
+            "Gurinder Gill",
+            "Intense"
         ],
         "genre": [
             "Pop",
@@ -1129,7 +1145,8 @@
     },
     "Gabru": {
         "artists": [
-            "Yo Yo Honey Singh\u0000J-Star"
+            "Yo Yo Honey Singh",
+            "J-Star"
         ],
         "genre": [
             "Punjabi"
@@ -1281,7 +1298,8 @@
     },
     "Heavy (feat. Kiiara)": {
         "artists": [
-            "Linkin Park\u0000Kiiara"
+            "Linkin Park",
+            "Kiiara"
         ],
         "genre": [
             "Alternative",
@@ -1432,7 +1450,8 @@
     },
     "Hum Mar Jayenge": {
         "artists": [
-            "Tulsi Kumar\u0000Arijit Singh"
+            "Tulsi Kumar",
+            "Arijit Singh"
         ],
         "genre": [
             "Hindi"
@@ -1472,7 +1491,8 @@
     },
     "Hymn For The Weekend": {
         "artists": [
-            "Coldplay\u0000Beyonce"
+            "Coldplay",
+            "Beyonce"
         ],
         "genre": [
             "Pop",
@@ -1728,7 +1748,8 @@
     },
     "Jo Bhi Main": {
         "artists": [
-            "Mohit Chauhan\u0000Irshad Kamil"
+            "Mohit Chauhan",
+            "Irshad Kamil"
         ],
         "genre": [
             "Rock",
@@ -1755,7 +1776,8 @@
     },
     "Summer Mvt 3 Presto": {
         "artists": [
-            "Antonio Vivaldi\u0000John Harrison with the Wichita State University Chamber Players"
+            "Antonio Vivaldi",
+            "John Harrison with the Wichita State University Chamber Players"
         ],
         "genre": [
             "Classical",
@@ -1767,7 +1789,8 @@
     },
     "Judai": {
         "artists": [
-            "Pritam\u0000Kamran Ahmed"
+            "Pritam",
+            "Kamran Ahmed"
         ],
         "genre": [
             "Hindi"
@@ -1828,7 +1851,8 @@
     },
     "Kabhi Yun Bhi To Ho": {
         "artists": [
-            "Jagjit Singh\u0000Javed Akhtar"
+            "Jagjit Singh",
+            "Javed Akhtar"
         ],
         "genre": [
             "Hindi",
@@ -1921,7 +1945,8 @@
     },
     "Khuda Jaane": {
         "artists": [
-            "KK\u0000Shilpa Rao"
+            "KK",
+            "Shilpa Rao"
         ],
         "genre": [
             "Hindi"
@@ -1943,7 +1968,8 @@
     },
     "Kun Faaya Kun": {
         "artists": [
-            "Javed Ali\u0000Irshad Kamil"
+            "Javed Ali",
+            "Irshad Kamil"
         ],
         "genre": [
             "Rock",
@@ -2184,7 +2210,8 @@
     },
     "Main Nashe Mein Hoon (From Live With Jagjit Singh)": {
         "artists": [
-            "Jagjit Singh\u0000Shahid Kabir"
+            "Jagjit Singh",
+            "Shahid Kabir"
         ],
         "genre": [
             "Urdu",
@@ -2287,7 +2314,8 @@
     },
     "Mere Rashke Qamar (Complete Original Version)": {
         "artists": [
-            "Nusrat Fateh Ali Khan\u0000Fana Buland Shehri"
+            "Nusrat Fateh Ali Khan",
+            "Fana Buland Shehri"
         ],
         "genre": [
             "Urdu",
@@ -2300,7 +2328,8 @@
     },
     "Meri Aashiqui": {
         "artists": [
-            "Palak Muchhal\u0000Arijit Singh"
+            "Palak Muchhal",
+            "Arijit Singh"
         ],
         "genre": [
             "Hindi"
@@ -2345,7 +2374,8 @@
     },
     "Dillagi": {
         "artists": [
-            "MojoJojo\u0000Akshay Johar"
+            "MojoJojo",
+            "Akshay Johar"
         ],
         "genre": [
             "Soundtrack"
@@ -2405,7 +2435,8 @@
     },
     "Nadaan Parindey": {
         "artists": [
-            "Mohit Chauhan\u0000Irshad Kamil"
+            "Mohit Chauhan",
+            "Irshad Kamil"
         ],
         "genre": [
             "Rock",
@@ -2698,7 +2729,8 @@
     },
     "Phir Se Ud Chala": {
         "artists": [
-            "Mohit Chauhan\u0000Irshad Kamil"
+            "Mohit Chauhan",
+            "Irshad Kamil"
         ],
         "genre": [
             "Rock",
@@ -2710,7 +2742,8 @@
     },
     "Piya Aaye Na": {
         "artists": [
-            "Tulsi Kumar\u0000KK"
+            "Tulsi Kumar",
+            "KK"
         ],
         "genre": [
             "Hindi"
@@ -2721,7 +2754,8 @@
     },
     "Professional Griefers": {
         "artists": [
-            "Deadmau5\u0000Gerard Way"
+            "Deadmau5",
+            "Gerard Way"
         ],
         "genre": [
             "Dance",
@@ -2820,7 +2854,8 @@
     },
     "Reckoning Song (One Day)": {
         "artists": [
-            "Asaf Avidan\u0000The Mojos"
+            "Asaf Avidan",
+            "The Mojos"
         ],
         "genre": [
             "English"
@@ -2867,7 +2902,9 @@
     },
     "Saadda Haq (Featuring Orianthi Panagaris On Guitars)": {
         "artists": [
-            "Clinton Cerejo\u0000Mohit Chauhan\u0000Irshad Kamil"
+            "Clinton Cerejo",
+            "Mohit Chauhan",
+            "Irshad Kamil"
         ],
         "genre": [
             "Rock",
@@ -2879,7 +2916,8 @@
     },
     "Saadgi To Hamari": {
         "artists": [
-            "Nusrat Fateh Ali Khan\u0000Saba Akbarabadi"
+            "Nusrat Fateh Ali Khan",
+            "Saba Akbarabadi"
         ],
         "genre": [
             "Urdu",
@@ -3013,7 +3051,9 @@
     },
     "Sheher Mein": {
         "artists": [
-            "Mohit Chauhan\u0000Karthik\u0000Irshad Kamil"
+            "Mohit Chauhan",
+            "Karthik",
+            "Irshad Kamil"
         ],
         "genre": [
             "Rock",
@@ -3164,7 +3204,9 @@
     },
     "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)": {
         "artists": [
-            "Baroque Festival Orchestra\u0000Alberto Lizzio\u0000Antonio Vivaldi"
+            "Baroque Festival Orchestra",
+            "Alberto Lizzio",
+            "Antonio Vivaldi"
         ],
         "genre": [
             "Classical"
@@ -3263,7 +3305,9 @@
     },
     "Teri Deewani": {
         "artists": [
-            "Kailash Kher\u0000Paresh Kamath\u0000Naresh Kamath"
+            "Kailash Kher",
+            "Paresh Kamath",
+            "Naresh Kamath"
         ],
         "genre": [
             "Hindi"
@@ -3441,7 +3485,8 @@
     },
     "Tu Jaane Na": {
         "artists": [
-            "Atif Aslam\u0000Irshad Kamil"
+            "Atif Aslam",
+            "Irshad Kamil"
         ],
         "genre": [
             "Films",
@@ -3494,7 +3539,9 @@
     },
     "Tum Ho": {
         "artists": [
-            "Suzanne D'Mello\u0000Mohit Chauhan\u0000Irshad Kamil"
+            "Suzanne D'Mello",
+            "Mohit Chauhan",
+            "Irshad Kamil"
         ],
         "genre": [
             "Rock",
@@ -3506,7 +3553,8 @@
     },
     "Tum Itna Jo Muskura Rahe Ho": {
         "artists": [
-            "Jagjit Singh\u0000Kaifi Azmi"
+            "Jagjit Singh",
+            "Kaifi Azmi"
         ],
         "genre": [
             "Bollywood",
@@ -3520,7 +3568,8 @@
     },
     "Tum Se Hi": {
         "artists": [
-            "Mohit Chauhan\u0000Irshad Kamil"
+            "Mohit Chauhan",
+            "Irshad Kamil"
         ],
         "genre": [
             "Films/Games",
@@ -3629,7 +3678,8 @@
     },
     "Vande Matram": {
         "artists": [
-            "Lata Mangeshkar\u0000Ranjit Barot"
+            "Lata Mangeshkar",
+            "Ranjit Barot"
         ],
         "genre": [
             "Hindi"
@@ -3786,7 +3836,8 @@
     },
     "Ye Jo Halka Halka Saroor Hai": {
         "artists": [
-            "Nusrat Fateh Ali Khan\u0000Anwar Farrukhabadi"
+            "Nusrat Fateh Ali Khan",
+            "Anwar Farrukhabadi"
         ],
         "genre": [
             "Urdu",
