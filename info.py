@@ -106,23 +106,21 @@ def clean_tag(ext, file_path):
         "mp3": clean_mp3,
         "m4a": clean_m4a    
     }
-    song = cleaners[ext](song)
-    title = song.pop("title")
-    return title, song
+    return cleaners[ext](song)
 
 def all_songs_dict(base_dir=["lossy/"]):
     try:
         with open("web_assets/songs.json", "r") as f:
             songs = json.loads(f.read())
     except FileNotFoundError:
-        songs = {}
+        songs = []
     
     for i, file_path in enumerate(all_files_in(base_dir=base_dir)):
         name, ext = file_name_ext(file_path)
         if ext in music_extensions() and file_path not in songs:
             print(i, name, ' ', sep='"')
-            title, song = clean_tag(ext, file_path)
-            songs[title] = song
+            song = clean_tag(ext, file_path)
+            songs.append(song)
 
     with open("web_assets/songs.json", "w") as f:
         f.write(json.dumps(songs, indent=4))
