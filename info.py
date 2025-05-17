@@ -125,14 +125,14 @@ def all_songs_dict(base_dir=["lossy/"]):
     with open("web_assets/songs.json", "w") as f:
         f.write(json.dumps(songs, indent=4))
 
-    # for file_path in all_files_in(base_dir=["lossy/"]):
-    #     name, ext = file_name_ext(file_path)
-    #     # if ext in music_extensions():
-    #     if ext == "m4a":
-    #         print(name)
-    #         fname = file_path.split("." + ext)[0]
-    #         os.rename(file_path, file_path.replace("lossy/", "new downloads/"))
-    #         os.rename(f"{fname}.lrc", f"{fname}.lrc".replace("lossy/", "new downloads/"))
+def name_clean(base_dir=["new downloads/"]):
+    for i, file_path in enumerate(all_files_in(base_dir=base_dir)):
+        name, ext = file_name_ext(file_path)
+        path = file_path.split(name)[0]
+        name = " ".join(reversed([n.strip() for n in name.split("-")]))
+        new_name = path + name + "." + ext
+        os.rename(file_path, new_name)
+        print(i, new_name, ' ', sep='"')
 
 # search algo to match youtube songs with local songs
 def get_playlist(id="PLlXEnX_5coLUM5Sn_YV1ldufT55OxP9VS"):
@@ -154,10 +154,5 @@ def get_playlist(id="PLlXEnX_5coLUM5Sn_YV1ldufT55OxP9VS"):
 
 
 if __name__ == "__main__":
-    # with open("web_assets/yt_playlists.json", "r") as f:
-    #     playlists = json.loads(f.read())
-    
-    # for playlist in playlists:
-    #     get_playlist(playlists[playlist])
-    #     print("\n\n")
-    all_songs_dict()
+    # all_songs_dict()
+    name_clean()
