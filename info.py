@@ -23,9 +23,9 @@ def all_tags(filename):
 
 def audio_tags():
     return {
-        "flac": {"function": FLAC, "title": "title", "artist": "artists", "genre": "genre", "album": "album"},
-        "mp3":  {"function": MP3, "title": "TIT2", "artists": "TPE1", "genre": "TCON", "album": "TALB"},
-        "m4a":  {"function": MP4, "title": "©nam", "artists": "©ART", "genre": "©gen", "album": "©alb"},
+        "flac": {"function": FLAC, "title": "title", "artist": "artists", "genre": "genre", "album": "album", "date": "date"},
+        "mp3":  {"function": MP3, "title": "TIT2", "artists": "TPE1", "genre": "TCON", "album": "TALB", "date": "TDRC"},
+        "m4a":  {"function": MP4, "title": "©nam", "artists": "©ART", "genre": "©gen", "album": "©alb", "date": "©day"},
     }
 
 def save_audio(audio):
@@ -76,14 +76,25 @@ def clean_tag(ext, file_path):
     tags = audio_tags()[ext]
     audio = tags["function"](file_path)
     
-    song = {
-        "title" : str(audio[tags["title"]]),
-        "artists" : str(audio[tags["artists"]]),
-        "genre" : str(audio[tags["genre"]]),
-        "album" : str(audio[tags["album"]]),
-        "path": file_path.split("Audio/")[-1],
-        "duration": round(audio.info.length),
+    tagnames = {
+        "title": "Unknown",
+        "artists": [],
+        "genre": [],
+        "album": "Unknown",
+        "date": "3000" 
     }
+
+    song = {
+        "path": file_path.split("Audio/")[-1],
+        "duration": round(audio.info.length)
+    }
+
+    for tag in tagnames.keys():
+        try:
+            song[tag] = str(audio[tags[tag]])
+        except:
+            song[tag] = tagnames[tag]
+    
     
     # Helper to safely parse and clean list-like fields
     def clean_mp3(song):
@@ -96,6 +107,11 @@ def clean_tag(ext, file_path):
         song["artists"] = ast.literal_eval(song["artists"])
         song["genre"] = ast.literal_eval(song["genre"].replace("; ", "', '"))
         song["album"] = song["album"].split("'")[1]
+        try:
+            song["date"] = ast.literal_eval(song["date"])[0]
+        except:
+            song["date"] = str(ast.literal_eval(song["date"]))
+
         return song
 
     def clean_flac(song):
@@ -110,15 +126,15 @@ def clean_tag(ext, file_path):
 
 def all_songs_dict(base_dir=["lossy/"]):
     try:
-        with open("web_assets/songs.json", "r") as f:
+        with open("web_assets/songsi.json", "r") as f:
             songs = json.loads(f.read())
     except FileNotFoundError:
         songs = []
-    
+    # songs = []
     for i, file_path in enumerate(all_files_in(base_dir=base_dir)):
         name, ext = file_name_ext(file_path)
         if ext in music_extensions() and file_path not in songs:
-            print(i, name, ' ', sep='"')
+            print(i, file_path, ' ', sep='"')
             song = clean_tag(ext, file_path)
             songs.append(song)
 
@@ -153,6 +169,28 @@ def get_playlist(id="PLlXEnX_5coLUM5Sn_YV1ldufT55OxP9VS"):
             print(found, track["title"], sep=". ")
 
 
+def all_tags():
+    songs = [
+        "./lossy/Bhaag Milkha Bhaag (Rock Version) Shankar Ehsaan Loy Siddharth.m4a",
+        "./lossy/Aa Zara Sunidhi Chauhan.m4a",
+        "./lossy/Aadat (From  Kalyug).mp3",
+        "./lossy/A Cooper Options.mp3",
+        "./lossless/Pink Floyd - The Division Bell 1994 Rock [FLAC-Lossless]/08 Pink Floyd - Coming Back To Life.flac"
+    ]
+
+    filename = songs[3] 
+    name, ext = file_name_ext(filename)
+    audio = audio_tags()[ext]["function"](filename)
+    
+    print(filename)
+    for tag, value in audio.tags.items():
+        print(tag, value)
+
 if __name__ == "__main__":
-    # all_songs_dict()
-    name_clean()
+    all_songs_dict()
+    # name_clean()
+    # all_tags()
+    with open("web_assets/songsi.json", "r") as fi:
+        for song in json.loads(fi.read()):
+            if str(song["date"].split("-")[0])=="0000":
+                print(song["title"], song["date"], sep=":  ")

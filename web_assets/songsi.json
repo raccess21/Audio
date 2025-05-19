@@ -1,0 +1,4915 @@
+[
+    {
+        "path": "lossy/01. Welcome To The Jungle.mp3",
+        "duration": 272,
+        "title": "Welcome To The Jungle",
+        "artists": [
+            "Guns N' Roses"
+        ],
+        "genre": [
+            "Hard Rock",
+            "English"
+        ],
+        "album": "Greatest Hits ",
+        "date": "2004"
+    },
+    {
+        "path": "lossy/02. Sweet Child O' Mine.mp3",
+        "duration": 355,
+        "title": "Sweet Child O' Mine",
+        "artists": [
+            "Guns N' Roses"
+        ],
+        "genre": [
+            "Hard Rock",
+            "English"
+        ],
+        "album": "Greatest Hits",
+        "date": "2004"
+    },
+    {
+        "path": "lossy/09. November Rain.mp3",
+        "duration": 537,
+        "title": "November Rain",
+        "artists": [
+            "Guns N' Roses"
+        ],
+        "genre": [
+            "Hard Rock",
+            "English"
+        ],
+        "album": "Greatest Hits ",
+        "date": "2004"
+    },
+    {
+        "path": "lossy/295 Sidhu Moose Wala.m4a",
+        "duration": 270,
+        "title": "295",
+        "artists": [
+            "Sidhu Moose Wala"
+        ],
+        "genre": [
+            "Punjabi",
+            "Hip Hop"
+        ],
+        "album": "Moosetape",
+        "date": "2021"
+    },
+    {
+        "path": "lossy/A Cooper Options.mp3",
+        "duration": 285,
+        "title": "Options",
+        "artists": [
+            "A Cooper"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Aa Chal Ke Tujhe Kishore Kumar.mp3",
+        "duration": 280,
+        "title": "Aa Chal Ke Tujhe",
+        "artists": [
+            "Kishore Kumar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Door Gagan Ki Chhaon Mein (Original Motion Picture Soundtrack)",
+        "date": "1964"
+    },
+    {
+        "path": "lossy/Aa Zara Sunidhi Chauhan.m4a",
+        "duration": 297,
+        "title": "Aa Zara",
+        "artists": [
+            "Sunidhi Chauhan"
+        ],
+        "genre": [
+            "Hindi",
+            "Bollywood",
+            "Pop"
+        ],
+        "album": "Murder 2",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Aadat (From  Kalyug).mp3",
+        "duration": 334,
+        "title": "Aadat",
+        "artists": [
+            "Atif Aslam",
+            "Jal",
+            "Mithun Sharma"
+        ],
+        "genre": [
+            "Films",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Kalyug (Original Motion Picture Soundtrack)",
+        "date": "2005-12-09"
+    },
+    {
+        "path": "lossy/Aaj Ki Raat Don The Chase Begins Again.mp3",
+        "duration": 369,
+        "title": "Aaj Ki Raat",
+        "artists": [
+            "Shankar-Ehsaan-Loy",
+            "Sonu Nigam",
+            "Mahalakshmi Iyer",
+            "Alisha Chinai"
+        ],
+        "genre": [
+            "Bollywood",
+            "Hindi",
+            "Disco",
+            "Pop"
+        ],
+        "album": "Don - The Chase Begins Again",
+        "date": "2006"
+    },
+    {
+        "path": "lossy/Aaja Nachle Sunidhi Chauhan.mp3",
+        "duration": 305,
+        "title": "Aaja Nachle",
+        "artists": [
+            "Sunidhi Chauhan",
+            "Salim-Sulaiman",
+            "Piyush Mishra"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Aaja Nachle",
+        "date": "2007-10-18"
+    },
+    {
+        "path": "lossy/Aam Jahe Munde Parmish Verma.mp3",
+        "duration": 208,
+        "title": "Aam Jahe Munde",
+        "artists": [
+            "Parmish Verma"
+        ],
+        "genre": [
+            "Hip Hop",
+            "Punjabi"
+        ],
+        "album": "Unknown",
+        "date": "2023"
+    },
+    {
+        "path": "lossy/Aarambh Piyush Mishra.m4a",
+        "duration": 296,
+        "title": "Aarambh",
+        "artists": [
+            "Piyush Mishra"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Gulaal",
+        "date": "2009"
+    },
+    {
+        "path": "lossy/Aasan Nahin Yahan.mp3",
+        "duration": 215,
+        "title": "Aasan Nahin Yahan",
+        "artists": [
+            "Arijit Singh"
+        ],
+        "genre": [
+            "Hindi",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Aashiqui The Love Theme.mp3",
+        "duration": 162,
+        "title": "Aashiqui (The Love Theme)",
+        "artists": [
+            "Mithoon"
+        ],
+        "genre": [
+            "Soundtrack",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Abhi Na Jao Chhod Kar (From  Hum Dono ) Mohammed Rafi.mp3",
+        "duration": 258,
+        "title": "Abhi Na Jao Chhod Kar (From \"Hum Dono\")",
+        "artists": [
+            "Mohammed Rafi",
+            "Asha Bhosle",
+            "Sahir Ludhiyanvi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Hum Dono",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Alive Pearl Jam.mp3",
+        "duration": 341,
+        "title": "Alive",
+        "artists": [
+            "Pearl Jam"
+        ],
+        "genre": [
+            "Rock",
+            "English",
+            "Grunge"
+        ],
+        "album": "Ten",
+        "date": "1992-01-14"
+    },
+    {
+        "path": "lossy/Animals Maroon 5.mp3",
+        "duration": 229,
+        "title": "Animals",
+        "artists": [
+            "Maroon 5"
+        ],
+        "genre": [
+            "English",
+            "Pop"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Ankhiyon Ke Jharokhon Se Pt 2 Hemlata.mp3",
+        "duration": 446,
+        "title": "Ankhiyon Ke Jharokhon Se Pt. 2",
+        "artists": [
+            "Hemlata",
+            "Ravindra Jain"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Ankhiyon Ke Jharokhon Se (Original Motion Picture Soundtrack)",
+        "date": "1978"
+    },
+    {
+        "path": "lossy/Apocalypse Cigarettes After Sex.mp3",
+        "duration": 285,
+        "title": "Apocalypse",
+        "artists": [
+            "Cigarettes After Sex"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Cigarettes After Sex",
+        "date": "2017"
+    },
+    {
+        "path": "lossy/ARBI GHODE Official Bhagat.m4a",
+        "duration": 158,
+        "title": "Arbi Ghode",
+        "artists": [
+            "Official Bhagat",
+            "Saxobeat",
+            "Jpeezy"
+        ],
+        "genre": [
+            "Hindi",
+            "Hip Hop"
+        ],
+        "album": "2020",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Ashes C\u00e9line Dion.mp3",
+        "duration": 200,
+        "title": "Ashes",
+        "artists": [
+            "C\u00e9line Dion"
+        ],
+        "genre": [
+            "Movie",
+            "Hollywood",
+            "English"
+        ],
+        "album": "Ashes",
+        "date": "2018"
+    },
+    {
+        "path": "lossy/Asi Gabru Punjabi Amrinder Gill.m4a",
+        "duration": 228,
+        "title": "Asi Gabru Punjabi",
+        "artists": [
+            "Amrinder Gill"
+        ],
+        "genre": [
+            "Punjabi"
+        ],
+        "album": "Judda",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Aur Ho Rockstar.mp3",
+        "duration": 335,
+        "title": "Aur Ho",
+        "artists": [
+            "Mohit Chauhan/Alma Ferovic/Irshad Kamil"
+        ],
+        "genre": [
+            "Rock"
+        ],
+        "album": "Rockstar",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Awara Hoon Mukesh.mp3",
+        "duration": 185,
+        "title": "Awara Hoon",
+        "artists": [
+            "Shankar-Jaikishan",
+            "Mukesh"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Awaara",
+        "date": "1951"
+    },
+    {
+        "path": "lossy/Aye Bachchu (Ghajini).mp3",
+        "duration": 226,
+        "title": "Aye Bachchu",
+        "artists": [
+            "Suzanne D'Mello",
+            "Prasoon Joshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Ghajini",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Baarishein Anuv Jain.mp3",
+        "duration": 207,
+        "title": "Baarishein",
+        "artists": [
+            "Anuv Jain"
+        ],
+        "genre": [
+            "Pop",
+            "Hindi"
+        ],
+        "album": "Baarishein",
+        "date": "2018-01-12"
+    },
+    {
+        "path": "lossy/Babam Bam Paradox.mp3",
+        "duration": 138,
+        "title": "Babam Bam Paradox",
+        "artists": [
+            "Paradox",
+            "Aditya Pushkarna"
+        ],
+        "genre": [
+            "Hindi",
+            "Hip Hop"
+        ],
+        "album": "Babam Bam (From \"Mtv Hustle 2.0\")",
+        "date": "2024-01-12"
+    },
+    {
+        "path": "lossy/Bacche Ye Official Bhagat.mp3",
+        "duration": 247,
+        "title": "Bacche Ye",
+        "artists": [
+            "Official Bhagat"
+        ],
+        "genre": [
+            "Hindi",
+            "Hip Hop"
+        ],
+        "album": "Bacche Ye",
+        "date": "2023"
+    },
+    {
+        "path": "lossy/Back In Black ACDC.mp3",
+        "duration": 255,
+        "title": "Back In Black",
+        "artists": [
+            "AC/DC"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Back In Black",
+        "date": "1980"
+    },
+    {
+        "path": "lossy/Bade Achhe Lagte Hain Amit Kumar.mp3",
+        "duration": 302,
+        "title": "Bade Achhe Lagte Hain",
+        "artists": [
+            "Amit Kumar",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Balika Vadhu",
+        "date": "1976"
+    },
+    {
+        "path": "lossy/Badshah In Jail Various Artists.mp3",
+        "duration": 447,
+        "title": "Badshah In Jail",
+        "artists": [
+            "Indian Ocean"
+        ],
+        "genre": [
+            "Rock",
+            "Fusion",
+            "Sufi",
+            "Hindi"
+        ],
+        "album": "Black Friday (Original Motion Picture Soundtrack)",
+        "date": "2013-02-15"
+    },
+    {
+        "path": "lossy/Bandeh Indian Ocean.m4a",
+        "duration": 469,
+        "title": "Bandheh",
+        "artists": [
+            "Indian Ocean",
+            "Piyush Mishra"
+        ],
+        "genre": [
+            "Hindi",
+            "Rock",
+            "Fusion",
+            "Sufi",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Black Friday",
+        "date": "2004"
+    },
+    {
+        "path": "lossy/Banjaara Mohammed Irfan.mp3",
+        "duration": 337,
+        "title": "Banjaara",
+        "artists": [
+            "Mohammed Irfan",
+            "Mithoon"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Hindi"
+        ],
+        "album": "Ek Villain",
+        "date": "2014-05-28"
+    },
+    {
+        "path": "lossy/Battle Symphony Linkin Park.mp3",
+        "duration": 216,
+        "title": "Battle Symphony",
+        "artists": [
+            "Linkin Park"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "One More Light",
+        "date": "2017-05-19"
+    },
+    {
+        "path": "lossy/Battlefield 4 Warsaw Theme.mp3",
+        "duration": 156,
+        "title": "Warsaw Theme",
+        "artists": [
+            "Rami"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Battlefield 4 (Original Soundtrack)",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/BBC Intro David Lowe.mp3",
+        "duration": 30,
+        "title": "BBC Intro",
+        "artists": [
+            "David Lowe"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Behka (Ghajini).mp3",
+        "duration": 311,
+        "title": "Behka",
+        "artists": [
+            "Karthik",
+            "Prasoon Joshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Ghajini",
+        "date": "2014"
+    },
+    {
+        "path": "lossy/Bhaag D.K. Bose Aandhi Aayi Ram Sampath.mp3",
+        "duration": 241,
+        "title": "Bhaag D.K. Bose, Aandhi Aayi",
+        "artists": [
+            "Ram Sampath"
+        ],
+        "genre": [
+            "Bollywood",
+            "Hindi",
+            "Rock"
+        ],
+        "album": "Delhi Belly (Original Motion Picture Soundtrack)",
+        "date": "2020-07-24"
+    },
+    {
+        "path": "lossy/Bhaag Milkha Bhaag (Rock Version) Shankar Ehsaan Loy Siddharth.m4a",
+        "duration": 280,
+        "title": "Bhaag Milkha Bhaag (Rock Version)",
+        "artists": [
+            "Siddharth Mahadevan",
+            "Prasoon Joshi"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Bharam Bhaap Ke Indian Ocean.m4a",
+        "duration": 517,
+        "title": "Bharam Bhaap Ke",
+        "artists": [
+            "Indian Ocean",
+            "Piyush Mishra"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Rock",
+            "Fusion"
+        ],
+        "album": "Black Friday",
+        "date": "2004"
+    },
+    {
+        "path": "lossy/Bhula Dena.mp3",
+        "duration": 241,
+        "title": "Bhula Dena",
+        "artists": [
+            "Mustafa Zahid"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Big Dawgs Hanumankind.mp3",
+        "duration": 191,
+        "title": "Big Dawgs",
+        "artists": [
+            "Hanumankind/ Kalmi"
+        ],
+        "genre": [
+            "Rap",
+            "Hip Hop",
+            "English"
+        ],
+        "album": "Big Dawgs",
+        "date": "2024-07-09"
+    },
+    {
+        "path": "lossy/Bitter Sweet Symphony (Remastered 2016) The Verve.m4a",
+        "duration": 357,
+        "title": "Bitter Sweet Symphony (Remastered 2016)",
+        "artists": [
+            "The Verve"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Urban Hymns (Remastered 2016)",
+        "date": "2017"
+    },
+    {
+        "path": "lossy/Black Pearl Jam.mp3",
+        "duration": 343,
+        "title": "Black",
+        "artists": [
+            "Pearl Jam"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Ten",
+        "date": "1992-01-14"
+    },
+    {
+        "path": "lossy/Black Sheep Metric.mp3",
+        "duration": 297,
+        "title": "Black Sheep",
+        "artists": [
+            "Metric"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Film Scores",
+            "Rock"
+        ],
+        "album": "Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)",
+        "date": "0000"
+    },
+    {
+        "path": "lossy/Blinding Lights The Weeknd.m4a",
+        "duration": 200,
+        "title": "Blinding Lights",
+        "artists": [
+            "The Weeknd"
+        ],
+        "genre": [
+            "English",
+            "Pop"
+        ],
+        "album": "After Hours",
+        "date": "2020"
+    },
+    {
+        "path": "lossy/Blowin' in the Wind Bob Dylan.mp3",
+        "duration": 165,
+        "title": "Blowin' in the Wind",
+        "artists": [
+            "Bob Dylan"
+        ],
+        "genre": [
+            "Folk",
+            "English"
+        ],
+        "album": "The Freewheelin' Bob Dylan",
+        "date": "1963-05-24"
+    },
+    {
+        "path": "lossy/Boulevard of Broken Dreams Green Day.m4a",
+        "duration": 262,
+        "title": "Boulevard of Broken Dreams",
+        "artists": [
+            "Green Day"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "s Favorite Band\"]",
+        "date": "2017"
+    },
+    {
+        "path": "lossy/Bring Me To Life Evanescence.mp3",
+        "duration": 236,
+        "title": "Bring Me To Life",
+        "artists": [
+            "Evanescence"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Fallen",
+        "date": "2003-01-01"
+    },
+    {
+        "path": "lossy/Bulleya (From _Ae Dil Hai Mushkil_).mp3",
+        "duration": 349,
+        "title": "Bulleya",
+        "artists": [
+            "Pritam",
+            "Amit Mishra",
+            "Shilpa Rao"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Film Scores",
+            "Bollywood",
+            "Hindi"
+        ],
+        "album": "Ae Dil Hai Mushkil",
+        "date": "2016-10-26"
+    },
+    {
+        "path": "lossy/Burden In My Hand Soundgarden.mp3",
+        "duration": 290,
+        "title": "Burden In My Hand",
+        "artists": [
+            "Soundgarden"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Down On The Upside",
+        "date": "1993-05-03"
+    },
+    {
+        "path": "lossy/Carnival of Rust Poets of the Fall.mp3",
+        "duration": 263,
+        "title": "Carnival of Rust",
+        "artists": [
+            "Poets Of The Fall"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Carnival of Rust",
+        "date": "2014-08-26"
+    },
+    {
+        "path": "lossy/Chaahat Jeet Gannguli.mp3",
+        "duration": 263,
+        "title": "Chaahat",
+        "artists": [
+            "Jeet Gannguli",
+            "Rahat Fateh Ali Khan"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Blood Money (Original Motion Picture Soundtrack)",
+        "date": "2012-02-14"
+    },
+    {
+        "path": "lossy/Chaar Kadam (From  Pk).mp3",
+        "duration": 243,
+        "title": "Chaar Kadam (From \"Pk\")",
+        "artists": [
+            "Shaan",
+            "Shreya Ghoshal",
+            "Shantanu Moitra"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Pk",
+        "date": "2024"
+    },
+    {
+        "path": "lossy/Chahun Main Ya Naa.mp3",
+        "duration": 305,
+        "title": "Chahun Main Ya Naa",
+        "artists": [
+            "Palak Muchhal",
+            "Arijit Singh"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Chalo Ek Baar Phir Se Gumrah.mp3",
+        "duration": 279,
+        "title": "Chalo Ek Baar Phir Se",
+        "artists": [
+            "Mahendra Kapoor"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Gumrah (1963)",
+        "date": "1963"
+    },
+    {
+        "path": "lossy/Chammak Challo Akon.mp3",
+        "duration": 227,
+        "title": "Chammak Challo",
+        "artists": [
+            "Akon",
+            "Hamsika Iyer",
+            "Vishal-Shekhar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movies",
+            "Pop"
+        ],
+        "album": "Ra-One",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Chand Sifarish Fanaa.mp3",
+        "duration": 276,
+        "title": "Chand Sifarish",
+        "artists": [
+            "Shaan"
+        ],
+        "genre": [
+            "Asian Music",
+            "Hindi"
+        ],
+        "album": "Fanaa",
+        "date": "2006"
+    },
+    {
+        "path": "lossy/Chasing Cars Snow Patrol.mp3",
+        "duration": 268,
+        "title": "Chasing Cars",
+        "artists": [
+            "Snow Patrol"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Eyes Open",
+        "date": "2006"
+    },
+    {
+        "path": "lossy/Chaska (Badmaash Company).mp3",
+        "duration": 315,
+        "title": "Chaska",
+        "artists": [
+            "Krishna",
+            "Pritam",
+            "Anvita Dutt",
+            "Url"
+        ],
+        "genre": [
+            "Asian Music",
+            "Hindi"
+        ],
+        "album": "Pritam",
+        "date": "2010"
+    },
+    {
+        "path": "lossy/Cheri Cheri Lady Modern Talking.mp3",
+        "duration": 225,
+        "title": "Cheri Cheri Lady",
+        "artists": [
+            "Modern_Talking"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Let\u2019s Talk About Love, Heart and Soul",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Chingari Koi Bhadke Kishore Kumar.mp3",
+        "duration": 335,
+        "title": "Chingari Koi Bhadke",
+        "artists": [
+            "Kishore Kumar"
+        ],
+        "genre": [
+            "Asian Music",
+            "Hindi"
+        ],
+        "album": "Amar Prem (Original Motion Picture Soundtrack)",
+        "date": "1971-12-31"
+    },
+    {
+        "path": "lossy/Chola Maati Ke Ram Nageen Tanvir.m4a",
+        "duration": 196,
+        "title": "Chola Maati Ke Ram",
+        "artists": [
+            "Nageen Tanvir"
+        ],
+        "genre": [
+            "Hindi",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Peepli Live",
+        "date": "2010"
+    },
+    {
+        "path": "lossy/Choo Lo The Local Train.mp3",
+        "duration": 234,
+        "title": "Choo Lo",
+        "artists": [
+            "The Local Train"
+        ],
+        "genre": [
+            "Pop",
+            "Rock",
+            "Hindi"
+        ],
+        "album": "Aalas Ka Pedh",
+        "date": "2015"
+    },
+    {
+        "path": "lossy/Chunnari Chunnari Abhijeet Bhattacharya.mp3",
+        "duration": 335,
+        "title": "Chunnari Chunnari",
+        "artists": [
+            "Abhijeet Bhattacharya",
+            "Anuradha Sriram",
+            "Sameer"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Biwi No. 1 (Original Motion Picture Soundtrack)",
+        "date": "1999-05-28"
+    },
+    {
+        "path": "lossy/Chupke Chupke Raat Din Ghulam Ali.mp3",
+        "duration": 469,
+        "title": "Chupke Chupke Raat Din",
+        "artists": [
+            "Ghulam Ali"
+        ],
+        "genre": [
+            "Ghazal",
+            "Urdu",
+            "Qawali"
+        ],
+        "album": "Nikaah (Original Motion Picture Soundtrack)",
+        "date": "1982-12-01"
+    },
+    {
+        "path": "lossy/Chura Liya Hai Tumne Jo Dil Ko Asha Bhosle.mp3",
+        "duration": 288,
+        "title": "Chura Liya Hai Tumne Jo Dil Ko",
+        "artists": [
+            "Asha Bhosle",
+            "Mohammed Rafi",
+            "Majrooh Sultanpuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Yaadon Ki Baaraat (Original Motion Picture Soundtrack)",
+        "date": "1973"
+    },
+    {
+        "path": "lossy/Co2.mp3",
+        "duration": 164,
+        "title": "Co2",
+        "artists": [
+            "Prateek Kuhad"
+        ],
+        "genre": [
+            "Indie Pop",
+            "English"
+        ],
+        "album": "The Way that Lovers Do",
+        "date": "2022"
+    },
+    {
+        "path": "lossy/Cold Mess Prateek Kuhad.mp3",
+        "duration": 281,
+        "title": "Cold/Mess",
+        "artists": [
+            "Prateek Kuhad"
+        ],
+        "genre": [
+            "Singer & Songwriter",
+            "English"
+        ],
+        "album": "cold/mess",
+        "date": "2020"
+    },
+    {
+        "path": "lossy/Complicated Avril Lavigne.mp3",
+        "duration": 245,
+        "title": "Complicated",
+        "artists": [
+            "Avril Lavigne"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Let Go",
+        "date": "2002-06-04"
+    },
+    {
+        "path": "lossy/Comptine d'un autre \u00e9t\u00e9 l'apr\u00e8s midi Yann Tiersen.mp3",
+        "duration": 141,
+        "title": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
+        "artists": [
+            "Yann Tiersen"
+        ],
+        "genre": [
+            "Movie",
+            "French",
+            "Soundtrack"
+        ],
+        "album": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
+        "date": "2001"
+    },
+    {
+        "path": "lossy/Coney Island Taylor Swift.mp3",
+        "duration": 275,
+        "title": "Coney Island",
+        "artists": [
+            "Taylor Swift",
+            "The National"
+        ],
+        "genre": [
+            "Alternative",
+            "English"
+        ],
+        "album": "evermore (deluxe version)",
+        "date": "2021"
+    },
+    {
+        "path": "lossy/Crazy Gnarls Barkley.mp3",
+        "duration": 178,
+        "title": "Crazy",
+        "artists": [
+            "Gnarls Barkley"
+        ],
+        "genre": [
+            "Pop"
+        ],
+        "album": "St. Elsewhere",
+        "date": "2006"
+    },
+    {
+        "path": "lossy/Creep Radiohead.mp3",
+        "duration": 239,
+        "title": "Creep",
+        "artists": [
+            "Radiohead"
+        ],
+        "genre": [
+            "Alternative",
+            "English"
+        ],
+        "album": "Pablo Honey",
+        "date": "1993-02-22"
+    },
+    {
+        "path": "lossy/CS50 2021 (Original Soundtrack).mp3",
+        "duration": 79,
+        "title": "CS50 2021 (Original Soundtrack)",
+        "artists": [
+            "CS50"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Unknown",
+        "date": "2021"
+    },
+    {
+        "path": "lossy/Daft Punk Instant Crush (feat. Julian Casablancas).mp3",
+        "duration": 338,
+        "title": "Instant Crush",
+        "artists": [
+            "Daft Punk/ Julian Casablancas"
+        ],
+        "genre": [
+            "Dance",
+            "English"
+        ],
+        "album": "Random Access Memories",
+        "date": "2013-05-20"
+    },
+    {
+        "path": "lossy/Death Note OST I 03 Light's Theme (\u30e9\u30a4\u30c8\u306e\u30c6\u30fc\u30de Raito no T\u0113ma).mp3",
+        "duration": 195,
+        "title": "Death Note OST I - 03 - Light's Theme (\u30e9\u30a4\u30c8\u306e\u30c6\u30fc\u30de, Raito no T\u0113ma)",
+        "artists": [
+            "Hideki Taniuchi",
+            "Yoshihisa Hirano"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Death Note Original Soundtrack",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Dheere Dheere Se Meri Zindagi Mein Aana Anuradha Paudwal.mp3",
+        "duration": 328,
+        "title": "Dheere Dheere Se Meri Zindagi Mein Aana",
+        "artists": [
+            "Anuradha Paudwal",
+            "Kumar Sanu",
+            "Udit Narayan",
+            "Rani Malik",
+            "Sameer"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Aashiqui",
+        "date": "1989"
+    },
+    {
+        "path": "lossy/Dil Dooba Sonu Nigam.mp3",
+        "duration": 231,
+        "title": "Dil Dooba",
+        "artists": [
+            "Sonu Nigam",
+            "Shreya Ghoshal",
+            "Sameer"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Khakee",
+        "date": "2003"
+    },
+    {
+        "path": "lossy/Do I Wanna Know Arctic Monkeys.mp3",
+        "duration": 272,
+        "title": "Do I Wanna Know?",
+        "artists": [
+            "Arctic Monkeys"
+        ],
+        "genre": [
+            "Alternative",
+            "English"
+        ],
+        "album": "AM",
+        "date": "2013-09-09"
+    },
+    {
+        "path": "lossy/Dream On Aerosmith.mp3",
+        "duration": 268,
+        "title": "Dream On",
+        "artists": [
+            "Aerosmith"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Aerosmith",
+        "date": "1973-01-05"
+    },
+    {
+        "path": "lossy/Dulhe Ka Sehra Ustad Nusrat Fateh Ali Khan.mp3",
+        "duration": 512,
+        "title": "Dulhe Ka Sehra",
+        "artists": [
+            "Nusrat Fateh Ali Khan"
+        ],
+        "genre": [
+            "Hindi",
+            "Ghazal",
+            "Bollywood"
+        ],
+        "album": "Dhadkan (Original Motion Picture Soundtrack)",
+        "date": "2000-07-02"
+    },
+    {
+        "path": "lossy/Echoes Pink Floyd.m4a",
+        "duration": 1412,
+        "title": "Echoes",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Meddle",
+        "date": "1971"
+    },
+    {
+        "path": "lossy/Ek Sanam Chahiye Aashiqui Ke Liye Kumar Sanu.mp3",
+        "duration": 371,
+        "title": "Ek Sanam Chahiye Aashiqui Ke Liye",
+        "artists": [
+            "Kumar Sanu",
+            "Sameer"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Aashiqui",
+        "date": "1989"
+    },
+    {
+        "path": "lossy/Etude Nero.mp3",
+        "duration": 257,
+        "title": "Etude",
+        "artists": [
+            "Nero"
+        ],
+        "genre": [
+            "Electro",
+            "Soundtrack"
+        ],
+        "album": "Won't You (Be There) EP",
+        "date": "2011-10-22"
+    },
+    {
+        "path": "lossy/Excuses AP Dhillon.mp3",
+        "duration": 176,
+        "title": "Excuses",
+        "artists": [
+            "AP Dhillon",
+            "Gurinder Gill",
+            "Intense"
+        ],
+        "genre": [
+            "Pop",
+            "Punjabi"
+        ],
+        "album": "Excuses",
+        "date": "2021"
+    },
+    {
+        "path": "lossy/Eyes of Glory Angel Lover.m4a",
+        "duration": 152,
+        "title": "Eyes of Glory",
+        "artists": [
+            "Akash Gandhi"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Far Out Apex Far Out Official.m4a",
+        "duration": 207,
+        "title": "Far Out Official",
+        "artists": [
+            "Apex"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Flight Hans Zimmer.mp3",
+        "duration": 249,
+        "title": "Flight",
+        "artists": [
+            "Hans Zimmer"
+        ],
+        "genre": [
+            "Hollywood",
+            "Movie",
+            "Soundtrack"
+        ],
+        "album": "Man of Steel (Original Motion Picture Soundtrack) (Deluxe Edition)",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Gabru International Villager.mp3",
+        "duration": 207,
+        "title": "Gabru",
+        "artists": [
+            "Yo Yo Honey Singh",
+            "J-Star"
+        ],
+        "genre": [
+            "Punjabi"
+        ],
+        "album": "International Villager",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Galliyan Ankit Tiwari.mp3",
+        "duration": 340,
+        "title": "Galliyan",
+        "artists": [
+            "Ankit Tiwari"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Hindi"
+        ],
+        "album": "Ek Villain",
+        "date": "2014-05-28"
+    },
+    {
+        "path": "lossy/Good Goodbye (feat. Pusha T and Stormzy) Linkin Park.mp3",
+        "duration": 211,
+        "title": "Good Goodbye (feat. Pusha T and Stormzy)",
+        "artists": [
+            "Linkin Park/ Pusha T/ Stormzy"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "One More Light",
+        "date": "2017-05-19"
+    },
+    {
+        "path": "lossy/Grateful Dead Ripple.mp3",
+        "duration": 263,
+        "title": "Ripple",
+        "artists": [
+            "Grateful Dead"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "American Beauty",
+        "date": "1970"
+    },
+    {
+        "path": "lossy/Gulabi Ankhen (From The Train) Mohammed Rafi.mp3",
+        "duration": 197,
+        "title": "Gulabi Ankhen",
+        "artists": [
+            "Mohammed Rafi",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "The Train",
+        "date": "1970-05-19"
+    },
+    {
+        "path": "lossy/Guzarish Ghajini.mp3",
+        "duration": 329,
+        "title": "Guzarish",
+        "artists": [
+            "Javed Ali",
+            "Prasoon Joshi"
+        ],
+        "genre": [
+            "Hindi",
+            "Bollywood"
+        ],
+        "album": "Ghajini",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Hai Mera Dil Alfaaz Yo Yo Honey Singh.m4a",
+        "duration": 210,
+        "title": "Hai Mera Dil",
+        "artists": [
+            "Alfaaz",
+            "Yo Yo Honey Singh"
+        ],
+        "genre": [
+            "Punjabi",
+            "Hip Hop"
+        ],
+        "album": "Boy Next Door",
+        "date": "2000"
+    },
+    {
+        "path": "lossy/Halfway Right Linkin Park.mp3",
+        "duration": 217,
+        "title": "Halfway Right",
+        "artists": [
+            "Linkin Park"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "One More Light",
+        "date": "2017-05-19"
+    },
+    {
+        "path": "lossy/Hall of Fame (feat. will.i.am) The Script.mp3",
+        "duration": 203,
+        "title": "Hall of Fame (feat. will.i.am)",
+        "artists": [
+            "The Script",
+            "will.i.am"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Hall of Fame",
+        "date": "2012"
+    },
+    {
+        "path": "lossy/Handlebars Flobots.mp3",
+        "duration": 207,
+        "title": "Handlebars",
+        "artists": [
+            "Flobots"
+        ],
+        "genre": [
+            "Rap",
+            "Hip Hop",
+            "English"
+        ],
+        "album": "Fight With Tools",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Harder To Breathe Maroon 5.mp3",
+        "duration": 174,
+        "title": "Harder To Breathe",
+        "artists": [
+            "Maroon 5"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "Songs About Jane",
+        "date": "2007"
+    },
+    {
+        "path": "lossy/Heartbeat Carrie Underwood.mp3",
+        "duration": 210,
+        "title": "Heartbeat",
+        "artists": [
+            "Carrie Underwood",
+            "Ashley Gorley"
+        ],
+        "genre": [
+            "Country",
+            "English"
+        ],
+        "album": "Storyteller",
+        "date": "2015"
+    },
+    {
+        "path": "lossy/Heavy (feat. Kiiara) Linkin Park.mp3",
+        "duration": 170,
+        "title": "Heavy (feat. Kiiara)",
+        "artists": [
+            "Linkin Park",
+            "Kiiara"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "One More Light",
+        "date": "2017-05-19"
+    },
+    {
+        "path": "lossy/Hello Andheron Agnee.mp3",
+        "duration": 293,
+        "title": "Hello Andheron",
+        "artists": [
+            "Agnee"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Here Comes The Sun (Remastered 2009) The Beatles.mp3",
+        "duration": 186,
+        "title": "Here Comes The Sun",
+        "artists": [
+            "The Beatles"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Abbey Road (Remastered)",
+        "date": "1969-09-26"
+    },
+    {
+        "path": "lossy/Heroes (Album Version) (Remastered Audio) David Bowie.mp3",
+        "duration": 369,
+        "title": "David Bowie - Heroes (Album Version) (Remastered Audio)",
+        "artists": [
+            "David Bowie"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "David Bowie - Heroes (Album Version) (Remastered Audio)",
+        "date": "2020"
+    },
+    {
+        "path": "lossy/Hey There Delilah.mp3",
+        "duration": 233,
+        "title": "Hey There Delilah",
+        "artists": [
+            "Plain White T's"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "new downloads",
+        "date": "2005"
+    },
+    {
+        "path": "lossy/Hey You Pink Floyd.m4a",
+        "duration": 278,
+        "title": "Hey You",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "The Wall",
+        "date": "1979"
+    },
+    {
+        "path": "lossy/High Hopes Pink Floyd.m4a",
+        "duration": 511,
+        "title": "High Hopes",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "The Division Bell",
+        "date": "1994"
+    },
+    {
+        "path": "lossy/Hona Hai Kya Ram Sampath.mp3",
+        "duration": 283,
+        "title": "Hona Hai Kya",
+        "artists": [
+            "Ram Sampath",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Talaash",
+        "date": "2012"
+    },
+    {
+        "path": "lossy/Hoshwalon Ko Khabar Kya Sarfarosh.mp3",
+        "duration": 307,
+        "title": "Hoshwalon Ko Khabar Kya",
+        "artists": [
+            "Jagjit Singh"
+        ],
+        "genre": [
+            "Bollywood",
+            "Hindi"
+        ],
+        "album": "Sarfarosh",
+        "date": "1999"
+    },
+    {
+        "path": "lossy/Hothon Se Chhu Lo Tum (From Prem Geet) Jagjit Singh.mp3",
+        "duration": 294,
+        "title": "Hothon Se Chhu Lo Tum (From Prem Geet)",
+        "artists": [
+            "Jagjit Singh"
+        ],
+        "genre": [
+            "Hindi",
+            "Urdu",
+            "Ghazal",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Dard-E-Jigar",
+        "date": "2003-01-01"
+    },
+    {
+        "path": "lossy/Hulara J Star.m4a",
+        "duration": 214,
+        "title": "Hulara",
+        "artists": [
+            "J-Star"
+        ],
+        "genre": [
+            "Punjabi",
+            "Hip Hop",
+            "EDM"
+        ],
+        "album": "Hulara",
+        "date": "2014"
+    },
+    {
+        "path": "lossy/Hum Aap Ki Ankhon Mein Geeta Dutt.mp3",
+        "duration": 233,
+        "title": "Hum Aap Ki Ankhon Mein",
+        "artists": [
+            "Geeta Dutt",
+            "Mohammed Rafi",
+            "Sahir Ludhiyanvi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Pyaasa (Original Motion Picture Soundtrack)",
+        "date": "1957"
+    },
+    {
+        "path": "lossy/Hum Mar Jayenge.mp3",
+        "duration": 307,
+        "title": "Hum Mar Jayenge",
+        "artists": [
+            "Tulsi Kumar",
+            "Arijit Singh"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Hum to Dil Se Haare Udit Narayan.mp3",
+        "duration": 308,
+        "title": "Hum to Dil Se Haare",
+        "artists": [
+            "Udit Narayan",
+            "Alka Yagnik",
+            "Sameer"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Josh (Original Motion Picture Soundtrack)",
+        "date": "2000"
+    },
+    {
+        "path": "lossy/Humnava Gajendra Verma.mp3",
+        "duration": 329,
+        "title": "Humnava",
+        "artists": [
+            "Gajendra Verma",
+            "Sayeed Quadri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
+        "date": "2015"
+    },
+    {
+        "path": "lossy/Hymn For The Weekend Coldplay.mp3",
+        "duration": 259,
+        "title": "Hymn For The Weekend",
+        "artists": [
+            "Coldplay",
+            "Beyonce"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "A Head Full Of Dreams",
+        "date": "2015"
+    },
+    {
+        "path": "lossy/I AM Club Yoko.mp3",
+        "duration": 153,
+        "title": "I AM",
+        "artists": [
+            "Club Yoko"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Mafia Mamma",
+        "date": "2023"
+    },
+    {
+        "path": "lossy/I Want To Break Free Queen.mp3",
+        "duration": 196,
+        "title": "I Want To Break Free",
+        "artists": [
+            "Queen"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Celebrate The 80's Cd1",
+        "date": "2018"
+    },
+    {
+        "path": "lossy/I've Got You Under My Skin (Remastered 1998) Frank Sinatra.m4a",
+        "duration": 222,
+        "title": "I've Got You Under My Skin (Remastered 1998)",
+        "artists": [
+            "Frank Sinatra",
+            "Cole Porter"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Ultimate Sinatra",
+        "date": "1956"
+    },
+    {
+        "path": "lossy/Idea 10 Gibran Alcocer.mp3",
+        "duration": 128,
+        "title": "Idea 10",
+        "artists": [
+            "Gibran Alcocer"
+        ],
+        "genre": [
+            "Pop",
+            "Soundtrack"
+        ],
+        "album": "Idea 10",
+        "date": "2022"
+    },
+    {
+        "path": "lossy/Ikko Mikke Satinder Sartaaj.mp3",
+        "duration": 398,
+        "title": "Ikko Mikke Satinder Sartaaj",
+        "artists": [
+            "Satinder Sartaaj"
+        ],
+        "genre": [
+            "Asian Music",
+            "Punjabi"
+        ],
+        "album": "Ikko - Mikke",
+        "date": "2020-02-13"
+    },
+    {
+        "path": "lossy/Immigrant Song Led Zeppelin.mp3",
+        "duration": 147,
+        "title": "Immigrant Song",
+        "artists": [
+            "Led Zeppelin"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Led Zeppelin III",
+        "date": "1970"
+    },
+    {
+        "path": "lossy/In the End Linkin Park.m4a",
+        "duration": 217,
+        "title": "In the End",
+        "artists": [
+            "Linkin Park"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "Hybrid Theory",
+        "date": "2000"
+    },
+    {
+        "path": "lossy/Inception Aakash Gandhi.mp3",
+        "duration": 162,
+        "title": "Inception",
+        "artists": [
+            "Aakash Gandhi"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Invisible Linkin Park.mp3",
+        "duration": 214,
+        "title": "Invisible",
+        "artists": [
+            "Linkin Park"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "One More Light",
+        "date": "2017-05-19"
+    },
+    {
+        "path": "lossy/Iron Man (2012 Remaster) (2012 Remaster) Black Sabbath.m4a",
+        "duration": 354,
+        "title": "Iron Man (2012 - Remaster) (2012 - Remaster)",
+        "artists": [
+            "Black Sabbath"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "Iron Man (2012 - Remaster)",
+        "date": "1970"
+    },
+    {
+        "path": "lossy/Isq Risk Rahat Fateh Ali Khan.mp3",
+        "duration": 295,
+        "title": "Isq Risk",
+        "artists": [
+            "Rahat Fateh Ali Khan",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Hindi",
+            "Urdu",
+            "Sufi"
+        ],
+        "album": "Mere Brother Ki Dulhan",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/It Must Have Been Love Roxette.mp3",
+        "duration": 259,
+        "title": "It Must Have Been Love",
+        "artists": [
+            "Roxette"
+        ],
+        "genre": [
+            "Movie",
+            "Hollywood",
+            "English",
+            "Pop"
+        ],
+        "album": "Pretty Woman",
+        "date": "2002"
+    },
+    {
+        "path": "lossy/It's My Life Bon Jovi.mp3",
+        "duration": 225,
+        "title": "It's My Life",
+        "artists": [
+            "Bon Jovi"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Crush",
+        "date": "2000"
+    },
+    {
+        "path": "lossy/Itna Na Mujhse Tu Pyar Badha (Duet) Talat Mahmood.mp3",
+        "duration": 235,
+        "title": "Itna Na Mujhse Tu Pyar Badha",
+        "artists": [
+            "Talat Mahmood",
+            "Lata Mangeshkar",
+            "Rajendra Krishan"
+        ],
+        "genre": [
+            "Hindi",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Chhaya (Original Motion Picture Soundtrack)",
+        "date": "1961"
+    },
+    {
+        "path": "lossy/Itna Na Mujhse Tu Pyar Badha Talat Mahmood.mp3",
+        "duration": 216,
+        "title": "Itna Na Mujhse Tu Pyar Badha",
+        "artists": [
+            "Talat Mahmood",
+            "Rajendra Krishan"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Chhaya (Original Motion Picture Soundtrack)",
+        "date": "1961"
+    },
+    {
+        "path": "lossy/Jaise Suraj Ki Garmi Se Sharma Brothers.mp3",
+        "duration": 384,
+        "title": "Jaise Suraj Ki Garmi Se",
+        "artists": [
+            "Sharma Brothers",
+            "Ramanand Sharma"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Prayer"
+        ],
+        "album": "Parinay (Original Motion Picture Soundtrack)",
+        "date": "1974"
+    },
+    {
+        "path": "lossy/Jammu Weed Rap Official Bhagat.mp3",
+        "duration": 177,
+        "title": "Jammu Weed Rap",
+        "artists": [
+            "Official Bhagat"
+        ],
+        "genre": [
+            "Hip Hop",
+            "Hindi"
+        ],
+        "album": "Jammu Weed Rap",
+        "date": "2021"
+    },
+    {
+        "path": "lossy/Janam Janam Pritam.mp3",
+        "duration": 238,
+        "title": "Janam Janam",
+        "artists": [
+            "Arijit Singh",
+            "Antara Mitra",
+            "Amitabh Bhattacharya"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Dilwale (Original Motion Picture Soundtrack)",
+        "date": "2015"
+    },
+    {
+        "path": "lossy/Jane Woh Kaise Log The Hemant Kumar.mp3",
+        "duration": 259,
+        "title": "Jane Woh Kaise Log The",
+        "artists": [
+            "Hemant Kumar",
+            "Sahir Ludhiyanvi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Pyaasa (Original Motion Picture Soundtrack)",
+        "date": "1957"
+    },
+    {
+        "path": "lossy/Jee Le Zaraa Vishal Dadlani.mp3",
+        "duration": 215,
+        "title": "Jee Le Zaraa",
+        "artists": [
+            "Vishal Dadlani",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Talaash",
+        "date": "2012"
+    },
+    {
+        "path": "lossy/Jo Bhi Main Rockstar.mp3",
+        "duration": 276,
+        "title": "Jo Bhi Main",
+        "artists": [
+            "Mohit Chauhan",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Rock",
+            "Hindi"
+        ],
+        "album": "Rockstar",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Jo Wada Kiya Woh Nibhana Padega Pt. 2 Mohammed Rafi.mp3",
+        "duration": 196,
+        "title": "Jo Wada Kiya Woh Nibhana Padega, Pt. 2",
+        "artists": [
+            "Mohammed Rafi",
+            "Lata Mangeshkar",
+            "Sahir Ludhiyanvi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Taj Mahal (Original Motion Picture Soundtrack)",
+        "date": "1963"
+    },
+    {
+        "path": "lossy/John Harrison with the Wichita State University Chamber Players - Summer Mvt 3 Presto.mp3",
+        "duration": 159,
+        "title": "Summer Mvt 3 Presto",
+        "artists": [
+            "Antonio Vivaldi",
+            "John Harrison with the Wichita State University Chamber Players"
+        ],
+        "genre": [
+            "Classical",
+            "Soundtrack"
+        ],
+        "album": "The Four Seasons (Vivaldi)",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Judai Jannat.mp3",
+        "duration": 302,
+        "title": "Judai",
+        "artists": [
+            "Pritam",
+            "Kamran Ahmed"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Jannat (Original Motion Picture Soundtrack)",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Kabhi Jo Baadal Barse Jackpot.mp3",
+        "duration": 254,
+        "title": "Kabhi Jo Baadal Barse",
+        "artists": [
+            "Arijit Singh"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Jackpot",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Kabhi Kabhi Aditi.mp3",
+        "duration": 218,
+        "title": "Kabhi Kabhi Aditi Zindagi",
+        "artists": [
+            "Rashid Ali"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Jaane Tu.. Ya Jaane Na",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Kabhi Kabhi Mere Dil Mein Mukesh.mp3",
+        "duration": 285,
+        "title": "Kabhi Kabhi Mere Dil Mein",
+        "artists": [
+            "Mukesh"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Kabhi Kabhie (Original Motion Picture Soundtrack)",
+        "date": "1976"
+    },
+    {
+        "path": "lossy/Kabhi Yun Bhi To Ho Jagjit Singh.mp3",
+        "duration": 311,
+        "title": "Kabhi Yun Bhi To Ho",
+        "artists": [
+            "Jagjit Singh",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Hindi",
+            "Urdu",
+            "Ghazal",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Khwahish",
+        "date": "1979-12-01"
+    },
+    {
+        "path": "lossy/Kaho Na Kaho (Murder).mp3",
+        "duration": 312,
+        "title": "Kaho Na Kaho",
+        "artists": [
+            "Amir Jamal/ Anu Malik"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Hindi"
+        ],
+        "album": "Murder",
+        "date": "2024-04-13"
+    },
+    {
+        "path": "lossy/Kaise Mujhe (Instrumental) (Ghajini).mp3",
+        "duration": 242,
+        "title": "Kaise Mujhe (Instrumental)",
+        "artists": [
+            "A.R. Rahman"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Soundtrack"
+        ],
+        "album": "Ghajini",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Kaise Mujhe.mp3",
+        "duration": 347,
+        "title": "Kaise Mujhe",
+        "artists": [
+            "Benny Dayal",
+            "Shreya Ghoshal",
+            "Prasoon Joshi"
+        ],
+        "genre": [
+            "Hindi",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Ghajini",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Kali Kali Zulfon Ke Phande Nah Dalo Ustad Nusrat Fateh Ali Khan.mp3",
+        "duration": 707,
+        "title": "Kali Kali Zulfon Ke Phande Nah Dalo",
+        "artists": [
+            "Nusrat Fateh Ali Khan"
+        ],
+        "genre": [
+            "Alternative"
+        ],
+        "album": "Shahen-Shah (Real World Gold)",
+        "date": "2015-05-01"
+    },
+    {
+        "path": "lossy/Kaun Aayega Yahan Jagjit Singh.mp3",
+        "duration": 407,
+        "title": "Kaun Aayega Yahan",
+        "artists": [
+            "Jagjit Singh"
+        ],
+        "genre": [
+            "Urdu",
+            "Ghazal"
+        ],
+        "album": "Unique - Jagjit Singh",
+        "date": "2002-04-30"
+    },
+    {
+        "path": "lossy/Kholo Kholo Raman Mahadevan.m4a",
+        "duration": 312,
+        "title": "Kholo Kholo",
+        "artists": [
+            "Raman Mahadevan",
+            "Prasoon Joshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Taare Zameen Par",
+        "date": "2007"
+    },
+    {
+        "path": "lossy/Khuda Jaane Bachna Ae Haseeno.mp3",
+        "duration": 334,
+        "title": "Khuda Jaane",
+        "artists": [
+            "KK/Shilpa Rao"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Bachna Ae Haseeno",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Ki Samjiye Amrinder Gill.m4a",
+        "duration": 285,
+        "title": "Ki Samjiye",
+        "artists": [
+            "Amrinder Gill"
+        ],
+        "genre": [
+            "Punjabi"
+        ],
+        "album": "Judda",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Kun Faaya Kun Rockstar.mp3",
+        "duration": 473,
+        "title": "Kun Faaya Kun",
+        "artists": [
+            "Javed Ali",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Rock",
+            "Hindi"
+        ],
+        "album": "Rockstar",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Kya Hua Tera Wada From Hum Kisi Se Kum Nahin Mohammed Rafi.mp3",
+        "duration": 250,
+        "title": "Kya Hua Tera Wada",
+        "artists": [
+            "Mohammed Rafi",
+            "Shushma Shreshta",
+            "Majrooh Sultanpuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Hum Kisi Se Kum Nahin",
+        "date": "1977-05-11"
+    },
+    {
+        "path": "lossy/L s theme A Death Note.mp3",
+        "duration": 184,
+        "title": "L s theme A",
+        "artists": [
+            "Hideki Taniuchi"
+        ],
+        "genre": [
+            "Movie",
+            "Soundtrack"
+        ],
+        "album": "DEATH NOTE Original Soundtrack",
+        "date": "2006-12-21"
+    },
+    {
+        "path": "lossy/La valse d'Am\u00e9lie Yann Tiersen.mp3",
+        "duration": 136,
+        "title": "La valse d'Am\u00e9lie",
+        "artists": [
+            "Yann Tiersen"
+        ],
+        "genre": [
+            "Movie",
+            "French",
+            "Soundtrack"
+        ],
+        "album": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
+        "date": "2001"
+    },
+    {
+        "path": "lossy/Laden Jassie Gill.m4a",
+        "duration": 193,
+        "title": "Laden",
+        "artists": [
+            "Jassie Gill"
+        ],
+        "genre": [
+            "Punjabi"
+        ],
+        "album": "Replay - The Return Of Melody",
+        "date": "2014"
+    },
+    {
+        "path": "lossy/Last Resort Papa Roach.mp3",
+        "duration": 200,
+        "title": "Last Resort",
+        "artists": [
+            "Papa Roach"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Infest",
+        "date": "2000"
+    },
+    {
+        "path": "lossy/Lat Lag Gayi Race 2.mp3",
+        "duration": 280,
+        "title": "Lat Lag Gayee",
+        "artists": [
+            "Benny Dayal",
+            "Shalmali Kholgade"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Bollywood"
+        ],
+        "album": "Race 2 (Original Motion Picture Soundtrack)",
+        "date": "0000"
+    },
+    {
+        "path": "lossy/Layla Derek & The Dominos.mp3",
+        "duration": 433,
+        "title": "Layla",
+        "artists": [
+            "Derek & The Dominos"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "The Cream Of Clapton",
+        "date": "1994-01-01"
+    },
+    {
+        "path": "lossy/Lenka Everything At Once.mp3",
+        "duration": 163,
+        "title": "Everything At Once",
+        "artists": [
+            "Lenka"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Two",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Light no Theme Hideki Taniuchi.mp3",
+        "duration": 204,
+        "title": "Light no Theme",
+        "artists": [
+            "Hideki Taniuchi"
+        ],
+        "genre": [
+            "Movie",
+            "Soundtrack"
+        ],
+        "album": "Death Note Original Soundtrack",
+        "date": "2006"
+    },
+    {
+        "path": "lossy/Like a Stone Audioslave.mp3",
+        "duration": 294,
+        "title": "Like a Stone",
+        "artists": [
+            "Audioslave"
+        ],
+        "genre": [
+            "Rock",
+            "English",
+            "Grunge"
+        ],
+        "album": "Audioslave",
+        "date": "2002"
+    },
+    {
+        "path": "lossy/Likhe Jo Khat Tujhe Mohammed Rafi.mp3",
+        "duration": 274,
+        "title": "Likhe Jo Khat Tujhe",
+        "artists": [
+            "Mohammed Rafi",
+            "Neeraj Shreedhar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Kanyadaan (Original Motion Picture Soundtrack)",
+        "date": "1968"
+    },
+    {
+        "path": "lossy/Live and Be Free Tim McMorris.mp3",
+        "duration": 227,
+        "title": "Live and Be Free",
+        "artists": [
+            "Tim McMorris"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Lose Yourself Eminem.m4a",
+        "duration": 327,
+        "title": "Lose Yourself",
+        "artists": [
+            "Eminem"
+        ],
+        "genre": [
+            "English",
+            "Hip Hop"
+        ],
+        "album": "Curtain Call: The Hits",
+        "date": "2005"
+    },
+    {
+        "path": "lossy/Lost on You LP.mp3",
+        "duration": 268,
+        "title": "Lost on You",
+        "artists": [
+            "LP"
+        ],
+        "genre": [
+            "Alternative",
+            "English"
+        ],
+        "album": "Lost on You",
+        "date": "2016"
+    },
+    {
+        "path": "lossy/Love Me Again John Newman.mp3",
+        "duration": 240,
+        "title": "Love Me Again",
+        "artists": [
+            "John Newman"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Love Me Again",
+        "date": "2013-01-01"
+    },
+    {
+        "path": "lossy/Love The Way You Lie Eminem.m4a",
+        "duration": 263,
+        "title": "Love The Way You Lie",
+        "artists": [
+            "Eminem",
+            "Rihanna"
+        ],
+        "genre": [
+            "English",
+            "Hip Hop"
+        ],
+        "album": "Recovery",
+        "date": "2010"
+    },
+    {
+        "path": "lossy/Lust For Life Iggy Pop.mp3",
+        "duration": 314,
+        "title": "Lust For Life",
+        "artists": [
+            "Iggy Pop",
+            "David Bowie"
+        ],
+        "genre": [
+            "\u0420\u043ep",
+            "English"
+        ],
+        "album": "Lust For Life",
+        "date": "2017"
+    },
+    {
+        "path": "lossy/Main Agar Saamne Alka Yagnik.mp3",
+        "duration": 346,
+        "title": "Main Agar Saamne",
+        "artists": [
+            "Alka Yagnik",
+            "Abhijeet Bhattacharya",
+            "Sameer"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Raaz (Original Motion Picture Soundtrack)",
+        "date": "2002"
+    },
+    {
+        "path": "lossy/Main Nashe Mein Hoon Live Jagjit Singh.mp3",
+        "duration": 558,
+        "title": "Main Nashe Mein Hoon (From Live With Jagjit Singh)",
+        "artists": [
+            "Jagjit Singh",
+            "Shahid Kabir"
+        ],
+        "genre": [
+            "Urdu",
+            "Ghazal"
+        ],
+        "album": "Ghazal King - Jagjit Singh",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Main Pal Do Pal Ka Shair Hoon Mukesh.mp3",
+        "duration": 204,
+        "title": "Main Pal Do Pal Ka Shair Hoon",
+        "artists": [
+            "Mukesh"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Kabhi Kabhie (Original Motion Picture Soundtrack)",
+        "date": "1976"
+    },
+    {
+        "path": "lossy/Mann Mera Gajendra Verma.mp3",
+        "duration": 200,
+        "title": "Mann Mera",
+        "artists": [
+            "Gajendra Verma"
+        ],
+        "genre": [
+            "\u0410\u0437\u0438\u0430\u0442\u0441\u043a\u0430\u044f \u043c\u0443\u0437\u044b\u043a\u0430/\u0424\u0438\u043b\u044c\u043c\u044b/\u0418\u0433\u0440\u044b/\u0411\u043e\u043b\u043b\u0438\u0432\u0443\u0434"
+        ],
+        "album": "Table No. 21 (Original Motion Picture Soundtrack)",
+        "date": "2012-12-21"
+    },
+    {
+        "path": "lossy/Marooned Pink Floyd.mp3",
+        "duration": 328,
+        "title": "Marooned",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Rock",
+            "Soundtrack"
+        ],
+        "album": "The Division Bell",
+        "date": "1994"
+    },
+    {
+        "path": "lossy/Masakali Mohit Chauhan.mp3",
+        "duration": 289,
+        "title": "Masakali",
+        "artists": [
+            "Mohit Chauhan"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Hindi"
+        ],
+        "album": "Delhi-6",
+        "date": "2009"
+    },
+    {
+        "path": "lossy/Maula Mere Maula Roop Kumar Rathod.mp3",
+        "duration": 364,
+        "title": "Maula Mere Maula",
+        "artists": [
+            "Roop Kumar Rathod",
+            "Sayeed Quadri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Sufi",
+            "Pop"
+        ],
+        "album": "Anwar (Original Motion Picture Soundtrack)",
+        "date": "2006-12-01"
+    },
+    {
+        "path": "lossy/Mere Mehboob Qayamat Hogi Pt 1 Kishore Kumar.mp3",
+        "duration": 229,
+        "title": "Mere Mehboob Qayamat Hogi, Pt. 1 (From \"Mr. X in Bombay\")",
+        "artists": [
+            "Kishore Kumar",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Mr. X in Bombay",
+        "date": "1964"
+    },
+    {
+        "path": "lossy/Mere Nishan Mohammed.mp3",
+        "duration": 251,
+        "title": "Mere Nishan",
+        "artists": [
+            "Mohammed"
+        ],
+        "genre": [
+            "Folk",
+            "Hindi"
+        ],
+        "album": "Mere Nishan",
+        "date": "2022-08-10"
+    },
+    {
+        "path": "lossy/Mere Rashke Qamar (Complete Original Version) Ustad Nusrat Fateh Ali Khan.mp3",
+        "duration": 1058,
+        "title": "Mere Rashke Qamar (Complete Original Version)",
+        "artists": [
+            "Nusrat Fateh Ali Khan",
+            "Fana Buland Shehri"
+        ],
+        "genre": [
+            "Urdu",
+            "Qawali",
+            "Ghazal"
+        ],
+        "album": "Mere Rashke Qamar (Complete Original Version)",
+        "date": "1988-01-01"
+    },
+    {
+        "path": "lossy/Meri Aashiqui.mp3",
+        "duration": 266,
+        "title": "Meri Aashiqui",
+        "artists": [
+            "Palak Muchhal",
+            "Arijit Singh"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Meri Bheegi Bheegi Si (From  Anamika ) Kishore Kumar.mp3",
+        "duration": 247,
+        "title": "Meri Bheegi Bheegi Si (From \"Anamika\")",
+        "artists": [
+            "Kishore Kumar"
+        ],
+        "genre": [
+            "Asian Music",
+            "Hindi"
+        ],
+        "album": "Sheesha Ho Ya Dil Ho - Dard Bhare Geet",
+        "date": "2018-02-28"
+    },
+    {
+        "path": "lossy/Milne Hai Mujhse Aayi.mp3",
+        "duration": 296,
+        "title": "Milne Hai Mujhse Aayi",
+        "artists": [
+            "Arijit Singh"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Mitti Di Khushboo Ayushmann Khurrana.mp3",
+        "duration": 247,
+        "title": "Mitti Di Khushboo",
+        "artists": [
+            "Ayushmann Khurrana"
+        ],
+        "genre": [
+            "Punjabi"
+        ],
+        "album": "Ayushman - The Rockstar",
+        "date": "2014"
+    },
+    {
+        "path": "lossy/MojoJojo Dillagi.mp3",
+        "duration": 177,
+        "title": "Dillagi",
+        "artists": [
+            "MojoJojo",
+            "Akshay Johar"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Andarrated",
+        "date": "2021"
+    },
+    {
+        "path": "lossy/Mother Pink Floyd.m4a",
+        "duration": 335,
+        "title": "Mother",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "The Wall",
+        "date": "1979"
+    },
+    {
+        "path": "lossy/Mozart Sample Beat By Eric Parsons.mp3",
+        "duration": 229,
+        "title": "Mozart Sample Beat",
+        "artists": [
+            "Eric Parsons"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Unknown",
+        "date": "0000"
+    },
+    {
+        "path": "lossy/Muskaanein Jhooti Hai Suman Sridhar.mp3",
+        "duration": 198,
+        "title": "Muskaanein Jhooti Hai",
+        "artists": [
+            "Suman Sridhar",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Talaash",
+        "date": "2012"
+    },
+    {
+        "path": "lossy/Mystic Force Power Rangers opening Full Theme Song.mp3",
+        "duration": 327,
+        "title": "Mystic Force Power Rangers opening Full Theme Song",
+        "artists": [
+            "Unkown"
+        ],
+        "genre": [
+            "English",
+            "Movie"
+        ],
+        "album": "Power Ranger Mystic Force",
+        "date": "2006"
+    },
+    {
+        "path": "lossy/Nadaan Parindey Rockstar.mp3",
+        "duration": 387,
+        "title": "Nadaan Parindey",
+        "artists": [
+            "Mohit Chauhan",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Rock",
+            "Hindi"
+        ],
+        "album": "Rockstar",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Neele Neele Ambar Par (Male Version) Kalaakaar.mp3",
+        "duration": 320,
+        "title": "Neele Neele Ambar Par (Male Version)",
+        "artists": [
+            "Kishore Kumar"
+        ],
+        "genre": [
+            "Bollywood"
+        ],
+        "album": "Kalaakaar",
+        "date": "1983"
+    },
+    {
+        "path": "lossy/Never Give Up Sia.mp3",
+        "duration": 222,
+        "title": "Never Give Up",
+        "artists": [
+            "Sia",
+            "Greg Kurstin"
+        ],
+        "genre": [
+            "Movie",
+            "Hollywood",
+            "English",
+            "Pop"
+        ],
+        "album": "Never Give Up (From \"Lion\" Soundtrack)",
+        "date": "2016"
+    },
+    {
+        "path": "lossy/Nikki Jehi Kudi Satinder Sartaaj.mp3",
+        "duration": 287,
+        "title": "Nikki Jehi Kudi",
+        "artists": [
+            "Satinder Sartaaj"
+        ],
+        "genre": [
+            "Asian Music & Pop",
+            "Punjabi"
+        ],
+        "album": "Sartaaj",
+        "date": "2009-02-25"
+    },
+    {
+        "path": "lossy/Njan Chendena Vijay Yesudas.mp3",
+        "duration": 332,
+        "title": "Njan Chendena",
+        "artists": [
+            "Vijay Yesudas",
+            "Swetha Mohan",
+            "Mankombu Gopalkrishnan"
+        ],
+        "genre": [
+            "Malayalam",
+            "Movie"
+        ],
+        "album": "Baahubali - The Beginning (Original Motion Picture Soundtrack)",
+        "date": "2015"
+    },
+    {
+        "path": "lossy/No Church In The Wild Jay Z Kanye West.m4a",
+        "duration": 273,
+        "title": "No Church In The Wild",
+        "artists": [
+            "Kanye West"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Watch The Throne",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/No Love Eminem.m4a",
+        "duration": 300,
+        "title": "No Love",
+        "artists": [
+            "Eminem",
+            "Lil Wayne"
+        ],
+        "genre": [
+            "English",
+            "Hip Hop"
+        ],
+        "album": "Recovery",
+        "date": "2010"
+    },
+    {
+        "path": "lossy/Nobody Can Save Me Linkin Park.mp3",
+        "duration": 226,
+        "title": "Nobody Can Save Me",
+        "artists": [
+            "Linkin Park"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "One More Light",
+        "date": "2017-05-19"
+    },
+    {
+        "path": "lossy/nokia gran vals.mp3",
+        "duration": 29,
+        "title": "nokia gran vals",
+        "artists": [
+            "Unkown"
+        ],
+        "genre": [
+            "Soundtrack",
+            "Ringtone"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Not Afraid Eminem.m4a",
+        "duration": 251,
+        "title": "Not Afraid",
+        "artists": [
+            "Eminem"
+        ],
+        "genre": [
+            "English",
+            "Hip Hop"
+        ],
+        "album": "Not Afraid",
+        "date": "2010"
+    },
+    {
+        "path": "lossy/Not In Love Crystal Castles.mp3",
+        "duration": 228,
+        "title": "Not In Love",
+        "artists": [
+            "Crystal Castles feat. Robert Smith"
+        ],
+        "genre": [
+            "Alternative/Indie, Dance/Electronic",
+            "English"
+        ],
+        "album": "Crystal Castles (II)",
+        "date": "2010"
+    },
+    {
+        "path": "lossy/Nothing Else Matters Metallica.m4a",
+        "duration": 388,
+        "title": "Nothing Else Matters",
+        "artists": [
+            "Metallica"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "Metallica",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Numb Linkin Park.m4a",
+        "duration": 188,
+        "title": "Numb",
+        "artists": [
+            "Linkin Park"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "Meteora (DMD Album + 3 Bonus Tracks)",
+        "date": "2003"
+    },
+    {
+        "path": "lossy/O Haseena Zulfonwale Jane Jahan Asha Bhosle.mp3",
+        "duration": 415,
+        "title": "O Haseena Zulfonwale Jane Jahan",
+        "artists": [
+            "Asha Bhosle",
+            "Mohammed Rafi",
+            "Majrooh Sultanpuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Teesri Manzil",
+        "date": "1966"
+    },
+    {
+        "path": "lossy/O Re Piya Rahat Fateh Ali Khan.mp3",
+        "duration": 380,
+        "title": "O Re Piya",
+        "artists": [
+            "Rahat Fateh Ali Khan/ Salim-Sulaiman/ Jaideep Sahni"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Aaja Nachle",
+        "date": "2007-10-18"
+    },
+    {
+        "path": "lossy/One More Light Linkin Park.mp3",
+        "duration": 255,
+        "title": "One More Light",
+        "artists": [
+            "Linkin Park"
+        ],
+        "genre": [
+            "Alternative",
+            "English"
+        ],
+        "album": "One More Light",
+        "date": "2017-05-19"
+    },
+    {
+        "path": "lossy/Paint It Black The Rolling Stones.m4a",
+        "duration": 224,
+        "title": "Paint It, Black",
+        "artists": [
+            "The Rolling Stones"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "Singles 1965-1967",
+        "date": "2010"
+    },
+    {
+        "path": "lossy/Pal Pal Dil Ke Paas Kishore Kumar.mp3",
+        "duration": 328,
+        "title": "Pal Pal Dil Ke Paas",
+        "artists": [
+            "Kishore Kumar",
+            "Rajendra Krishna"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Blackmail",
+        "date": "1973"
+    },
+    {
+        "path": "lossy/Paradise Coldplay.mp3",
+        "duration": 279,
+        "title": "Paradise",
+        "artists": [
+            "Coldplay"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Mylo Xyloto",
+        "date": "2011-10-18"
+    },
+    {
+        "path": "lossy/Paranoid (2012 Remaster) (2012 Remaster) Black Sabbath.m4a",
+        "duration": 167,
+        "title": "Paranoid (2012 - Remaster)",
+        "artists": [
+            "Black Sabbath"
+        ],
+        "genre": [
+            "English",
+            "Rock"
+        ],
+        "album": "Paranoid",
+        "date": "1970"
+    },
+    {
+        "path": "lossy/Pathar Ke Sanam Mohammed Rafi.mp3",
+        "duration": 298,
+        "title": "Pathar Ke Sanam",
+        "artists": [
+            "Mohammed Rafi",
+            "Majrooh Sultanpuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Patthar Ke Sanam (Original Motion Picture Soundtrack)",
+        "date": "1967"
+    },
+    {
+        "path": "lossy/Perfect Day Lou Reed.mp3",
+        "duration": 224,
+        "title": "Perfect Day",
+        "artists": [
+            "Lou Reed"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Perfect Day",
+        "date": "2009-03-30"
+    },
+    {
+        "path": "lossy/Phir Mohabbat Mohammed Irfan.mp3",
+        "duration": 330,
+        "title": "Phir Mohabbat",
+        "artists": [
+            "Mohammed Irfan",
+            "Arijit Singh",
+            "Saim Bhat",
+            "Mithoon"
+        ],
+        "genre": [
+            "Films",
+            "Bollywood",
+            "Hindi"
+        ],
+        "album": "Murder 2",
+        "date": "2011-05-30"
+    },
+    {
+        "path": "lossy/Phir Se Ud Chala Rockstar.mp3",
+        "duration": 272,
+        "title": "Phir Se Ud Chala",
+        "artists": [
+            "Mohit Chauhan",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Rock",
+            "Hindi"
+        ],
+        "album": "Rockstar",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Piya Aaye Na.mp3",
+        "duration": 286,
+        "title": "Piya Aaye Na",
+        "artists": [
+            "Tulsi Kumar",
+            "KK"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Professional Griefers Deadmaus.mp3",
+        "duration": 244,
+        "title": "Professional Griefers",
+        "artists": [
+            "Deadmau5",
+            "Gerard Way"
+        ],
+        "genre": [
+            "Dance",
+            "English"
+        ],
+        "album": "Album Title Goes Here",
+        "date": "2012"
+    },
+    {
+        "path": "lossy/Queen Bohemian Rhapsody Remastered 2011.mp3",
+        "duration": 356,
+        "title": "Bohemian Rhapsody - Remastered 2011",
+        "artists": [
+            "Queen"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "A Night At The Opera (2011 Remaster)",
+        "date": "1975-11-21"
+    },
+    {
+        "path": "lossy/Queen Bohemian Rhapsody.mp3",
+        "duration": 358,
+        "title": "Bohemian Rhapsody",
+        "artists": [
+            "Queen"
+        ],
+        "genre": [
+            "Billboard",
+            "English"
+        ],
+        "album": "Billboard Top 100 Hits Of 1992",
+        "date": "1992"
+    },
+    {
+        "path": "lossy/Queen The Show Must Go On.mp3",
+        "duration": 264,
+        "title": "The Show Must Go On",
+        "artists": [
+            "Queen"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Platinum Collection, Vol. I, I",
+        "date": "2001"
+    },
+    {
+        "path": "lossy/Queen We Will Rock You Remastered.mp3",
+        "duration": 122,
+        "title": "We Will Rock You - Remastered",
+        "artists": [
+            "Queen"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "News Of The World (2011 Remaster)",
+        "date": "1977-10-28"
+    },
+    {
+        "path": "lossy/Raabta Arijit Singh.mp3",
+        "duration": 244,
+        "title": "Raabta",
+        "artists": [
+            "Arijit Singh",
+            "Amitabh Bhattacharya"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Agent Vinod",
+        "date": "2012"
+    },
+    {
+        "path": "lossy/Radioactive Imagine Dragons.m4a",
+        "duration": 276,
+        "title": "Radioactive",
+        "artists": [
+            "Imagine Dragons"
+        ],
+        "genre": [
+            "English",
+            "Rock",
+            "Pop"
+        ],
+        "album": "Radioactive",
+        "date": "2012"
+    },
+    {
+        "path": "lossy/Raftaarein Vishal & Shekhar Vishal Dadlani.m4a",
+        "duration": 270,
+        "title": "Raftaarein",
+        "artists": [
+            "Vishal-Shekhar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Ra-One",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Reckoning Song (One Day) Asaf Avidan & the Mojos.mp3",
+        "duration": 167,
+        "title": "Reckoning Song (One Day)",
+        "artists": [
+            "Asaf Avidan",
+            "The Mojos"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Riders In The Sky Lawrence Welk.mp3",
+        "duration": 115,
+        "title": "Riders In The Sky",
+        "artists": [
+            "Lawrence Welk and his Orchestra & Chorus"
+        ],
+        "genre": [
+            "Pop",
+            "Soundtrack"
+        ],
+        "album": "The Lawrence Welk Collection: Lawrence Welk & His Champagne Music 1938-62",
+        "date": "2019"
+    },
+    {
+        "path": "lossy/Roar Katy Perry.mp3",
+        "duration": 224,
+        "title": "Roar",
+        "artists": [
+            "Katy Perry"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "PRISM (Deluxe)",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Rocket Man (I Think It's Going To Be A Long Long Time) Elton John.m4a",
+        "duration": 282,
+        "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+        "artists": [
+            "Elton John"
+        ],
+        "genre": [
+            "English",
+            "Pop"
+        ],
+        "album": "Honky Chateau",
+        "date": "2007"
+    },
+    {
+        "path": "lossy/Saadda Haq (Featuring Orianthi Panagaris On Guitars) Rockstar.mp3",
+        "duration": 365,
+        "title": "Saadda Haq (Featuring Orianthi Panagaris On Guitars)",
+        "artists": [
+            "Clinton Cerejo",
+            "Mohit Chauhan",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Rock",
+            "Hindi"
+        ],
+        "album": "Rockstar",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Saadgi To Hamari Ustad Nusrat Fateh Ali Khan.mp3",
+        "duration": 900,
+        "title": "Saadgi To Hamari",
+        "artists": [
+            "Nusrat Fateh Ali Khan",
+            "Saba Akbarabadi"
+        ],
+        "genre": [
+            "Urdu",
+            "Ghazal"
+        ],
+        "album": "Top 50 Urdu Qawwalies",
+        "date": "2018-08-09"
+    },
+    {
+        "path": "lossy/Saat Samundar Paar (Happy) Vishwatma.mp3",
+        "duration": 397,
+        "title": "Saat Samundar Paar Happy",
+        "artists": [
+            "Sadhana Sargam"
+        ],
+        "genre": [
+            "Bollywood",
+            "Hindi"
+        ],
+        "album": "Vishwatma",
+        "date": "1992"
+    },
+    {
+        "path": "lossy/Saibo.mp3",
+        "duration": 196,
+        "title": "Saibo",
+        "artists": [
+            "Shreya Ghoshal",
+            "Tochi Raina",
+            "Priya Saraiya",
+            "Sameer"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Shor in the City (Original Motion Picture Soundtrack Deluxe Edition)",
+        "date": "2010"
+    },
+    {
+        "path": "lossy/Saiyyan Kailash Kher.mp3",
+        "duration": 344,
+        "title": "Saiyyan",
+        "artists": [
+            "Kailash Kher",
+            "Paresh Kamath",
+            "Naresh Kamath"
+        ],
+        "genre": [
+            "Sufi",
+            "Classical",
+            "Fusion",
+            "Hindi"
+        ],
+        "album": "Kailasa Jhoomo Re",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Sajdaa Rahat Fateh Ali Khan.mp3",
+        "duration": 366,
+        "title": "Sajdaa",
+        "artists": [
+            "Rahat Fateh Ali Khan",
+            "Richa Sharma",
+            "Niranjan Iyengar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Sufi"
+        ],
+        "album": "My Name Is Khan",
+        "date": "2010-07-22"
+    },
+    {
+        "path": "lossy/Sar Jo Tera Chakraye Mohammed Rafi.mp3",
+        "duration": 262,
+        "title": "Sar Jo Tera Chakraye",
+        "artists": [
+            "Mohammed Rafi",
+            "Sahir Ludhiyanvi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Pyaasa (Original Motion Picture Soundtrack)",
+        "date": "1957"
+    },
+    {
+        "path": "lossy/Satisfya Imran Khan.m4a",
+        "duration": 180,
+        "title": "Satisfya",
+        "artists": [
+            "Imran Khan"
+        ],
+        "genre": [
+            "Punjabi"
+        ],
+        "album": "Satisfya",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Say Something Justin Timberlake.mp3",
+        "duration": 279,
+        "title": "Say Something",
+        "artists": [
+            "Justin Timberlake",
+            "Chris Stapleton"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Man of the Woods",
+        "date": "2014-02-02"
+    },
+    {
+        "path": "lossy/Scorecard Theme Music ICC Mens CWC23 (Extended Version).mp3",
+        "duration": 185,
+        "title": "Scorecard Theme Music ICC Mens CWC23 (Extended Version)",
+        "artists": [
+            "Unkown"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "ICC Mens CWC23 (Extended Version)",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Sharp Edges Linkin Park.mp3",
+        "duration": 178,
+        "title": "Sharp Edges",
+        "artists": [
+            "Linkin Park"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "One More Light",
+        "date": "2017-05-19"
+    },
+    {
+        "path": "lossy/Sheher Mein Rockstar.mp3",
+        "duration": 244,
+        "title": "Sheher Mein",
+        "artists": [
+            "Mohit Chauhan",
+            "Karthik",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Rock",
+            "Hindi"
+        ],
+        "album": "Rockstar",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/ShineOnYouCrazyDiamondpartOne.mp3",
+        "duration": 811,
+        "title": "Shine On You Crazy Diamond (Part One)",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Progressive Rock",
+            "English"
+        ],
+        "album": "Wish You Were Here",
+        "date": "1975"
+    },
+    {
+        "path": "lossy/Shiva Tandava Stotram Uma Mohan.m4a",
+        "duration": 398,
+        "title": "Shiva Tandava Stotram",
+        "artists": [
+            "Uma Mohan"
+        ],
+        "genre": [
+            "Sanskrit"
+        ],
+        "album": "Divine Chants Of Shiva",
+        "date": "2007"
+    },
+    {
+        "path": "lossy/Sleeper Atomic.mp3",
+        "duration": 311,
+        "title": "Sleeper",
+        "artists": [
+            "Atomic"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Smells Like Teen Spirit Nirvana.mp3",
+        "duration": 302,
+        "title": "Smells Like Teen Spirit",
+        "artists": [
+            "Nirvana"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Nevermind (Remastered)",
+        "date": "2011-01-01"
+    },
+    {
+        "path": "lossy/Sochta Hoon Ke Woh Kitne Masoom Thay Nusrat Fateh Ali Khan.mp3",
+        "duration": 1588,
+        "title": "Sochta Hoon Ke Woh Kitne Masoom Thay",
+        "artists": [
+            "Nusrat Fateh Ali Khan"
+        ],
+        "genre": [
+            "Urdu",
+            "Qawali",
+            "Ghazal"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Society Eddie Vedder.m4a",
+        "duration": 236,
+        "title": "Society",
+        "artists": [
+            "Eddie Vedder"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Into The Wild (Music For The Motion Picture)",
+        "date": "2017"
+    },
+    {
+        "path": "lossy/Sorrow Pink Floyd.m4a",
+        "duration": 525,
+        "title": "Sorrow",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "A Momentary Lapse of Reason",
+        "date": "1987"
+    },
+    {
+        "path": "lossy/Sorry For Now Linkin Park.mp3",
+        "duration": 204,
+        "title": "Sorry for Now",
+        "artists": [
+            "Linkin Park"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "One More Light",
+        "date": "2017-05-19"
+    },
+    {
+        "path": "lossy/Stayin Alive Bee Gees.m4a",
+        "duration": 283,
+        "title": "Stayin Alive",
+        "artists": [
+            "Bee Gees"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "The Ultimate Bee Gees",
+        "date": "2016"
+    },
+    {
+        "path": "lossy/Stranger Danger di Francis Preve.mp3",
+        "duration": 114,
+        "title": "Stranger Danger",
+        "artists": [
+            "Francis Preve"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Stuck In The Middle With You Stealers Wheel.mp3",
+        "duration": 209,
+        "title": "Stuck In The Middle With You",
+        "artists": [
+            "Stealers Wheel"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Stealers Wheel",
+        "date": "1972"
+    },
+    {
+        "path": "lossy/Suhana Safar Mukesh.mp3",
+        "duration": 231,
+        "title": "Suhana Safar",
+        "artists": [
+            "Mukesh"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Madhumati",
+        "date": "2011-02-02"
+    },
+    {
+        "path": "lossy/Summer LEstate Op 8 No 2 G Minor Presto Vivaldi.mp3",
+        "duration": 176,
+        "title": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
+        "artists": [
+            "Baroque Festival Orchestra",
+            "Alberto Lizzio",
+            "Antonio Vivaldi"
+        ],
+        "genre": [
+            "Classical"
+        ],
+        "album": "Vivaldi - The Four Seasons",
+        "date": "1994-07-01"
+    },
+    {
+        "path": "lossy/Sun Raha Hai Female.mp3",
+        "duration": 315,
+        "title": "Sunn Raha Hai (Female)",
+        "artists": [
+            "Shreya Ghoshal"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Sun Raha Hai Male.mp3",
+        "duration": 390,
+        "title": "Sunn Raha Hai",
+        "artists": [
+            "Ankit Tiwari"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Supermassive Black Hole (Twilight Soundtrack Version) Muse.mp3",
+        "duration": 210,
+        "title": "Supermassive Black Hole",
+        "artists": [
+            "Muse"
+        ],
+        "genre": [
+            "Movie",
+            "Hollywood",
+            "English",
+            "Pop",
+            "EDM"
+        ],
+        "album": "Twilight Original Motion Picture Soundtrack (International Deluxe Version)",
+        "date": "2005"
+    },
+    {
+        "path": "lossy/Suraj Hua Maddham Sonu Nigam Alka Yagnik.mp3",
+        "duration": 428,
+        "title": "Suraj Hua Maddham",
+        "artists": [
+            "Sonu Nigam",
+            "Alka Yagnik",
+            "Anil Pandey"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "date": "2001-01-04"
+    },
+    {
+        "path": "lossy/Taarif Karoon Kya Uski Mohammed Rafi.mp3",
+        "duration": 327,
+        "title": "Taarif Karoon Kya Uski",
+        "artists": [
+            "Mohammed Rafi",
+            "S. H. Bihari"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Kashmir Ki Kali (Original Motion Picture Soundtrack)",
+        "date": "1964"
+    },
+    {
+        "path": "lossy/Take Me To Church Hozier.mp3",
+        "duration": 242,
+        "title": "Take Me To Church",
+        "artists": [
+            "Hozier"
+        ],
+        "genre": [
+            "Alternative",
+            "English"
+        ],
+        "album": "Hozier",
+        "date": "2014-07-20"
+    },
+    {
+        "path": "lossy/Talking to Myself Linkin Park.mp3",
+        "duration": 231,
+        "title": "Talking to Myself",
+        "artists": [
+            "Linkin Park"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "One More Light",
+        "date": "2017-05-19"
+    },
+    {
+        "path": "lossy/Tere Bin Atif Aslam.mp3",
+        "duration": 276,
+        "title": "Tere Bin",
+        "artists": [
+            "Atif Aslam",
+            "Sayeed Quadri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop",
+            "Sufi"
+        ],
+        "album": "Bas Ek Pal (Original Motion Picture Soundtrack)",
+        "date": "2006"
+    },
+    {
+        "path": "lossy/Tere Bin Rabbi Shergill.mp3",
+        "duration": 323,
+        "title": "Tere Bin",
+        "artists": [
+            "Rabbi Shergill"
+        ],
+        "genre": [
+            "Punjabi",
+            "Sufi"
+        ],
+        "album": "Rabbi",
+        "date": "2004"
+    },
+    {
+        "path": "lossy/Teri Deewani Kailash Kher.mp3",
+        "duration": 321,
+        "title": "Teri Deewani",
+        "artists": [
+            "Kailash Kher",
+            "Paresh Kamath",
+            "Naresh Kamath"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Kailasa Jhoomo Re",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Teri Meri Kahaani Arijit Singh.mp3",
+        "duration": 371,
+        "title": "Teri Meri Kahaani",
+        "artists": [
+            "Palak Muchhal",
+            "Arijit Singh",
+            "Manoj Yadav"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Gabbar Is Back (Original Motion Picture Soundtrack)",
+        "date": "2015"
+    },
+    {
+        "path": "lossy/The Champion Carrie Underwood.mp3",
+        "duration": 224,
+        "title": "The Champion",
+        "artists": [
+            "Carrie Underwood",
+            "Ludacris"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "The Champion",
+        "date": "2018"
+    },
+    {
+        "path": "lossy/The Man Who Sold The World (Live) Nirvana.m4a",
+        "duration": 261,
+        "title": "The Man Who Sold The World (Live)",
+        "artists": [
+            "Nirvana"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "MTV Unplugged In New York",
+        "date": "1994"
+    },
+    {
+        "path": "lossy/The Middle ZEDD.mp3",
+        "duration": 185,
+        "title": "The Middle",
+        "artists": [
+            "Zedd",
+            "Maren Morris",
+            "Grey"
+        ],
+        "genre": [
+            "Dance",
+            "English"
+        ],
+        "album": "The Middle",
+        "date": "2018"
+    },
+    {
+        "path": "lossy/The Ride Of The Valkyries Wagner.mp3",
+        "duration": 291,
+        "title": "The Ride Of The Valkyries",
+        "artists": [
+            "Richard Wagner"
+        ],
+        "genre": [
+            "Soundtrack"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/The Scientist Coldplay.mp3",
+        "duration": 311,
+        "title": "The Scientist",
+        "artists": [
+            "Coldplay"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "A Rush Of Blood To The Head",
+        "date": "2002-08-07"
+    },
+    {
+        "path": "lossy/The Show Lenka.mp3",
+        "duration": 236,
+        "title": "The Show",
+        "artists": [
+            "Lenka Kripac"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Lenka (Expanded Edition)",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/The Show Must Go On Pink Floyd.m4a",
+        "duration": 97,
+        "title": "The Show Must Go On",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "The Wall",
+        "date": "1979"
+    },
+    {
+        "path": "lossy/The Sound of Silence (Electric Version) Simon & Garfunkel.m4a",
+        "duration": 185,
+        "title": "The Sound of Silence (Electric Version)",
+        "artists": [
+            "Simon & Garfunkel"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Sounds Of Silence",
+        "date": "1966"
+    },
+    {
+        "path": "lossy/The Times They Are A Changin' Bob Dylan.m4a",
+        "duration": 192,
+        "title": "The Times They Are A-Changin'",
+        "artists": [
+            "Bob Dylan"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "\"]",
+        "date": "1964"
+    },
+    {
+        "path": "lossy/The Unforgiven II Metallica.m4a",
+        "duration": 396,
+        "title": "The Unforgiven II",
+        "artists": [
+            "Metallica"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Reload",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/The Unforgiven Metallica.m4a",
+        "duration": 387,
+        "title": "The Unforgiven",
+        "artists": [
+            "Metallica"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Metallica",
+        "date": "2008"
+    },
+    {
+        "path": "lossy/Total Eclipse of the Heart Bonnie Tyler.m4a",
+        "duration": 418,
+        "title": "Total Eclipse of the Heart",
+        "artists": [
+            "Bonnie Tyler"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Faster Than the Speed of Night",
+        "date": "1983"
+    },
+    {
+        "path": "lossy/Toxicity System Of A Down.m4a",
+        "duration": 219,
+        "title": "Toxicity",
+        "artists": [
+            "System Of A Down"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Toxicity",
+        "date": "2001"
+    },
+    {
+        "path": "lossy/Tu Hi Haqeeqat Pritam.mp3",
+        "duration": 302,
+        "title": "Tu Hi Haqeeqat",
+        "artists": [
+            "Pritam/ Javed Ali/ Irshan Ashraf/ Shadab"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Hindi"
+        ],
+        "album": "Tum Mile (Original Motion Picture Soundtrack)",
+        "date": "2009-09-08"
+    },
+    {
+        "path": "lossy/Tu Jaane Na Pritam Chakraborty.mp3",
+        "duration": 342,
+        "title": "Tu Jaane Na",
+        "artists": [
+            "Atif Aslam",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Film Scores",
+            "Bollywood",
+            "Hindi"
+        ],
+        "album": "Ajab Prem Ki Ghazab Kahani (Original Motion Picture Soundtrack)",
+        "date": "2009-11-06"
+    },
+    {
+        "path": "lossy/Tu Kisi Rail Si Masaan.mp3",
+        "duration": 231,
+        "title": "Tu Kisi Rail Si",
+        "artists": [
+            "Swanand Kirkire"
+        ],
+        "genre": [
+            "Bollywood",
+            "Hindi"
+        ],
+        "album": "Masaan",
+        "date": "2015"
+    },
+    {
+        "path": "lossy/Tujhe Sochta Hoon KK.mp3",
+        "duration": 314,
+        "title": "Tujhe Sochta Hoon",
+        "artists": [
+            "KK",
+            "Sayeed Quadri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Sufi"
+        ],
+        "album": "Jannat 2 (Original Motion Picture Soundtrack)",
+        "date": "2012"
+    },
+    {
+        "path": "lossy/Tum Hi Ho.mp3",
+        "duration": 262,
+        "title": "Tum Hi Ho",
+        "artists": [
+            "Arijit Singh"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Aashiqui 2",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Tum Ho Rockstar.mp3",
+        "duration": 318,
+        "title": "Tum Ho",
+        "artists": [
+            "Suzanne D'Mello",
+            "Mohit Chauhan",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Rock",
+            "Hindi"
+        ],
+        "album": "Rockstar",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Tum Itna Jo Muskura Rahe Ho Jagjit Singh.mp3",
+        "duration": 321,
+        "title": "Tum Itna Jo Muskura Rahe Ho",
+        "artists": [
+            "Jagjit Singh",
+            "Kaifi Azmi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Urdu",
+            "Ghazal"
+        ],
+        "album": "Arth (Original Motion Picture Soundtrack)",
+        "date": "1982-08-17"
+    },
+    {
+        "path": "lossy/Tum Se Hi Jab We Met.mp3",
+        "duration": 321,
+        "title": "Tum Se Hi",
+        "artists": [
+            "Mohit Chauhan",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Films/Games",
+            "Hindi"
+        ],
+        "album": "Jab We Met",
+        "date": "2007"
+    },
+    {
+        "path": "lossy/Tum Tak A.R. Rahman.mp3",
+        "duration": 304,
+        "title": "Tum Tak",
+        "artists": [
+            "A.R. Rahman",
+            "Javed Ali",
+            "Kirti Sagathia",
+            "Pooja AV",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Raanjhanaa (Original Motion Picture Soundtrack)",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Tumhari Nazar Kyon Khafa Ho Gayi Lata Mangeshkar.mp3",
+        "duration": 307,
+        "title": "Tumhari Nazar Kyon Khafa Ho Gayi",
+        "artists": [
+            "Lata Mangeshkar",
+            "Mohammed Rafi",
+            "Sahir Ludhiyanvi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Do Kaliyan (Original Motion Picture Soundtrack)",
+        "date": "1968"
+    },
+    {
+        "path": "lossy/Tumse Milke Dil Ka Sonu Nigam.mp3",
+        "duration": 359,
+        "title": "Tumse Milke Dil Ka",
+        "artists": [
+            "Sonu Nigam",
+            "Sabri Brothers",
+            "Anu Malik"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Main Hoon Na",
+        "date": "2004-02-27"
+    },
+    {
+        "path": "lossy/Udaarian Satinder Sartaaj.mp3",
+        "duration": 350,
+        "title": "Udaarian",
+        "artists": [
+            "Satinder Sartaaj"
+        ],
+        "genre": [
+            "Punjabi"
+        ],
+        "album": "Udaarian",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Uden Jab Jab Zulfen Teri Mohammed Rafi.mp3",
+        "duration": 388,
+        "title": "Uden Jab Jab Zulfen Teri",
+        "artists": [
+            "Mohammed Rafi",
+            "Asha Bhosle",
+            "Sahir Ludhiyanvi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Naya Daur (Original Motion Picture Soundtrack)",
+        "date": "1957"
+    },
+    {
+        "path": "lossy/Uma Thurman Fall Out Boy.mp3",
+        "duration": 212,
+        "title": "Uma Thurman",
+        "artists": [
+            "Fall Out Boy"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "new downloads",
+        "date": "2015"
+    },
+    {
+        "path": "lossy/Until I Found You Stephen Sanchez.mp3",
+        "duration": 178,
+        "title": "Until I Found You",
+        "artists": [
+            "Stephen Sanchez",
+            "Georgia Brown"
+        ],
+        "genre": [
+            "English",
+            "Pop"
+        ],
+        "album": "Until I Found You",
+        "date": "2021"
+    },
+    {
+        "path": "lossy/Vande Mataram 98 Lata Mangeshkar.mp3",
+        "duration": 264,
+        "title": "Vande Matram",
+        "artists": [
+            "Lata Mangeshkar",
+            "Ranjit Barot"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Unknown",
+        "date": "1998"
+    },
+    {
+        "path": "lossy/Venom (Music From The Motion Picture) Eminem.m4a",
+        "duration": 270,
+        "title": "Venom (Music From The Motion Picture)",
+        "artists": [
+            "Eminem"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Venom (Music From The Motion Picture)",
+        "date": "2018"
+    },
+    {
+        "path": "lossy/Vijayi Vishwa Tiranga Pyara Doordarshan Rare Patriotic Song Abhijeet Bhattacharya The Listener.mp3",
+        "duration": 252,
+        "title": "Vijayi Vishwa Tiranga Pyara",
+        "artists": [
+            "Abhijeet Bhattacharya"
+        ],
+        "genre": [
+            "Music",
+            "Hindi"
+        ],
+        "album": "Vijayi Vishwa Tiranga Pyara | Abhijeet Bhattacharya | Independence Day Special Song | Patriotic Song",
+        "date": "2025"
+    },
+    {
+        "path": "lossy/Wagner ride of the valkyries.mp3",
+        "duration": 57,
+        "title": "Grand Fantasie from Die Walkure",
+        "artists": [
+            "United States Marine Band"
+        ],
+        "genre": [
+            "Classical",
+            "Soundtrack"
+        ],
+        "album": "Grand Scenes",
+        "date": "2000-00-00"
+    },
+    {
+        "path": "lossy/Wake Up (Album Version) Mad Season.mp3",
+        "duration": 456,
+        "title": "Wake Up (Album Version)",
+        "artists": [
+            "Mad Season"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Above",
+        "date": "1995-03-07"
+    },
+    {
+        "path": "lossy/Wakhra Swag Navv Inder Badshah.m4a",
+        "duration": 191,
+        "title": "Wakhra Swag",
+        "artists": [
+            "Navv Inder",
+            "Badshah"
+        ],
+        "genre": [
+            "Punjabi",
+            "Hip Hop"
+        ],
+        "album": "Wakhra Swag",
+        "date": "2015"
+    },
+    {
+        "path": "lossy/Weetabix Bryce Dessner.mp3",
+        "duration": 97,
+        "title": "Weetabix",
+        "artists": [
+            "Bryce Dessner"
+        ],
+        "genre": [
+            "Movie",
+            "Hollywood",
+            "Soundtrack"
+        ],
+        "album": "We Live in Time (Original Soundtrack)",
+        "date": "2024"
+    },
+    {
+        "path": "lossy/What A Wonderful World Louis Armstrong.mp3",
+        "duration": 139,
+        "title": "What A Wonderful World",
+        "artists": [
+            "Louis Armstrong"
+        ],
+        "genre": [
+            "Jazz",
+            "English"
+        ],
+        "album": "Platinum Classics",
+        "date": "2006"
+    },
+    {
+        "path": "lossy/What's Up Danger Blackway Black Caviar.m4a",
+        "duration": 222,
+        "title": "What's Up Danger",
+        "artists": [
+            "Blackway",
+            "Black Caviar"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "date": "2018"
+    },
+    {
+        "path": "lossy/Winter L Inverno Op 8 No 4 F Minor Allegro Vivaldi.mp3",
+        "duration": 215,
+        "title": "Winter (L'Inverno) Op.8 No.4 F Minor: Allegro Non Molto",
+        "artists": [
+            "Baroque Festival Orchestra/Alberto Lizzio"
+        ],
+        "genre": [
+            "Classical"
+        ],
+        "album": "Vivaldi - The Four Seasons",
+        "date": "1994-07-01"
+    },
+    {
+        "path": "lossy/Ya Ali (From  Gangster ).mp3",
+        "duration": 296,
+        "title": "Ya Ali",
+        "artists": [
+            "Zubeen Garg",
+            "Sayeed Quadri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Gangster (Original Motion Picture Soundtrack)",
+        "date": "2006"
+    },
+    {
+        "path": "lossy/Yaar Berozgaar Preet Harpal.mp3",
+        "duration": 230,
+        "title": "Yaar Berozgaar",
+        "artists": [
+            "Preet Harpal"
+        ],
+        "genre": [
+            "Indian Music",
+            "Punjabi"
+        ],
+        "album": "Yaar Berozgaar",
+        "date": "2016"
+    },
+    {
+        "path": "lossy/Ye Jo Halka Halka A very Rare (First ever recorded) Version.mp3",
+        "duration": 1830,
+        "title": "Ye Jo Halka Halka A very Rare (First ever recorded) Version",
+        "artists": [
+            "Nusrat Fateh Ali Khan"
+        ],
+        "genre": [
+            "Qawali",
+            "Urdu"
+        ],
+        "album": "Unknown",
+        "date": "3000"
+    },
+    {
+        "path": "lossy/Ye Jo Halka Halka Saroor Hai Ustad Nusrat Fateh Ali Khan.mp3",
+        "duration": 1134,
+        "title": "Ye Jo Halka Halka Saroor Hai",
+        "artists": [
+            "Nusrat Fateh Ali Khan",
+            "Anwar Farrukhabadi"
+        ],
+        "genre": [
+            "Urdu",
+            "Qawali",
+            "Ghazal"
+        ],
+        "album": "Best of Ustad Nusrat Fateh Ali Khan (Romantic Qawwalies) Pt. 3",
+        "date": "2011-11-23"
+    },
+    {
+        "path": "lossy/Yeh Duniya Agar Mil Bhi Jaye To Mohammed Rafi.mp3",
+        "duration": 308,
+        "title": "Yeh Duniya Agar Mil Bhi Jaye To",
+        "artists": [
+            "Mohammed Rafi",
+            "Sahir Ludhiyanvi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Pyaasa (Original Motion Picture Soundtrack)",
+        "date": "1957"
+    },
+    {
+        "path": "lossy/Yeh Kya Hua Kishore Kumar.mp3",
+        "duration": 273,
+        "title": "Yeh Kya Hua",
+        "artists": [
+            "Kishore Kumar"
+        ],
+        "genre": [
+            "Asian Music",
+            "Hindi"
+        ],
+        "album": "Amar Prem (Original Motion Picture Soundtrack)",
+        "date": "1971-12-31"
+    },
+    {
+        "path": "lossy/Yeh Vaada Raha (Yeh Vaada Raha Soundtrack Version) Asha Bhosle Kishore Kumar.m4a",
+        "duration": 409,
+        "title": "Yeh Vaada Raha",
+        "artists": [
+            "Kishore Kumar",
+            "Gulshan Bawra"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Yeh Vaada Raha",
+        "date": "1982"
+    },
+    {
+        "path": "lossy/Yellow Coldplay.mp3",
+        "duration": 267,
+        "title": "Yellow",
+        "artists": [
+            "Coldplay"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Parachutes",
+        "date": "2000-07-09"
+    },
+    {
+        "path": "lossy/You Belong With Me Taylor Swift.m4a",
+        "duration": 231,
+        "title": "You Belong With Me",
+        "artists": [
+            "Taylor Swift"
+        ],
+        "genre": [
+            "English"
+        ],
+        "album": "Fearless (Platinum Edition)",
+        "date": "2009"
+    },
+    {
+        "path": "lossy/Yumejis Theme (From In the Mood for Love).mp3",
+        "duration": 151,
+        "title": "Yumeji's Theme",
+        "artists": [
+            "Shigeru Umebayashi"
+        ],
+        "genre": [
+            "Movie",
+            "Soundtrack"
+        ],
+        "album": "Yumeji's Theme (Original Motion Picture Soundtrack)",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Zara Dekh Mera Deewanapan Udit Narayan Alka Yagnik.m4a",
+        "duration": 286,
+        "title": "Zara Dekh Mera Deewanapan",
+        "artists": [
+            "Udit Narayan",
+            "Alka Yagnik",
+            "Praveen Bhardwaj"
+        ],
+        "genre": [
+            "Hindi"
+        ],
+        "album": "Footpath",
+        "date": "2003"
+    },
+    {
+        "path": "lossy/Zara Sa Pritam.mp3",
+        "duration": 304,
+        "title": "Zara Sa",
+        "artists": [
+            "Pritam/ KK"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Hindi"
+        ],
+        "album": "Jannat (Original Motion Picture Soundtrack)",
+        "date": "2008-03-07"
+    },
+    {
+        "path": "lossy/Zara Zara Bombay Jaishree.mp3",
+        "duration": 298,
+        "title": "Zara Zara",
+        "artists": [
+            "Bombay Jayashri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Rehnaa Hai Terre Dil Mein (Original Motion Picture Soundtrack)",
+        "date": "2001-12-01"
+    },
+    {
+        "path": "lossy/Zaroorat Mustafa Zahid.mp3",
+        "duration": 369,
+        "title": "Zaroorat",
+        "artists": [
+            "Mustafa Zahid",
+            "Mithoon"
+        ],
+        "genre": [
+            "Films",
+            "Games",
+            "Hindi"
+        ],
+        "album": "Ek Villain",
+        "date": "2014-05-28"
+    },
+    {
+        "path": "lossy/Zaroori Tha Rahat Fateh Ali Khan.mp3",
+        "duration": 342,
+        "title": "Zaroori Tha",
+        "artists": [
+            "Rahat Fateh Ali Khan",
+            "Kalil-ur-Rehman"
+        ],
+        "genre": [
+            "Urdu",
+            "Hindi"
+        ],
+        "album": "Back 2 Love",
+        "date": "2014-06-09"
+    },
+    {
+        "path": "lossy/Zinda Shankar Ehsaan Loy Siddharth Mahadevan.m4a",
+        "duration": 211,
+        "title": "Zinda",
+        "artists": [
+            "Prasoon Joshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Rock"
+        ],
+        "album": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+        "date": "2013"
+    },
+    {
+        "path": "lossy/Zindagi Ke Safar Mein Kishore Kumar.mp3",
+        "duration": 399,
+        "title": "Zindagi Ke Safar Mein",
+        "artists": [
+            "Kishore Kumar"
+        ],
+        "genre": [
+            "Hindi",
+            "Bollywood"
+        ],
+        "album": "Aap Ki Kasam (Original Motion Picture Soundtrack)",
+        "date": "1974-12-01"
+    },
+    {
+        "path": "lossy/Zindagi Kuch Toh Bata Bajrangi Bhaijaan.mp3",
+        "duration": 262,
+        "title": "Zindagi Kuch Toh Bata",
+        "artists": [
+            "Rahat Fateh Ali Khan/Rekha Bhardwaj/Pritam"
+        ],
+        "genre": [
+            "Films",
+            "Hindi"
+        ],
+        "album": "Bajrangi Bhaijaan",
+        "date": "2015-07-07"
+    },
+    {
+        "path": "lossy/Zombie The Cranberries.mp3",
+        "duration": 306,
+        "title": "Zombie",
+        "artists": [
+            "The Cranberries"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "date": "2002"
+    },
+    {
+        "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/01. Speak To MeBreathe [Breathe In The Air.mp3",
+        "duration": 241,
+        "title": "Speak To Me/Breathe [Breathe In The Air]",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "The Dark Side Of The Moon[ Remastered]",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/02. On The Run.mp3",
+        "duration": 213,
+        "title": "On The Run",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Rock",
+            "Soundtrack"
+        ],
+        "album": "The Dark Side Of The Moon[ Remastered]",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/03. Time.mp3",
+        "duration": 427,
+        "title": "Time",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "The Dark Side Of The Moon[ Remastered]",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/04. The Great Gig In The Sky.mp3",
+        "duration": 284,
+        "title": "The Great Gig In The Sky",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "The Dark Side Of The Moon[ Remastered]",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/05. Money.mp3",
+        "duration": 392,
+        "title": "Money",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "The Dark Side Of The Moon[ Remastered]",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/06. Us And Them.mp3",
+        "duration": 461,
+        "title": "Us And Them",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "The Dark Side Of The Moon[ Remastered]",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/07. Any Colour You Like.mp3",
+        "duration": 206,
+        "title": "Any Colour You Like",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "The Dark Side Of The Moon[ Remastered]",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/08. Brain Damage.mp3",
+        "duration": 231,
+        "title": "Brain Damage",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "The Dark Side Of The Moon[ Remastered]",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/09. Eclipse.mp3",
+        "duration": 124,
+        "title": "Eclipse",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "The Dark Side Of The Moon[ Remastered]",
+        "date": "2011"
+    },
+    {
+        "path": "lossy/Pink Floyd _ Wish You Were Here (1975) [MP3 320] 88/01. Shine On You Crazy Diamond (Parts 1 5).mp3",
+        "duration": 811,
+        "title": "Shine On You Crazy Diamond (Parts 1-5)",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Progressive Rock",
+            "English"
+        ],
+        "album": "Wish You Were Here",
+        "date": "1975"
+    },
+    {
+        "path": "lossy/Pink Floyd _ Wish You Were Here (1975) [MP3 320] 88/02. Welcome To The Machine.mp3",
+        "duration": 447,
+        "title": "Welcome To The Machine",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Progressive Rock",
+            "English"
+        ],
+        "album": "Wish You Were Here",
+        "date": "1975"
+    },
+    {
+        "path": "lossy/Pink Floyd _ Wish You Were Here (1975) [MP3 320] 88/03. Have A Cigar.mp3",
+        "duration": 308,
+        "title": "Have A Cigar",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Progressive Rock",
+            "English"
+        ],
+        "album": "Wish You Were Here",
+        "date": "1975"
+    },
+    {
+        "path": "lossy/Pink Floyd _ Wish You Were Here (1975) [MP3 320] 88/04. Wish You Were Here.mp3",
+        "duration": 340,
+        "title": "Wish You Were Here",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Progressive Rock",
+            "English"
+        ],
+        "album": "Wish You Were Here",
+        "date": "1975"
+    },
+    {
+        "path": "lossy/Pink Floyd _ Wish You Were Here (1975) [MP3 320] 88/05. Shine On You Crazy Diamond (Parts 6 9).mp3",
+        "duration": 743,
+        "title": "Shine On You Crazy Diamond (Parts 6-9)",
+        "artists": [
+            "Pink Floyd"
+        ],
+        "genre": [
+            "Progressive Rock",
+            "English"
+        ],
+        "album": "Wish You Were Here",
+        "date": "1975"
+    }
+]
