@@ -133,7 +133,7 @@ def clean_tag(ext, file_path):
 
 def all_songs_dict(base_dir=["lossy/"]):
     try:
-        with open("web_assets/songsi.json", "r") as f:
+        with open("web_assets/songs.json", "r") as f:
             songs = json.loads(f.read())
     except FileNotFoundError:
         songs = []
@@ -145,7 +145,7 @@ def all_songs_dict(base_dir=["lossy/"]):
             song = clean_tag(ext, file_path)
             songs.append(song)
 
-    with open("web_assets/songsi.json", "w") as f:
+    with open("web_assets/songs.json", "w") as f:
         f.write(json.dumps(songs, indent=4))
 
 def name_clean(base_dir=["new downloads/"]):
@@ -195,9 +195,9 @@ def all_tags():
             print(tag, value)
 
 if __name__ == "__main__":
-    # all_songs_dict()
+    all_songs_dict()
     # name_clean()
-    all_tags()
+    # all_tags()
     # with open("web_assets/songsi.json", "r") as fi:
     #     for song in json.loads(fi.read()):
     #         if str(song["date"].split("-")[0])=="0000":

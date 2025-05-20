@@ -9,6 +9,7 @@ import chardet
 from shutil import copyfile
 import pyperclip
 import info 
+import json
 
 # extensions supported
 
@@ -67,6 +68,13 @@ def save_lyrics(dirs=["new downloads/"]):
                 else:
                     write_lrc(filename, "Not Found")
 
+
+# removes common typos from lyrics
+def remove_typo(lyrics):
+    with open("typo.json", "r") as fi:
+        typos = json.loads(fi.read())
+
+    
 # walk all files in provided base directory
 # manages buffer by saving returns in list for each iteration
 def all_files_in(base_dir="new downloads/", next_function=save_lyrics, buffer=[None]):
