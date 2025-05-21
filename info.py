@@ -195,8 +195,8 @@ def all_tags():
             print(tag, value)
 
 if __name__ == "__main__":
-    all_songs_dict()
-    # name_clean()
+    #all_songs_dict()
+    name_clean()
     # all_tags()
     # with open("web_assets/songsi.json", "r") as fi:
     #     for song in json.loads(fi.read()):
