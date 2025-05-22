@@ -153,7 +153,7 @@ def name_clean(base_dir=["new downloads/"]):
         name, ext = file_name_ext(file_path)
         path = file_path.split(name)[0]
         name = " ".join(reversed([n.strip() for n in name.split("-")]))
-        new_name = path + name + "." + ext
+        new_name = path + name.replace("_", " ") + "." + ext
         os.rename(file_path, new_name)
         print(i, new_name, ' ', sep='"')
 

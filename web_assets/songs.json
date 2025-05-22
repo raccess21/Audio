@@ -196,6 +196,26 @@
         "date": "2007-10-18"
     },
     {
+        "path": "lossy/Aaja Piya Tohe Pyar Doon Lata Mangeshkar.mp3",
+        "duration": 251,
+        "title": "Aaja Piya Tohe Pyar Doon",
+        "artists": [
+            "Lata Mangeshkar",
+            "Majrooh Sultanpuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Raag"
+        ],
+        "album": "Baharon Ke Sapne",
+        "composer": [
+            "R. D. Burman"
+        ],
+        "date": "1967"
+    },
+    {
         "path": "lossy/Aam Jahe Munde Parmish Verma.mp3",
         "duration": 208,
         "title": "Aam Jahe Munde",
@@ -271,9 +291,9 @@
             "Mithoon"
         ],
         "genre": [
-            "Soundtrack",
             "Bollywood",
-            "Movie"
+            "Movie",
+            "Soundtrack"
         ],
         "album": "Aashiqui 2",
         "composer": [
@@ -854,7 +874,7 @@
             "Hanumankind",
             "Kalmi"
         ],
-        "date": "2024-07-09"
+        "date": "0000"
     },
     {
         "path": "lossy/Bindiya Chamke Gi Lata Mangeshkar.mp3",
@@ -1127,7 +1147,7 @@
         ],
         "genre": [
             "Bollywood",
-            "Movies",
+            "Movie",
             "Pop"
         ],
         "album": "Ra-One",
@@ -1146,8 +1166,10 @@
             "Shaan"
         ],
         "genre": [
-            "Asian Music",
-            "Hindi"
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Urdu"
         ],
         "album": "Fanaa",
         "composer": [
@@ -1181,14 +1203,17 @@
             "Url"
         ],
         "genre": [
-            "Asian Music",
-            "Hindi"
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop",
+            "Dance"
         ],
         "album": "Pritam",
         "composer": [
             "Pritam"
         ],
-        "date": "2010"
+        "date": "0000"
     },
     {
         "path": "lossy/Cheri Cheri Lady Modern Talking.mp3",
@@ -1212,7 +1237,8 @@
             "Kishore Kumar"
         ],
         "genre": [
-            "Asian Music",
+            "Bollywood",
+            "Movie",
             "Hindi"
         ],
         "album": "Amar Prem (Original Motion Picture Soundtrack)",
@@ -1345,8 +1371,10 @@
             "English"
         ],
         "album": "The Way that Lovers Do",
-        "composer": [],
-        "date": "2022"
+        "composer": [
+            "Prateek Kuhad"
+        ],
+        "date": "0000"
     },
     {
         "path": "lossy/Cold Mess Prateek Kuhad.mp3",
@@ -2397,14 +2425,13 @@
             "Satinder Sartaaj"
         ],
         "genre": [
-            "Asian Music",
             "Punjabi"
         ],
         "album": "Ikko - Mikke",
         "composer": [
             "Beat Minister"
         ],
-        "date": "2020-02-13"
+        "date": "2020"
     },
     {
         "path": "lossy/Immigrant Song Led Zeppelin.mp3",
@@ -2616,6 +2643,48 @@
         "date": "1961"
     },
     {
+        "path": "lossy/Jaadu Teri Nazar Udit Narayan.mp3",
+        "duration": 280,
+        "title": "Jaadu Teri Nazar",
+        "artists": [
+            "Udit Narayan",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Darr (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Shiv - Hari"
+        ],
+        "date": "1990"
+    },
+    {
+        "path": "lossy/Jaane Jaan Dhoondata Jawani Diwani Soundtrack Version Kishore Kumar.mp3",
+        "duration": 355,
+        "title": "Jaane Jaan Dhoondata",
+        "artists": [
+            "Kishore Kumar",
+            "Asha Bhosle",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop",
+            "Swing"
+        ],
+        "album": "Jawani Diwani",
+        "composer": [
+            "R. D. Burman"
+        ],
+        "date": "1972"
+    },
+    {
         "path": "lossy/Jab Tak Armaan Malik.mp3",
         "duration": 174,
         "title": "Jab Tak",
@@ -2761,7 +2830,9 @@
             "Anand Bakshi"
         ],
         "genre": [
-            "Asian Music"
+            "Bollywood",
+            "Movie",
+            "Hindi"
         ],
         "album": "Kati Patang (Original Motion Picture Soundtrack)",
         "composer": [
@@ -3003,6 +3074,24 @@
             "Nusrat Fateh Ali Khan"
         ],
         "date": "2015-05-01"
+    },
+    {
+        "path": "lossy/Karz Theme (Instrumental) Pyarelal Laxmikant.mp3",
+        "duration": 194,
+        "title": "Karz Theme (Instrumental)",
+        "artists": [
+            "Laxmikant - Pyarelal"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Soundtrack"
+        ],
+        "album": "Karz (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Laxmikant - Pyarelal"
+        ],
+        "date": "0000-12-01"
     },
     {
         "path": "lossy/Kasme Wade Pyar Wafa Manna Dey.mp3",
@@ -3607,11 +3696,14 @@
             "Gajendra Verma"
         ],
         "genre": [
-            "\u0410\u0437\u0438\u0430\u0442\u0441\u043a\u0430\u044f \u043c\u0443\u0437\u044b\u043a\u0430/\u0424\u0438\u043b\u044c\u043c\u044b/\u0418\u0433\u0440\u044b/\u0411\u043e\u043b\u043b\u0438\u0432\u0443\u0434"
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
         ],
         "album": "Table No. 21 (Original Motion Picture Soundtrack)",
         "composer": [],
-        "date": "2012-12-21"
+        "date": "2012"
     },
     {
         "path": "lossy/Marooned Pink Floyd.mp3",
@@ -3710,6 +3802,26 @@
             "Kalyanji - Anandji"
         ],
         "date": "1968"
+    },
+    {
+        "path": "lossy/Mere Haath Mein Sunidhi Chauhan.mp3",
+        "duration": 286,
+        "title": "Mere Haath Mein",
+        "artists": [
+            "Sunidhi Chauhan",
+            "Sonu Nigam",
+            "Prasoon Joshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Fanaa",
+        "composer": [
+            "Jatin-Lalit"
+        ],
+        "date": "2006"
     },
     {
         "path": "lossy/Mere Mehboob Qayamat Hogi Pt 1 Kishore Kumar.mp3",
@@ -3828,7 +3940,8 @@
             "Kishore Kumar"
         ],
         "genre": [
-            "Asian Music",
+            "Bollywood",
+            "Movie",
             "Hindi"
         ],
         "album": "Sheesha Ho Ya Dil Ho - Dard Bhare Geet",
@@ -4036,12 +4149,11 @@
             "Satinder Sartaaj"
         ],
         "genre": [
-            "Asian Music & Pop",
             "Punjabi"
         ],
         "album": "Sartaaj",
         "composer": [],
-        "date": "2009-02-25"
+        "date": "2009"
     },
     {
         "path": "lossy/Njan Chendena Vijay Yesudas.mp3",
@@ -4146,12 +4258,16 @@
             "Crystal Castles feat. Robert Smith"
         ],
         "genre": [
-            "Alternative/Indie, Dance/Electronic",
+            "Alternative",
+            "Indie",
+            "Dance",
+            "Electronic",
+            "Pop",
             "English"
         ],
         "album": "Crystal Castles (II)",
         "composer": [],
-        "date": "2010"
+        "date": "0000"
     },
     {
         "path": "lossy/Nothing Else Matters Metallica.m4a",
@@ -4386,6 +4502,26 @@
             "pritam"
         ],
         "date": "2010"
+    },
+    {
+        "path": "lossy/Pehli Nazar Mein Pritam Chakraborty.mp3",
+        "duration": 313,
+        "title": "Pehli Nazar Mein",
+        "artists": [
+            "Atif Aslam",
+            "Sameer"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Race (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Pritam"
+        ],
+        "date": "2008"
     },
     {
         "path": "lossy/Perfect Day Lou Reed.mp3",
@@ -4841,6 +4977,25 @@
             "Loy Mendonsa"
         ],
         "date": "2010-07-22"
+    },
+    {
+        "path": "lossy/Samne Ye Kaun Aya Jawani Diwani Soundtrack Version Kishore Kumar.mp3",
+        "duration": 253,
+        "title": "Samne Ye Kaun Aya",
+        "artists": [
+            "Kishore Kumar",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Jawani Diwani",
+        "composer": [
+            "R. D. Burman"
+        ],
+        "date": "1972-02-10"
     },
     {
         "path": "lossy/Sar Jo Tera Chakraye Mohammed Rafi.mp3",
@@ -5587,6 +5742,24 @@
         "date": "2008"
     },
     {
+        "path": "lossy/Theme Music 1947 Earth A.R. Rahman.mp3",
+        "duration": 289,
+        "title": "Theme Music",
+        "artists": [
+            "A.R. Rahman"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Soundtrack"
+        ],
+        "album": "1947: Earth",
+        "composer": [
+            "A.R. Rahman"
+        ],
+        "date": "1999"
+    },
+    {
         "path": "lossy/Total Eclipse of the Heart Bonnie Tyler.m4a",
         "duration": 418,
         "title": "Total Eclipse of the Heart",
@@ -5819,14 +5992,15 @@
             "Irshad Kamil"
         ],
         "genre": [
-            "Films/Games",
+            "Bollywood",
+            "Movie",
             "Hindi"
         ],
         "album": "Jab We Met",
         "composer": [
             "Pritam"
         ],
-        "date": "2007"
+        "date": "0000"
     },
     {
         "path": "lossy/Tum Tak A.R. Rahman.mp3",
@@ -6206,6 +6380,27 @@
         "date": "2016"
     },
     {
+        "path": "lossy/Ye Jawani Hai Diwani Jawani Diwani Soundtrack Version Kishore Kumar .mp3",
+        "duration": 266,
+        "title": "Ye Jawani Hai Diwani",
+        "artists": [
+            "Kishore Kumar",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop",
+            "Swing"
+        ],
+        "album": "Jawani Diwani",
+        "composer": [
+            "R. D. Burman"
+        ],
+        "date": "1972-02-10"
+    },
+    {
         "path": "lossy/Ye Jo Halka Halka A very Rare (First ever recorded) Version.mp3",
         "duration": 1830,
         "title": "Ye Jo Halka Halka A very Rare (First ever recorded) Version",
@@ -6306,7 +6501,8 @@
             "Kishore Kumar"
         ],
         "genre": [
-            "Asian Music",
+            "Bollywood",
+            "Movie",
             "Hindi"
         ],
         "album": "Amar Prem (Original Motion Picture Soundtrack)",
@@ -6422,19 +6618,20 @@
         "duration": 304,
         "title": "Zara Sa",
         "artists": [
-            "Pritam",
-            "KK"
+            "KK",
+            "Sayeed Quadri"
         ],
         "genre": [
-            "Films",
-            "Games",
-            "Hindi"
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
         ],
         "album": "Jannat (Original Motion Picture Soundtrack)",
         "composer": [
             "Pritam"
         ],
-        "date": "2008-03-07"
+        "date": "0000"
     },
     {
         "path": "lossy/Zara Zara Bombay Jaishree.mp3",
