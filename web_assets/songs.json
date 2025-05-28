@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Welcome To The Jungle": {
         "path": "lossy/01. Welcome To The Jungle.mp3",
         "duration": 272,
         "title": "Welcome To The Jungle",
@@ -14,7 +14,7 @@
         "composer": [],
         "date": "2004"
     },
-    {
+    "Sweet Child O' Mine": {
         "path": "lossy/02. Sweet Child O' Mine.mp3",
         "duration": 355,
         "title": "Sweet Child O' Mine",
@@ -29,7 +29,7 @@
         "composer": [],
         "date": "2004"
     },
-    {
+    "November Rain": {
         "path": "lossy/09. November Rain.mp3",
         "duration": 537,
         "title": "November Rain",
@@ -44,7 +44,7 @@
         "composer": [],
         "date": "2004"
     },
-    {
+    "295": {
         "path": "lossy/295 Sidhu Moose Wala.m4a",
         "duration": 270,
         "title": "295",
@@ -59,7 +59,7 @@
         "composer": [],
         "date": "2021"
     },
-    {
+    "Options": {
         "path": "lossy/A Cooper Options.mp3",
         "duration": 285,
         "title": "Options",
@@ -75,7 +75,7 @@
         ],
         "date": "3000"
     },
-    {
+    "Aa Chal Ke Tujhe": {
         "path": "lossy/Aa Chal Ke Tujhe Kishore Kumar.mp3",
         "duration": 280,
         "title": "Aa Chal Ke Tujhe",
@@ -94,7 +94,7 @@
         ],
         "date": "1964"
     },
-    {
+    "Aa Zara": {
         "path": "lossy/Aa Zara Sunidhi Chauhan.m4a",
         "duration": 297,
         "title": "Aa Zara",
@@ -113,7 +113,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Aadat": {
         "path": "lossy/Aadat (From  Kalyug).mp3",
         "duration": 334,
         "title": "Aadat",
@@ -134,7 +134,7 @@
         ],
         "date": "2005-12-09"
     },
-    {
+    "Aaj Ki Raat": {
         "path": "lossy/Aaj Ki Raat Don The Chase Begins Again.mp3",
         "duration": 369,
         "title": "Aaj Ki Raat",
@@ -156,7 +156,7 @@
         ],
         "date": "2006"
     },
-    {
+    "Aaja Aaja Main Hoon Pyar Tera": {
         "path": "lossy/Aaja Aaja Main Hoon Pyar Tera Asha Bhosle.mp3",
         "duration": 401,
         "title": "Aaja Aaja Main Hoon Pyar Tera",
@@ -177,7 +177,7 @@
         ],
         "date": "1966"
     },
-    {
+    "Aaja Nachle": {
         "path": "lossy/Aaja Nachle Sunidhi Chauhan.mp3",
         "duration": 305,
         "title": "Aaja Nachle",
@@ -195,7 +195,7 @@
         "composer": [],
         "date": "2007-10-18"
     },
-    {
+    "Aaja Piya Tohe Pyar Doon": {
         "path": "lossy/Aaja Piya Tohe Pyar Doon Lata Mangeshkar.mp3",
         "duration": 251,
         "title": "Aaja Piya Tohe Pyar Doon",
@@ -215,7 +215,7 @@
         ],
         "date": "1967"
     },
-    {
+    "Aam Jahe Munde": {
         "path": "lossy/Aam Jahe Munde Parmish Verma.mp3",
         "duration": 208,
         "title": "Aam Jahe Munde",
@@ -230,7 +230,7 @@
         "composer": [],
         "date": "2023"
     },
-    {
+    "Aap Ki Nazron Ne Samjha": {
         "path": "lossy/Aap Ki Nazron Ne Samjha Lata Mangeshkar.mp3",
         "duration": 235,
         "title": "Aap Ki Nazron Ne Samjha",
@@ -249,7 +249,7 @@
         ],
         "date": "1961"
     },
-    {
+    "Aarambh": {
         "path": "lossy/Aarambh Piyush Mishra.m4a",
         "duration": 296,
         "title": "Aarambh",
@@ -265,7 +265,7 @@
         ],
         "date": "2009"
     },
-    {
+    "Aasan Nahin Yahan": {
         "path": "lossy/Aasan Nahin Yahan.mp3",
         "duration": 215,
         "title": "Aasan Nahin Yahan",
@@ -283,7 +283,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Aashiqui (The Love Theme)": {
         "path": "lossy/Aashiqui The Love Theme.mp3",
         "duration": 162,
         "title": "Aashiqui (The Love Theme)",
@@ -301,7 +301,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Abhi Na Jao Chhod Kar (From \"Hum Dono\")": {
         "path": "lossy/Abhi Na Jao Chhod Kar (From  Hum Dono ) Mohammed Rafi.mp3",
         "duration": 258,
         "title": "Abhi Na Jao Chhod Kar (From \"Hum Dono\")",
@@ -321,7 +321,7 @@
         ],
         "date": "1961"
     },
-    {
+    "Agar Tum Mil Jao": {
         "path": "lossy/Agar Tum Mil Jao (From  Zeher ) Shreya Ghoshal.mp3",
         "duration": 360,
         "title": "Agar Tum Mil Jao",
@@ -341,7 +341,7 @@
         ],
         "date": "2005"
     },
-    {
+    "Ajj Din Chadheya": {
         "path": "lossy/Ajj Din Chadheya Rahat Fateh Ali Khan.mp3",
         "duration": 315,
         "title": "Ajj Din Chadheya",
@@ -361,7 +361,7 @@
         ],
         "date": "2009"
     },
-    {
+    "Alive": {
         "path": "lossy/Alive Pearl Jam.mp3",
         "duration": 341,
         "title": "Alive",
@@ -380,7 +380,7 @@
         ],
         "date": "1992-01-14"
     },
-    {
+    "Animals": {
         "path": "lossy/Animals Maroon 5.mp3",
         "duration": 229,
         "title": "Animals",
@@ -399,7 +399,7 @@
         ],
         "date": "3000"
     },
-    {
+    "Ankhiyon Ke Jharokhon Se Pt. 2": {
         "path": "lossy/Ankhiyon Ke Jharokhon Se Pt 2 Hemlata.mp3",
         "duration": 446,
         "title": "Ankhiyon Ke Jharokhon Se Pt. 2",
@@ -418,7 +418,7 @@
         ],
         "date": "1978"
     },
-    {
+    "Apocalypse": {
         "path": "lossy/Apocalypse Cigarettes After Sex.mp3",
         "duration": 285,
         "title": "Apocalypse",
@@ -432,7 +432,7 @@
         "composer": [],
         "date": "2017"
     },
-    {
+    "Arbi Ghode": {
         "path": "lossy/ARBI GHODE Official Bhagat.m4a",
         "duration": 158,
         "title": "Arbi Ghode",
@@ -451,7 +451,7 @@
         ],
         "date": "3000"
     },
-    {
+    "Ashes": {
         "path": "lossy/Ashes C\u00e9line Dion.mp3",
         "duration": 200,
         "title": "Ashes",
@@ -469,7 +469,7 @@
         ],
         "date": "2018"
     },
-    {
+    "Asi Gabru Punjabi": {
         "path": "lossy/Asi Gabru Punjabi Amrinder Gill.m4a",
         "duration": 228,
         "title": "Asi Gabru Punjabi",
@@ -483,7 +483,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Aur Ho": {
         "path": "lossy/Aur Ho Rockstar.mp3",
         "duration": 335,
         "title": "Aur Ho",
@@ -501,7 +501,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Awara Hoon": {
         "path": "lossy/Awara Hoon Mukesh.mp3",
         "duration": 185,
         "title": "Awara Hoon",
@@ -518,7 +518,7 @@
         ],
         "date": "1951"
     },
-    {
+    "Aye Bachchu": {
         "path": "lossy/Aye Bachchu (Ghajini).mp3",
         "duration": 226,
         "title": "Aye Bachchu",
@@ -537,7 +537,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Baarishein": {
         "path": "lossy/Baarishein Anuv Jain.mp3",
         "duration": 207,
         "title": "Baarishein",
@@ -554,7 +554,7 @@
         ],
         "date": "2018-01-12"
     },
-    {
+    "Babam Bam Paradox": {
         "path": "lossy/Babam Bam Paradox.mp3",
         "duration": 138,
         "title": "Babam Bam Paradox",
@@ -572,7 +572,7 @@
         ],
         "date": "2024-01-12"
     },
-    {
+    "Bacche Ye": {
         "path": "lossy/Bacche Ye Official Bhagat.mp3",
         "duration": 247,
         "title": "Bacche Ye",
@@ -587,7 +587,7 @@
         "composer": [],
         "date": "2023"
     },
-    {
+    "Back In Black": {
         "path": "lossy/Back In Black ACDC.mp3",
         "duration": 255,
         "title": "Back In Black",
@@ -607,7 +607,7 @@
         ],
         "date": "1980"
     },
-    {
+    "Bade Achhe Lagte Hain": {
         "path": "lossy/Bade Achhe Lagte Hain Amit Kumar.mp3",
         "duration": 302,
         "title": "Bade Achhe Lagte Hain",
@@ -626,7 +626,7 @@
         ],
         "date": "1976"
     },
-    {
+    "Badshah In Jail": {
         "path": "lossy/Badshah In Jail Various Artists.mp3",
         "duration": 447,
         "title": "Badshah In Jail",
@@ -643,7 +643,7 @@
         "composer": [],
         "date": "2013-02-15"
     },
-    {
+    "Bandheh": {
         "path": "lossy/Bandeh Indian Ocean.m4a",
         "duration": 469,
         "title": "Bandheh",
@@ -665,7 +665,7 @@
         ],
         "date": "2004"
     },
-    {
+    "Banjaara": {
         "path": "lossy/Banjaara Mohammed Irfan.mp3",
         "duration": 337,
         "title": "Banjaara",
@@ -684,7 +684,7 @@
         ],
         "date": "2014-05-28"
     },
-    {
+    "Battle Symphony": {
         "path": "lossy/Battle Symphony Linkin Park.mp3",
         "duration": 216,
         "title": "Battle Symphony",
@@ -700,7 +700,7 @@
         "composer": [],
         "date": "2017-05-19"
     },
-    {
+    "Warsaw Theme": {
         "path": "lossy/Battlefield 4 Warsaw Theme.mp3",
         "duration": 156,
         "title": "Warsaw Theme",
@@ -714,7 +714,7 @@
         "composer": [],
         "date": "2013"
     },
-    {
+    "BBC Intro": {
         "path": "lossy/BBC Intro David Lowe.mp3",
         "duration": 30,
         "title": "BBC Intro",
@@ -728,7 +728,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Behka": {
         "path": "lossy/Behka (Ghajini).mp3",
         "duration": 311,
         "title": "Behka",
@@ -747,7 +747,7 @@
         ],
         "date": "2014"
     },
-    {
+    "Besabriyaan": {
         "path": "lossy/Besabriyaan Armaan Malik.mp3",
         "duration": 256,
         "title": "Besabriyaan",
@@ -767,7 +767,7 @@
         ],
         "date": "2016"
     },
-    {
+    "Bhaag D.K. Bose, Aandhi Aayi": {
         "path": "lossy/Bhaag D.K. Bose Aandhi Aayi Ram Sampath.mp3",
         "duration": 241,
         "title": "Bhaag D.K. Bose, Aandhi Aayi",
@@ -785,7 +785,7 @@
         ],
         "date": "2020-07-24"
     },
-    {
+    "Bhaag Milkha Bhaag (Rock Version)": {
         "path": "lossy/Bhaag Milkha Bhaag (Rock Version) Shankar Ehsaan Loy Siddharth.m4a",
         "duration": 280,
         "title": "Bhaag Milkha Bhaag (Rock Version)",
@@ -802,7 +802,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Bharam Bhaap Ke": {
         "path": "lossy/Bharam Bhaap Ke Indian Ocean.m4a",
         "duration": 517,
         "title": "Bharam Bhaap Ke",
@@ -823,7 +823,7 @@
         ],
         "date": "2004"
     },
-    {
+    "Bharat Ka Rahnewala Hoon": {
         "path": "lossy/Bharat Ka Rahnewala Hoon Mahendra Kapoor.mp3",
         "duration": 330,
         "title": "Bharat Ka Rahnewala Hoon",
@@ -840,7 +840,7 @@
         ],
         "date": "1970"
     },
-    {
+    "Bhula Dena": {
         "path": "lossy/Bhula Dena.mp3",
         "duration": 241,
         "title": "Bhula Dena",
@@ -856,7 +856,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Big Dawgs": {
         "path": "lossy/Big Dawgs Hanumankind.mp3",
         "duration": 191,
         "title": "Big Dawgs",
@@ -876,7 +876,7 @@
         ],
         "date": "0000"
     },
-    {
+    "Bindiya Chamke Gi": {
         "path": "lossy/Bindiya Chamke Gi Lata Mangeshkar.mp3",
         "duration": 347,
         "title": "Bindiya Chamke Gi",
@@ -896,7 +896,7 @@
         ],
         "date": "1969"
     },
-    {
+    "Bitter Sweet Symphony (Remastered 2016)": {
         "path": "lossy/Bitter Sweet Symphony (Remastered 2016) The Verve.m4a",
         "duration": 357,
         "title": "Bitter Sweet Symphony (Remastered 2016)",
@@ -912,7 +912,7 @@
         ],
         "date": "2017"
     },
-    {
+    "Black": {
         "path": "lossy/Black Pearl Jam.mp3",
         "duration": 343,
         "title": "Black",
@@ -930,7 +930,7 @@
         ],
         "date": "1992-01-14"
     },
-    {
+    "Black Sheep": {
         "path": "lossy/Black Sheep Metric.mp3",
         "duration": 297,
         "title": "Black Sheep",
@@ -947,7 +947,7 @@
         "composer": [],
         "date": "0000"
     },
-    {
+    "Blinding Lights": {
         "path": "lossy/Blinding Lights The Weeknd.m4a",
         "duration": 200,
         "title": "Blinding Lights",
@@ -962,7 +962,7 @@
         "composer": [],
         "date": "2020"
     },
-    {
+    "Blowin' in the Wind": {
         "path": "lossy/Blowin' in the Wind Bob Dylan.mp3",
         "duration": 165,
         "title": "Blowin' in the Wind",
@@ -979,7 +979,7 @@
         ],
         "date": "1963-05-24"
     },
-    {
+    "Boulevard of Broken Dreams": {
         "path": "lossy/Boulevard of Broken Dreams Green Day.m4a",
         "duration": 262,
         "title": "Boulevard of Broken Dreams",
@@ -994,7 +994,7 @@
         "composer": [],
         "date": "2017"
     },
-    {
+    "Bring Me To Life": {
         "path": "lossy/Bring Me To Life Evanescence.mp3",
         "duration": 236,
         "title": "Bring Me To Life",
@@ -1013,7 +1013,7 @@
         ],
         "date": "2003-01-01"
     },
-    {
+    "Bulleya": {
         "path": "lossy/Bulleya (From _Ae Dil Hai Mushkil_).mp3",
         "duration": 349,
         "title": "Bulleya",
@@ -1035,7 +1035,7 @@
         ],
         "date": "2016-10-26"
     },
-    {
+    "Burden In My Hand": {
         "path": "lossy/Burden In My Hand Soundgarden.mp3",
         "duration": 290,
         "title": "Burden In My Hand",
@@ -1052,7 +1052,7 @@
         ],
         "date": "1993-05-03"
     },
-    {
+    "Carnival of Rust": {
         "path": "lossy/Carnival of Rust Poets of the Fall.mp3",
         "duration": 263,
         "title": "Carnival of Rust",
@@ -1067,7 +1067,7 @@
         "composer": [],
         "date": "2014-08-26"
     },
-    {
+    "Chaahat": {
         "path": "lossy/Chaahat Jeet Gannguli.mp3",
         "duration": 263,
         "title": "Chaahat",
@@ -1082,7 +1082,7 @@
         "composer": [],
         "date": "2012-02-14"
     },
-    {
+    "Chaar Kadam (From \"Pk\")": {
         "path": "lossy/Chaar Kadam (From  Pk).mp3",
         "duration": 243,
         "title": "Chaar Kadam (From \"Pk\")",
@@ -1102,7 +1102,7 @@
         ],
         "date": "2024"
     },
-    {
+    "Chahun Main Ya Naa": {
         "path": "lossy/Chahun Main Ya Naa.mp3",
         "duration": 305,
         "title": "Chahun Main Ya Naa",
@@ -1119,7 +1119,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Chalo Ek Baar Phir Se": {
         "path": "lossy/Chalo Ek Baar Phir Se Gumrah.mp3",
         "duration": 279,
         "title": "Chalo Ek Baar Phir Se",
@@ -1136,7 +1136,7 @@
         ],
         "date": "1963"
     },
-    {
+    "Chammak Challo": {
         "path": "lossy/Chammak Challo Akon.mp3",
         "duration": 227,
         "title": "Chammak Challo",
@@ -1158,7 +1158,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Chand Sifarish": {
         "path": "lossy/Chand Sifarish Fanaa.mp3",
         "duration": 276,
         "title": "Chand Sifarish",
@@ -1177,7 +1177,7 @@
         ],
         "date": "2006"
     },
-    {
+    "Chasing Cars": {
         "path": "lossy/Chasing Cars Snow Patrol.mp3",
         "duration": 268,
         "title": "Chasing Cars",
@@ -1192,7 +1192,7 @@
         "composer": [],
         "date": "2006"
     },
-    {
+    "Chaska": {
         "path": "lossy/Chaska (Badmaash Company).mp3",
         "duration": 315,
         "title": "Chaska",
@@ -1215,7 +1215,7 @@
         ],
         "date": "0000"
     },
-    {
+    "Cheri Cheri Lady": {
         "path": "lossy/Cheri Cheri Lady Modern Talking.mp3",
         "duration": 225,
         "title": "Cheri Cheri Lady",
@@ -1229,7 +1229,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Chingari Koi Bhadke": {
         "path": "lossy/Chingari Koi Bhadke Kishore Kumar.mp3",
         "duration": 335,
         "title": "Chingari Koi Bhadke",
@@ -1247,7 +1247,7 @@
         ],
         "date": "1971-12-31"
     },
-    {
+    "Chola Maati Ke Ram": {
         "path": "lossy/Chola Maati Ke Ram Nageen Tanvir.m4a",
         "duration": 196,
         "title": "Chola Maati Ke Ram",
@@ -1263,7 +1263,7 @@
         "composer": [],
         "date": "2010"
     },
-    {
+    "Choo Lo": {
         "path": "lossy/Choo Lo The Local Train.mp3",
         "duration": 234,
         "title": "Choo Lo",
@@ -1281,7 +1281,7 @@
         ],
         "date": "2015"
     },
-    {
+    "Chunnari Chunnari": {
         "path": "lossy/Chunnari Chunnari Abhijeet Bhattacharya.mp3",
         "duration": 335,
         "title": "Chunnari Chunnari",
@@ -1302,7 +1302,7 @@
         ],
         "date": "1999-05-28"
     },
-    {
+    "Chup Gaye Sare Nazare": {
         "path": "lossy/Chup Gaye Sare Nazare Lata Mangeshkar.mp3",
         "duration": 329,
         "title": "Chup Gaye Sare Nazare",
@@ -1322,7 +1322,7 @@
         ],
         "date": "1969-12-30"
     },
-    {
+    "Chupke Chupke Raat Din": {
         "path": "lossy/Chupke Chupke Raat Din Ghulam Ali.mp3",
         "duration": 469,
         "title": "Chupke Chupke Raat Din",
@@ -1338,7 +1338,7 @@
         "composer": [],
         "date": "1982-12-01"
     },
-    {
+    "Chura Liya Hai Tumne Jo Dil Ko": {
         "path": "lossy/Chura Liya Hai Tumne Jo Dil Ko Asha Bhosle.mp3",
         "duration": 288,
         "title": "Chura Liya Hai Tumne Jo Dil Ko",
@@ -1359,7 +1359,7 @@
         ],
         "date": "1973"
     },
-    {
+    "Co2": {
         "path": "lossy/Co2.mp3",
         "duration": 164,
         "title": "Co2",
@@ -1376,7 +1376,7 @@
         ],
         "date": "0000"
     },
-    {
+    "Cold/Mess": {
         "path": "lossy/Cold Mess Prateek Kuhad.mp3",
         "duration": 281,
         "title": "Cold/Mess",
@@ -1391,7 +1391,7 @@
         "composer": [],
         "date": "2020"
     },
-    {
+    "Complicated": {
         "path": "lossy/Complicated Avril Lavigne.mp3",
         "duration": 245,
         "title": "Complicated",
@@ -1411,7 +1411,7 @@
         ],
         "date": "2002-06-04"
     },
-    {
+    "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi": {
         "path": "lossy/Comptine d'un autre \u00e9t\u00e9 l'apr\u00e8s midi Yann Tiersen.mp3",
         "duration": 141,
         "title": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
@@ -1429,7 +1429,7 @@
         ],
         "date": "2001"
     },
-    {
+    "Coney Island": {
         "path": "lossy/Coney Island Taylor Swift.mp3",
         "duration": 275,
         "title": "Coney Island",
@@ -1445,7 +1445,7 @@
         "composer": [],
         "date": "2021"
     },
-    {
+    "Crazy": {
         "path": "lossy/Crazy Gnarls Barkley.mp3",
         "duration": 178,
         "title": "Crazy",
@@ -1459,7 +1459,7 @@
         "composer": [],
         "date": "2006"
     },
-    {
+    "Creep": {
         "path": "lossy/Creep Radiohead.mp3",
         "duration": 239,
         "title": "Creep",
@@ -1482,7 +1482,7 @@
         ],
         "date": "1993-02-22"
     },
-    {
+    "CS50 2021 (Original Soundtrack)": {
         "path": "lossy/CS50 2021 (Original Soundtrack).mp3",
         "duration": 79,
         "title": "CS50 2021 (Original Soundtrack)",
@@ -1496,7 +1496,7 @@
         "composer": [],
         "date": "2021"
     },
-    {
+    "Instant Crush": {
         "path": "lossy/Daft Punk Instant Crush (feat. Julian Casablancas).mp3",
         "duration": 338,
         "title": "Instant Crush",
@@ -1516,7 +1516,7 @@
         ],
         "date": "2013-05-20"
     },
-    {
+    "Dard-E-Dil Dard-E-Jigar": {
         "path": "lossy/Dard E Dil Dard E Jigar Mohammed Rafi.mp3",
         "duration": 417,
         "title": "Dard-E-Dil Dard-E-Jigar",
@@ -1535,7 +1535,7 @@
         ],
         "date": "1980"
     },
-    {
+    "Death Note OST I - 03 - Light's Theme (\u30e9\u30a4\u30c8\u306e\u30c6\u30fc\u30de, Raito no T\u0113ma)": {
         "path": "lossy/Death Note OST I 03 Light's Theme (\u30e9\u30a4\u30c8\u306e\u30c6\u30fc\u30de Raito no T\u0113ma).mp3",
         "duration": 195,
         "title": "Death Note OST I - 03 - Light's Theme (\u30e9\u30a4\u30c8\u306e\u30c6\u30fc\u30de, Raito no T\u0113ma)",
@@ -1550,7 +1550,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Dheemi Dheemi": {
         "path": "lossy/Dheemi Dheemi Hariharan.mp3",
         "duration": 315,
         "title": "Dheemi Dheemi",
@@ -1570,7 +1570,7 @@
         ],
         "date": "1999"
     },
-    {
+    "Dheere Dheere Se Meri Zindagi Mein Aana": {
         "path": "lossy/Dheere Dheere Se Meri Zindagi Mein Aana Anuradha Paudwal.mp3",
         "duration": 328,
         "title": "Dheere Dheere Se Meri Zindagi Mein Aana",
@@ -1592,7 +1592,7 @@
         ],
         "date": "1989"
     },
-    {
+    "Dil Dooba": {
         "path": "lossy/Dil Dooba Sonu Nigam.mp3",
         "duration": 231,
         "title": "Dil Dooba",
@@ -1612,7 +1612,7 @@
         ],
         "date": "2003"
     },
-    {
+    "Diwano Se Mat Poochho": {
         "path": "lossy/Diwano Se Mat Poochho Mukesh.mp3",
         "duration": 218,
         "title": "Diwano Se Mat Poochho",
@@ -1631,7 +1631,7 @@
         ],
         "date": "1968-12-01"
     },
-    {
+    "Do I Wanna Know?": {
         "path": "lossy/Do I Wanna Know Arctic Monkeys.mp3",
         "duration": 272,
         "title": "Do I Wanna Know?",
@@ -1648,7 +1648,7 @@
         ],
         "date": "2013-09-09"
     },
-    {
+    "Dream On": {
         "path": "lossy/Dream On Aerosmith.mp3",
         "duration": 268,
         "title": "Dream On",
@@ -1663,7 +1663,7 @@
         "composer": [],
         "date": "1973-01-05"
     },
-    {
+    "Dulhe Ka Sehra": {
         "path": "lossy/Dulhe Ka Sehra Ustad Nusrat Fateh Ali Khan.mp3",
         "duration": 512,
         "title": "Dulhe Ka Sehra",
@@ -1682,7 +1682,7 @@
         ],
         "date": "2000-07-02"
     },
-    {
+    "Echoes": {
         "path": "lossy/Echoes Pink Floyd.m4a",
         "duration": 1412,
         "title": "Echoes",
@@ -1698,7 +1698,7 @@
         ],
         "date": "1971"
     },
-    {
+    "Ek Hasina Thi Ek Diwana Tha": {
         "path": "lossy/Ek Hasina Thi Ek Diwana Tha Kishore Kumar.mp3",
         "duration": 473,
         "title": "Ek Hasina Thi Ek Diwana Tha",
@@ -1720,7 +1720,7 @@
         ],
         "date": "1980"
     },
-    {
+    "Ek Ladki Ko Dekha": {
         "path": "lossy/Ek Ladki Ko Dekha Kumar Sanu.mp3",
         "duration": 275,
         "title": "Ek Ladki Ko Dekha",
@@ -1740,7 +1740,7 @@
         ],
         "date": "1994"
     },
-    {
+    "Ek Sanam Chahiye Aashiqui Ke Liye": {
         "path": "lossy/Ek Sanam Chahiye Aashiqui Ke Liye Kumar Sanu.mp3",
         "duration": 371,
         "title": "Ek Sanam Chahiye Aashiqui Ke Liye",
@@ -1759,7 +1759,7 @@
         ],
         "date": "1989"
     },
-    {
+    "Etude": {
         "path": "lossy/Etude Nero.mp3",
         "duration": 257,
         "title": "Etude",
@@ -1776,7 +1776,7 @@
         ],
         "date": "2011-10-22"
     },
-    {
+    "Excuses": {
         "path": "lossy/Excuses AP Dhillon.mp3",
         "duration": 176,
         "title": "Excuses",
@@ -1797,7 +1797,7 @@
         ],
         "date": "2021"
     },
-    {
+    "Eyes of Glory": {
         "path": "lossy/Eyes of Glory Angel Lover.m4a",
         "duration": 152,
         "title": "Eyes of Glory",
@@ -1811,7 +1811,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Far Out Official": {
         "path": "lossy/Far Out Apex Far Out Official.m4a",
         "duration": 207,
         "title": "Far Out Official",
@@ -1825,7 +1825,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Flight": {
         "path": "lossy/Flight Hans Zimmer.mp3",
         "duration": 249,
         "title": "Flight",
@@ -1843,7 +1843,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Gabru": {
         "path": "lossy/Gabru International Villager.mp3",
         "duration": 207,
         "title": "Gabru",
@@ -1860,7 +1860,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Galliyan": {
         "path": "lossy/Galliyan Ankit Tiwari.mp3",
         "duration": 340,
         "title": "Galliyan",
@@ -1878,7 +1878,7 @@
         ],
         "date": "2014-05-28"
     },
-    {
+    "Good Goodbye (feat. Pusha T and Stormzy)": {
         "path": "lossy/Good Goodbye (feat. Pusha T and Stormzy) Linkin Park.mp3",
         "duration": 211,
         "title": "Good Goodbye (feat. Pusha T and Stormzy)",
@@ -1896,7 +1896,7 @@
         "composer": [],
         "date": "2017-05-19"
     },
-    {
+    "Ripple": {
         "path": "lossy/Grateful Dead Ripple.mp3",
         "duration": 263,
         "title": "Ripple",
@@ -1910,7 +1910,7 @@
         "composer": [],
         "date": "1970"
     },
-    {
+    "Gulabi Ankhen": {
         "path": "lossy/Gulabi Ankhen (From The Train) Mohammed Rafi.mp3",
         "duration": 197,
         "title": "Gulabi Ankhen",
@@ -1929,7 +1929,7 @@
         ],
         "date": "1970-05-19"
     },
-    {
+    "Guzarish": {
         "path": "lossy/Guzarish Ghajini.mp3",
         "duration": 329,
         "title": "Guzarish",
@@ -1947,7 +1947,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Hai Mera Dil": {
         "path": "lossy/Hai Mera Dil Alfaaz Yo Yo Honey Singh.m4a",
         "duration": 210,
         "title": "Hai Mera Dil",
@@ -1965,7 +1965,7 @@
         ],
         "date": "2000"
     },
-    {
+    "Hai Ye Maya": {
         "path": "lossy/Hai Ye Maya Usha Uthup.mp3",
         "duration": 282,
         "title": "Hai Ye Maya",
@@ -1986,7 +1986,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Halfway Right": {
         "path": "lossy/Halfway Right Linkin Park.mp3",
         "duration": 217,
         "title": "Halfway Right",
@@ -2002,7 +2002,7 @@
         "composer": [],
         "date": "2017-05-19"
     },
-    {
+    "Hall of Fame (feat. will.i.am)": {
         "path": "lossy/Hall of Fame (feat. will.i.am) The Script.mp3",
         "duration": 203,
         "title": "Hall of Fame (feat. will.i.am)",
@@ -2020,7 +2020,7 @@
         ],
         "date": "2012"
     },
-    {
+    "Handlebars": {
         "path": "lossy/Handlebars Flobots.mp3",
         "duration": 207,
         "title": "Handlebars",
@@ -2043,7 +2043,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Harder To Breathe": {
         "path": "lossy/Harder To Breathe Maroon 5.mp3",
         "duration": 174,
         "title": "Harder To Breathe",
@@ -2060,7 +2060,7 @@
         ],
         "date": "2007"
     },
-    {
+    "Heartbeat": {
         "path": "lossy/Heartbeat Carrie Underwood.mp3",
         "duration": 210,
         "title": "Heartbeat",
@@ -2080,7 +2080,7 @@
         ],
         "date": "2015"
     },
-    {
+    "Heavy (feat. Kiiara)": {
         "path": "lossy/Heavy (feat. Kiiara) Linkin Park.mp3",
         "duration": 170,
         "title": "Heavy (feat. Kiiara)",
@@ -2097,7 +2097,7 @@
         "composer": [],
         "date": "2017-05-19"
     },
-    {
+    "Hello Andheron": {
         "path": "lossy/Hello Andheron Agnee.mp3",
         "duration": 293,
         "title": "Hello Andheron",
@@ -2111,7 +2111,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Here Comes The Sun": {
         "path": "lossy/Here Comes The Sun (Remastered 2009) The Beatles.mp3",
         "duration": 186,
         "title": "Here Comes The Sun",
@@ -2128,7 +2128,7 @@
         ],
         "date": "1969-09-26"
     },
-    {
+    "David Bowie - Heroes (Album Version) (Remastered Audio)": {
         "path": "lossy/Heroes (Album Version) (Remastered Audio) David Bowie.mp3",
         "duration": 369,
         "title": "David Bowie - Heroes (Album Version) (Remastered Audio)",
@@ -2142,7 +2142,7 @@
         "composer": [],
         "date": "2020"
     },
-    {
+    "Hey There Delilah": {
         "path": "lossy/Hey There Delilah.mp3",
         "duration": 233,
         "title": "Hey There Delilah",
@@ -2156,7 +2156,7 @@
         "composer": [],
         "date": "2005"
     },
-    {
+    "Hey You": {
         "path": "lossy/Hey You Pink Floyd.m4a",
         "duration": 278,
         "title": "Hey You",
@@ -2173,7 +2173,7 @@
         ],
         "date": "1979"
     },
-    {
+    "High Hopes": {
         "path": "lossy/High Hopes Pink Floyd.m4a",
         "duration": 511,
         "title": "High Hopes",
@@ -2190,7 +2190,7 @@
         ],
         "date": "1994"
     },
-    {
+    "Hona Hai Kya": {
         "path": "lossy/Hona Hai Kya Ram Sampath.mp3",
         "duration": 283,
         "title": "Hona Hai Kya",
@@ -2209,7 +2209,7 @@
         ],
         "date": "2012"
     },
-    {
+    "Hoshwalon Ko Khabar Kya": {
         "path": "lossy/Hoshwalon Ko Khabar Kya Sarfarosh.mp3",
         "duration": 307,
         "title": "Hoshwalon Ko Khabar Kya",
@@ -2226,7 +2226,7 @@
         ],
         "date": "1999"
     },
-    {
+    "Hothon Se Chhu Lo Tum (From Prem Geet)": {
         "path": "lossy/Hothon Se Chhu Lo Tum (From Prem Geet) Jagjit Singh.mp3",
         "duration": 294,
         "title": "Hothon Se Chhu Lo Tum (From Prem Geet)",
@@ -2246,7 +2246,7 @@
         ],
         "date": "2003-01-01"
     },
-    {
+    "Hulara": {
         "path": "lossy/Hulara J Star.m4a",
         "duration": 214,
         "title": "Hulara",
@@ -2264,7 +2264,7 @@
         ],
         "date": "2014"
     },
-    {
+    "Hum Aap Ki Ankhon Mein": {
         "path": "lossy/Hum Aap Ki Ankhon Mein Geeta Dutt.mp3",
         "duration": 233,
         "title": "Hum Aap Ki Ankhon Mein",
@@ -2284,7 +2284,7 @@
         ],
         "date": "1957"
     },
-    {
+    "Hum Mar Jayenge": {
         "path": "lossy/Hum Mar Jayenge.mp3",
         "duration": 307,
         "title": "Hum Mar Jayenge",
@@ -2301,7 +2301,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Hum to Dil Se Haare": {
         "path": "lossy/Hum to Dil Se Haare Udit Narayan.mp3",
         "duration": 308,
         "title": "Hum to Dil Se Haare",
@@ -2321,7 +2321,7 @@
         ],
         "date": "2000"
     },
-    {
+    "Humnava": {
         "path": "lossy/Humnava Gajendra Verma.mp3",
         "duration": 329,
         "title": "Humnava",
@@ -2340,7 +2340,7 @@
         ],
         "date": "2015"
     },
-    {
+    "Hymn For The Weekend": {
         "path": "lossy/Hymn For The Weekend Coldplay.mp3",
         "duration": 259,
         "title": "Hymn For The Weekend",
@@ -2356,7 +2356,7 @@
         "composer": [],
         "date": "2015"
     },
-    {
+    "I AM": {
         "path": "lossy/I AM Club Yoko.mp3",
         "duration": 153,
         "title": "I AM",
@@ -2370,7 +2370,7 @@
         "composer": [],
         "date": "2023"
     },
-    {
+    "I Want To Break Free": {
         "path": "lossy/I Want To Break Free Queen.mp3",
         "duration": 196,
         "title": "I Want To Break Free",
@@ -2385,7 +2385,7 @@
         "composer": [],
         "date": "2018"
     },
-    {
+    "I've Got You Under My Skin (Remastered 1998)": {
         "path": "lossy/I've Got You Under My Skin (Remastered 1998) Frank Sinatra.m4a",
         "duration": 222,
         "title": "I've Got You Under My Skin (Remastered 1998)",
@@ -2400,7 +2400,7 @@
         "composer": [],
         "date": "1956"
     },
-    {
+    "Idea 10": {
         "path": "lossy/Idea 10 Gibran Alcocer.mp3",
         "duration": 128,
         "title": "Idea 10",
@@ -2417,7 +2417,7 @@
         ],
         "date": "2022"
     },
-    {
+    "Ikko Mikke Satinder Sartaaj": {
         "path": "lossy/Ikko Mikke Satinder Sartaaj.mp3",
         "duration": 398,
         "title": "Ikko Mikke Satinder Sartaaj",
@@ -2433,7 +2433,7 @@
         ],
         "date": "2020"
     },
-    {
+    "Immigrant Song": {
         "path": "lossy/Immigrant Song Led Zeppelin.mp3",
         "duration": 147,
         "title": "Immigrant Song",
@@ -2448,7 +2448,7 @@
         "composer": [],
         "date": "1970"
     },
-    {
+    "In the End": {
         "path": "lossy/In the End Linkin Park.m4a",
         "duration": 217,
         "title": "In the End",
@@ -2465,7 +2465,7 @@
         ],
         "date": "2000"
     },
-    {
+    "Inception": {
         "path": "lossy/Inception Aakash Gandhi.mp3",
         "duration": 162,
         "title": "Inception",
@@ -2479,7 +2479,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Invisible": {
         "path": "lossy/Invisible Linkin Park.mp3",
         "duration": 214,
         "title": "Invisible",
@@ -2495,7 +2495,7 @@
         "composer": [],
         "date": "2017-05-19"
     },
-    {
+    "Iron Man (2012 - Remaster) (2012 - Remaster)": {
         "path": "lossy/Iron Man (2012 Remaster) (2012 Remaster) Black Sabbath.m4a",
         "duration": 354,
         "title": "Iron Man (2012 - Remaster) (2012 - Remaster)",
@@ -2510,7 +2510,7 @@
         "composer": [],
         "date": "1970"
     },
-    {
+    "Is Mod Se Jate Hain": {
         "path": "lossy/Is Mod Se Jate Hain Kishore Kumar.mp3",
         "duration": 294,
         "title": "Is Mod Se Jate Hain",
@@ -2531,7 +2531,7 @@
         ],
         "date": "1975"
     },
-    {
+    "Ishwar Allah": {
         "path": "lossy/Ishwar Allah Sujata Mohan.mp3",
         "duration": 315,
         "title": "Ishwar Allah",
@@ -2552,7 +2552,7 @@
         ],
         "date": "1999"
     },
-    {
+    "Isq Risk": {
         "path": "lossy/Isq Risk Rahat Fateh Ali Khan.mp3",
         "duration": 295,
         "title": "Isq Risk",
@@ -2571,7 +2571,7 @@
         ],
         "date": "2011"
     },
-    {
+    "It Must Have Been Love": {
         "path": "lossy/It Must Have Been Love Roxette.mp3",
         "duration": 259,
         "title": "It Must Have Been Love",
@@ -2588,7 +2588,7 @@
         "composer": [],
         "date": "2002"
     },
-    {
+    "It's My Life": {
         "path": "lossy/It's My Life Bon Jovi.mp3",
         "duration": 225,
         "title": "It's My Life",
@@ -2603,27 +2603,7 @@
         "composer": [],
         "date": "2000"
     },
-    {
-        "path": "lossy/Itna Na Mujhse Tu Pyar Badha (Duet) Talat Mahmood.mp3",
-        "duration": 235,
-        "title": "Itna Na Mujhse Tu Pyar Badha",
-        "artists": [
-            "Talat Mahmood",
-            "Lata Mangeshkar",
-            "Rajendra Krishan"
-        ],
-        "genre": [
-            "Hindi",
-            "Bollywood",
-            "Movie"
-        ],
-        "album": "Chhaya (Original Motion Picture Soundtrack)",
-        "composer": [
-            "Salil Choudhary"
-        ],
-        "date": "1961"
-    },
-    {
+    "Itna Na Mujhse Tu Pyar Badha": {
         "path": "lossy/Itna Na Mujhse Tu Pyar Badha Talat Mahmood.mp3",
         "duration": 216,
         "title": "Itna Na Mujhse Tu Pyar Badha",
@@ -2642,7 +2622,7 @@
         ],
         "date": "1961"
     },
-    {
+    "Jaadu Teri Nazar": {
         "path": "lossy/Jaadu Teri Nazar Udit Narayan.mp3",
         "duration": 280,
         "title": "Jaadu Teri Nazar",
@@ -2662,7 +2642,7 @@
         ],
         "date": "1990"
     },
-    {
+    "Jaane Jaan Dhoondata": {
         "path": "lossy/Jaane Jaan Dhoondata Jawani Diwani Soundtrack Version Kishore Kumar.mp3",
         "duration": 355,
         "title": "Jaane Jaan Dhoondata",
@@ -2684,7 +2664,7 @@
         ],
         "date": "1972"
     },
-    {
+    "Jab Tak": {
         "path": "lossy/Jab Tak Armaan Malik.mp3",
         "duration": 174,
         "title": "Jab Tak",
@@ -2704,7 +2684,7 @@
         ],
         "date": "2016"
     },
-    {
+    "Jaise Suraj Ki Garmi Se": {
         "path": "lossy/Jaise Suraj Ki Garmi Se Sharma Brothers.mp3",
         "duration": 384,
         "title": "Jaise Suraj Ki Garmi Se",
@@ -2724,7 +2704,7 @@
         ],
         "date": "1974"
     },
-    {
+    "Jammu Weed Rap": {
         "path": "lossy/Jammu Weed Rap Official Bhagat.mp3",
         "duration": 177,
         "title": "Jammu Weed Rap",
@@ -2741,7 +2721,7 @@
         ],
         "date": "2021"
     },
-    {
+    "Janam Janam": {
         "path": "lossy/Janam Janam Pritam.mp3",
         "duration": 238,
         "title": "Janam Janam",
@@ -2762,7 +2742,7 @@
         ],
         "date": "2015"
     },
-    {
+    "Jane Woh Kaise Log The": {
         "path": "lossy/Jane Woh Kaise Log The Hemant Kumar.mp3",
         "duration": 259,
         "title": "Jane Woh Kaise Log The",
@@ -2781,7 +2761,7 @@
         ],
         "date": "1957"
     },
-    {
+    "Jee Le Zaraa": {
         "path": "lossy/Jee Le Zaraa Vishal Dadlani.mp3",
         "duration": 215,
         "title": "Jee Le Zaraa",
@@ -2800,7 +2780,7 @@
         ],
         "date": "2012"
     },
-    {
+    "Jhilmil Sitaron Ka Angan Hoga (Duet)": {
         "path": "lossy/Jhilmil Sitaron Ka Angan Hoga Lata Mangeshkar.mp3",
         "duration": 329,
         "title": "Jhilmil Sitaron Ka Angan Hoga (Duet)",
@@ -2821,7 +2801,7 @@
         ],
         "date": "1970-12-01"
     },
-    {
+    "Jis Gali Mein Tera Ghar": {
         "path": "lossy/Jis Gali Mein Tera Ghar Mukesh.mp3",
         "duration": 242,
         "title": "Jis Gali Mein Tera Ghar",
@@ -2840,7 +2820,7 @@
         ],
         "date": "1970"
     },
-    {
+    "Jo Bhi Main": {
         "path": "lossy/Jo Bhi Main Rockstar.mp3",
         "duration": 276,
         "title": "Jo Bhi Main",
@@ -2858,7 +2838,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Jo Wada Kiya Woh Nibhana Padega, Pt. 2": {
         "path": "lossy/Jo Wada Kiya Woh Nibhana Padega Pt. 2 Mohammed Rafi.mp3",
         "duration": 196,
         "title": "Jo Wada Kiya Woh Nibhana Padega, Pt. 2",
@@ -2878,7 +2858,7 @@
         ],
         "date": "1963"
     },
-    {
+    "Summer Mvt 3 Presto": {
         "path": "lossy/John Harrison with the Wichita State University Chamber Players - Summer Mvt 3 Presto.mp3",
         "duration": 159,
         "title": "Summer Mvt 3 Presto",
@@ -2894,7 +2874,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Judai": {
         "path": "lossy/Judai Jannat.mp3",
         "duration": 302,
         "title": "Judai",
@@ -2912,7 +2892,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Kabhi Jo Baadal Barse": {
         "path": "lossy/Kabhi Jo Baadal Barse Jackpot.mp3",
         "duration": 254,
         "title": "Kabhi Jo Baadal Barse",
@@ -2929,7 +2909,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Kabhi Kabhi Aditi Zindagi": {
         "path": "lossy/Kabhi Kabhi Aditi.mp3",
         "duration": 218,
         "title": "Kabhi Kabhi Aditi Zindagi",
@@ -2945,7 +2925,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Kabhi Kabhi Mere Dil Mein": {
         "path": "lossy/Kabhi Kabhi Mere Dil Mein Mukesh.mp3",
         "duration": 285,
         "title": "Kabhi Kabhi Mere Dil Mein",
@@ -2961,7 +2941,7 @@
         "composer": [],
         "date": "1976"
     },
-    {
+    "Kabhi Khud Pe Kabhi Halat Pe Rona": {
         "path": "lossy/Kabhi Khud Pe Kabhi Halat Pe Rona Mohammed Rafi.mp3",
         "duration": 237,
         "title": "Kabhi Khud Pe Kabhi Halat Pe Rona",
@@ -2981,7 +2961,7 @@
         ],
         "date": "1961"
     },
-    {
+    "Kabhi Yun Bhi To Ho": {
         "path": "lossy/Kabhi Yun Bhi To Ho Jagjit Singh.mp3",
         "duration": 311,
         "title": "Kabhi Yun Bhi To Ho",
@@ -3002,7 +2982,7 @@
         ],
         "date": "1979-12-01"
     },
-    {
+    "Kaho Na Kaho": {
         "path": "lossy/Kaho Na Kaho (Murder).mp3",
         "duration": 312,
         "title": "Kaho Na Kaho",
@@ -3021,7 +3001,7 @@
         ],
         "date": "2024-04-13"
     },
-    {
+    "Kaise Mujhe (Instrumental)": {
         "path": "lossy/Kaise Mujhe (Instrumental) (Ghajini).mp3",
         "duration": 242,
         "title": "Kaise Mujhe (Instrumental)",
@@ -3039,7 +3019,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Kaise Mujhe": {
         "path": "lossy/Kaise Mujhe.mp3",
         "duration": 347,
         "title": "Kaise Mujhe",
@@ -3059,7 +3039,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Kali Kali Zulfon Ke Phande Nah Dalo": {
         "path": "lossy/Kali Kali Zulfon Ke Phande Nah Dalo Ustad Nusrat Fateh Ali Khan.mp3",
         "duration": 707,
         "title": "Kali Kali Zulfon Ke Phande Nah Dalo",
@@ -3075,7 +3055,7 @@
         ],
         "date": "2015-05-01"
     },
-    {
+    "Karz Theme (Instrumental)": {
         "path": "lossy/Karz Theme (Instrumental) Pyarelal Laxmikant.mp3",
         "duration": 194,
         "title": "Karz Theme (Instrumental)",
@@ -3093,7 +3073,7 @@
         ],
         "date": "0000-12-01"
     },
-    {
+    "Kasme Wade Pyar Wafa": {
         "path": "lossy/Kasme Wade Pyar Wafa Manna Dey.mp3",
         "duration": 209,
         "title": "Kasme Wade Pyar Wafa",
@@ -3113,7 +3093,7 @@
         ],
         "date": "1968"
     },
-    {
+    "Yeh Sham Mastani": {
         "path": "lossy/Kati Patang Kishore Kumar.mp3",
         "duration": 277,
         "title": "Yeh Sham Mastani",
@@ -3133,7 +3113,7 @@
         ],
         "date": "1970-12-01"
     },
-    {
+    "Na Koi Umang Hai": {
         "path": "lossy/Kati Patang Lata Mangeshkar.mp3",
         "duration": 261,
         "title": "Na Koi Umang Hai",
@@ -3153,7 +3133,7 @@
         ],
         "date": "1970-12-01"
     },
-    {
+    "Kaun Aayega Yahan": {
         "path": "lossy/Kaun Aayega Yahan Jagjit Singh.mp3",
         "duration": 407,
         "title": "Kaun Aayega Yahan",
@@ -3170,7 +3150,7 @@
         ],
         "date": "2002-04-30"
     },
-    {
+    "Kaun Tujhe": {
         "path": "lossy/Kaun Tujhe Palak Muchhal.mp3",
         "duration": 241,
         "title": "Kaun Tujhe",
@@ -3190,7 +3170,7 @@
         ],
         "date": "2016"
     },
-    {
+    "Kholo Kholo": {
         "path": "lossy/Kholo Kholo Raman Mahadevan.m4a",
         "duration": 312,
         "title": "Kholo Kholo",
@@ -3209,7 +3189,7 @@
         ],
         "date": "2007"
     },
-    {
+    "Khuda Jaane": {
         "path": "lossy/Khuda Jaane Bachna Ae Haseeno.mp3",
         "duration": 334,
         "title": "Khuda Jaane",
@@ -3226,7 +3206,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Ki Samjiye": {
         "path": "lossy/Ki Samjiye Amrinder Gill.m4a",
         "duration": 285,
         "title": "Ki Samjiye",
@@ -3242,7 +3222,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Koi Jab Tumhara Hriday Tod De": {
         "path": "lossy/Koi Jab Tumhara Hriday Tod De Mukesh.mp3",
         "duration": 213,
         "title": "Koi Jab Tumhara Hriday Tod De",
@@ -3261,7 +3241,7 @@
         ],
         "date": "1970"
     },
-    {
+    "Kun Faaya Kun": {
         "path": "lossy/Kun Faaya Kun Rockstar.mp3",
         "duration": 473,
         "title": "Kun Faaya Kun",
@@ -3279,7 +3259,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Kya Hua Tera Wada": {
         "path": "lossy/Kya Hua Tera Wada From Hum Kisi Se Kum Nahin Mohammed Rafi.mp3",
         "duration": 250,
         "title": "Kya Hua Tera Wada",
@@ -3299,7 +3279,7 @@
         ],
         "date": "1977-05-11"
     },
-    {
+    "L s theme A": {
         "path": "lossy/L s theme A Death Note.mp3",
         "duration": 184,
         "title": "L s theme A",
@@ -3316,7 +3296,7 @@
         ],
         "date": "2006-12-21"
     },
-    {
+    "La valse d'Am\u00e9lie": {
         "path": "lossy/La valse d'Am\u00e9lie Yann Tiersen.mp3",
         "duration": 136,
         "title": "La valse d'Am\u00e9lie",
@@ -3334,7 +3314,7 @@
         ],
         "date": "2001"
     },
-    {
+    "Labon Ko": {
         "path": "lossy/Labon Ko Pritam.mp3",
         "duration": 341,
         "title": "Labon Ko",
@@ -3354,7 +3334,7 @@
         ],
         "date": "2007"
     },
-    {
+    "Laden": {
         "path": "lossy/Laden Jassie Gill.m4a",
         "duration": 193,
         "title": "Laden",
@@ -3368,7 +3348,7 @@
         "composer": [],
         "date": "2014"
     },
-    {
+    "Last Resort": {
         "path": "lossy/Last Resort Papa Roach.mp3",
         "duration": 200,
         "title": "Last Resort",
@@ -3383,7 +3363,7 @@
         "composer": [],
         "date": "2000"
     },
-    {
+    "Lat Lag Gayee": {
         "path": "lossy/Lat Lag Gayi Race 2.mp3",
         "duration": 280,
         "title": "Lat Lag Gayee",
@@ -3402,7 +3382,7 @@
         ],
         "date": "0000"
     },
-    {
+    "Layla": {
         "path": "lossy/Layla Derek & The Dominos.mp3",
         "duration": 433,
         "title": "Layla",
@@ -3420,7 +3400,7 @@
         ],
         "date": "1994-01-01"
     },
-    {
+    "Everything At Once": {
         "path": "lossy/Lenka Everything At Once.mp3",
         "duration": 163,
         "title": "Everything At Once",
@@ -3435,7 +3415,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Light no Theme": {
         "path": "lossy/Light no Theme Hideki Taniuchi.mp3",
         "duration": 204,
         "title": "Light no Theme",
@@ -3452,7 +3432,7 @@
         ],
         "date": "2006"
     },
-    {
+    "Like a Stone": {
         "path": "lossy/Like a Stone Audioslave.mp3",
         "duration": 294,
         "title": "Like a Stone",
@@ -3473,7 +3453,7 @@
         ],
         "date": "2002"
     },
-    {
+    "Likhe Jo Khat Tujhe": {
         "path": "lossy/Likhe Jo Khat Tujhe Mohammed Rafi.mp3",
         "duration": 274,
         "title": "Likhe Jo Khat Tujhe",
@@ -3492,7 +3472,7 @@
         ],
         "date": "1968"
     },
-    {
+    "Live and Be Free": {
         "path": "lossy/Live and Be Free Tim McMorris.mp3",
         "duration": 227,
         "title": "Live and Be Free",
@@ -3506,7 +3486,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Lose Yourself": {
         "path": "lossy/Lose Yourself Eminem.m4a",
         "duration": 327,
         "title": "Lose Yourself",
@@ -3521,7 +3501,7 @@
         "composer": [],
         "date": "2005"
     },
-    {
+    "Lost on You": {
         "path": "lossy/Lost on You LP.mp3",
         "duration": 268,
         "title": "Lost on You",
@@ -3541,7 +3521,7 @@
         ],
         "date": "2016"
     },
-    {
+    "Love Me Again": {
         "path": "lossy/Love Me Again John Newman.mp3",
         "duration": 240,
         "title": "Love Me Again",
@@ -3559,7 +3539,7 @@
         ],
         "date": "2013-01-01"
     },
-    {
+    "Love The Way You Lie": {
         "path": "lossy/Love The Way You Lie Eminem.m4a",
         "duration": 263,
         "title": "Love The Way You Lie",
@@ -3575,7 +3555,7 @@
         "composer": [],
         "date": "2010"
     },
-    {
+    "Lust For Life": {
         "path": "lossy/Lust For Life Iggy Pop.mp3",
         "duration": 314,
         "title": "Lust For Life",
@@ -3593,7 +3573,7 @@
         ],
         "date": "2017"
     },
-    {
+    "Main Agar Kahoon": {
         "path": "lossy/Main Agar Kahoon Vishal Shekhar.mp3",
         "duration": 308,
         "title": "Main Agar Kahoon",
@@ -3614,7 +3594,7 @@
         ],
         "date": "2007"
     },
-    {
+    "Main Agar Saamne": {
         "path": "lossy/Main Agar Saamne Alka Yagnik.mp3",
         "duration": 346,
         "title": "Main Agar Saamne",
@@ -3634,7 +3614,7 @@
         ],
         "date": "2002"
     },
-    {
+    "Main Nashe Mein Hoon (From Live With Jagjit Singh)": {
         "path": "lossy/Main Nashe Mein Hoon Live Jagjit Singh.mp3",
         "duration": 558,
         "title": "Main Nashe Mein Hoon (From Live With Jagjit Singh)",
@@ -3652,7 +3632,7 @@
         ],
         "date": "3000"
     },
-    {
+    "Main Pal Do Pal Ka Shair Hoon": {
         "path": "lossy/Main Pal Do Pal Ka Shair Hoon Mukesh.mp3",
         "duration": 204,
         "title": "Main Pal Do Pal Ka Shair Hoon",
@@ -3668,7 +3648,7 @@
         "composer": [],
         "date": "1976"
     },
-    {
+    "Main Zindagi Ka Saath Nibhata Chala Gaya": {
         "path": "lossy/Main Zindagi Ka Saath Nibhata Chala Gaya Mohammed Rafi.mp3",
         "duration": 228,
         "title": "Main Zindagi Ka Saath Nibhata Chala Gaya",
@@ -3688,7 +3668,7 @@
         ],
         "date": "1961-01-28"
     },
-    {
+    "Mann Mera": {
         "path": "lossy/Mann Mera Gajendra Verma.mp3",
         "duration": 200,
         "title": "Mann Mera",
@@ -3705,7 +3685,7 @@
         "composer": [],
         "date": "2012"
     },
-    {
+    "Marooned": {
         "path": "lossy/Marooned Pink Floyd.mp3",
         "duration": 328,
         "title": "Marooned",
@@ -3723,7 +3703,7 @@
         ],
         "date": "1994"
     },
-    {
+    "Masakali": {
         "path": "lossy/Masakali Mohit Chauhan.mp3",
         "duration": 289,
         "title": "Masakali",
@@ -3741,7 +3721,7 @@
         ],
         "date": "2009"
     },
-    {
+    "Mast Magan": {
         "path": "lossy/Mast Magan (From  2 States ) Arijit Singh.mp3",
         "duration": 280,
         "title": "Mast Magan",
@@ -3763,7 +3743,7 @@
         ],
         "date": "2014"
     },
-    {
+    "Maula Mere Maula": {
         "path": "lossy/Maula Mere Maula Roop Kumar Rathod.mp3",
         "duration": 364,
         "title": "Maula Mere Maula",
@@ -3784,7 +3764,7 @@
         ],
         "date": "2006-12-01"
     },
-    {
+    "Mere Desh Ki Dharti": {
         "path": "lossy/Mere Desh Ki Dharti Mahendra Kapoor.mp3",
         "duration": 428,
         "title": "Mere Desh Ki Dharti",
@@ -3803,7 +3783,7 @@
         ],
         "date": "1968"
     },
-    {
+    "Mere Haath Mein": {
         "path": "lossy/Mere Haath Mein Sunidhi Chauhan.mp3",
         "duration": 286,
         "title": "Mere Haath Mein",
@@ -3823,7 +3803,7 @@
         ],
         "date": "2006"
     },
-    {
+    "Mere Mehboob Qayamat Hogi, Pt. 1 (From \"Mr. X in Bombay\")": {
         "path": "lossy/Mere Mehboob Qayamat Hogi Pt 1 Kishore Kumar.mp3",
         "duration": 229,
         "title": "Mere Mehboob Qayamat Hogi, Pt. 1 (From \"Mr. X in Bombay\")",
@@ -3842,7 +3822,7 @@
         ],
         "date": "1964"
     },
-    {
+    "Mere Naseeb Mein": {
         "path": "lossy/Mere Naseeb Mein (From  Naseeb ) Lata Mangeshkar.mp3",
         "duration": 377,
         "title": "Mere Naseeb Mein",
@@ -3861,7 +3841,7 @@
         ],
         "date": "1981"
     },
-    {
+    "Mere Naseeb Mein Ae Dost": {
         "path": "lossy/Mere Naseeb Mein Ae Dost Kishore Kumar.mp3",
         "duration": 279,
         "title": "Mere Naseeb Mein Ae Dost",
@@ -3881,7 +3861,7 @@
         ],
         "date": "1969"
     },
-    {
+    "Mere Nishan": {
         "path": "lossy/Mere Nishan Mohammed.mp3",
         "duration": 251,
         "title": "Mere Nishan",
@@ -3896,7 +3876,7 @@
         "composer": [],
         "date": "2022-08-10"
     },
-    {
+    "Mere Rashke Qamar (Complete Original Version)": {
         "path": "lossy/Mere Rashke Qamar (Complete Original Version) Ustad Nusrat Fateh Ali Khan.mp3",
         "duration": 1058,
         "title": "Mere Rashke Qamar (Complete Original Version)",
@@ -3915,7 +3895,7 @@
         ],
         "date": "1988-01-01"
     },
-    {
+    "Meri Aashiqui": {
         "path": "lossy/Meri Aashiqui.mp3",
         "duration": 266,
         "title": "Meri Aashiqui",
@@ -3932,7 +3912,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Meri Bheegi Bheegi Si (From \"Anamika\")": {
         "path": "lossy/Meri Bheegi Bheegi Si (From  Anamika ) Kishore Kumar.mp3",
         "duration": 247,
         "title": "Meri Bheegi Bheegi Si (From \"Anamika\")",
@@ -3950,7 +3930,7 @@
         ],
         "date": "2018-02-28"
     },
-    {
+    "Milne Hai Mujhse Aayi": {
         "path": "lossy/Milne Hai Mujhse Aayi.mp3",
         "duration": 296,
         "title": "Milne Hai Mujhse Aayi",
@@ -3966,7 +3946,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Mitti Di Khushboo": {
         "path": "lossy/Mitti Di Khushboo Ayushmann Khurrana.mp3",
         "duration": 247,
         "title": "Mitti Di Khushboo",
@@ -3982,7 +3962,7 @@
         ],
         "date": "2014"
     },
-    {
+    "Dillagi": {
         "path": "lossy/MojoJojo Dillagi.mp3",
         "duration": 177,
         "title": "Dillagi",
@@ -3997,7 +3977,7 @@
         "composer": [],
         "date": "2021"
     },
-    {
+    "Mother": {
         "path": "lossy/Mother Pink Floyd.m4a",
         "duration": 335,
         "title": "Mother",
@@ -4014,7 +3994,7 @@
         ],
         "date": "1979"
     },
-    {
+    "Mozart Sample Beat": {
         "path": "lossy/Mozart Sample Beat By Eric Parsons.mp3",
         "duration": 229,
         "title": "Mozart Sample Beat",
@@ -4030,7 +4010,7 @@
         ],
         "date": "0000"
     },
-    {
+    "Mujhko Pehchaanlo": {
         "path": "lossy/Mujhko Pehchaanlo K.K.mp3",
         "duration": 204,
         "title": "Mujhko Pehchaanlo",
@@ -4051,7 +4031,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Muskaanein Jhooti Hai": {
         "path": "lossy/Muskaanein Jhooti Hai Suman Sridhar.mp3",
         "duration": 198,
         "title": "Muskaanein Jhooti Hai",
@@ -4070,7 +4050,7 @@
         ],
         "date": "2012"
     },
-    {
+    "Mystic Force Power Rangers opening Full Theme Song": {
         "path": "lossy/Mystic Force Power Rangers opening Full Theme Song.mp3",
         "duration": 327,
         "title": "Mystic Force Power Rangers opening Full Theme Song",
@@ -4085,7 +4065,7 @@
         "composer": [],
         "date": "2006"
     },
-    {
+    "Nadaan Parindey": {
         "path": "lossy/Nadaan Parindey Rockstar.mp3",
         "duration": 387,
         "title": "Nadaan Parindey",
@@ -4103,7 +4083,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Neele Neele Ambar Par (Male Version)": {
         "path": "lossy/Neele Neele Ambar Par (Male Version) Kalaakaar.mp3",
         "duration": 320,
         "title": "Neele Neele Ambar Par (Male Version)",
@@ -4120,7 +4100,7 @@
         ],
         "date": "1983"
     },
-    {
+    "Never Give Up": {
         "path": "lossy/Never Give Up Sia.mp3",
         "duration": 222,
         "title": "Never Give Up",
@@ -4141,7 +4121,7 @@
         ],
         "date": "2016"
     },
-    {
+    "Nikki Jehi Kudi": {
         "path": "lossy/Nikki Jehi Kudi Satinder Sartaaj.mp3",
         "duration": 287,
         "title": "Nikki Jehi Kudi",
@@ -4155,7 +4135,7 @@
         "composer": [],
         "date": "2009"
     },
-    {
+    "Njan Chendena": {
         "path": "lossy/Njan Chendena Vijay Yesudas.mp3",
         "duration": 332,
         "title": "Njan Chendena",
@@ -4174,7 +4154,7 @@
         ],
         "date": "2015"
     },
-    {
+    "No Church In The Wild": {
         "path": "lossy/No Church In The Wild Jay Z Kanye West.m4a",
         "duration": 273,
         "title": "No Church In The Wild",
@@ -4188,7 +4168,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "No Love": {
         "path": "lossy/No Love Eminem.m4a",
         "duration": 300,
         "title": "No Love",
@@ -4204,7 +4184,7 @@
         "composer": [],
         "date": "2010"
     },
-    {
+    "Nobody Can Save Me": {
         "path": "lossy/Nobody Can Save Me Linkin Park.mp3",
         "duration": 226,
         "title": "Nobody Can Save Me",
@@ -4220,7 +4200,7 @@
         "composer": [],
         "date": "2017-05-19"
     },
-    {
+    "nokia gran vals": {
         "path": "lossy/nokia gran vals.mp3",
         "duration": 29,
         "title": "nokia gran vals",
@@ -4235,7 +4215,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Not Afraid": {
         "path": "lossy/Not Afraid Eminem.m4a",
         "duration": 251,
         "title": "Not Afraid",
@@ -4250,7 +4230,7 @@
         "composer": [],
         "date": "2010"
     },
-    {
+    "Not In Love": {
         "path": "lossy/Not In Love Crystal Castles.mp3",
         "duration": 228,
         "title": "Not In Love",
@@ -4269,7 +4249,7 @@
         "composer": [],
         "date": "0000"
     },
-    {
+    "Nothing Else Matters": {
         "path": "lossy/Nothing Else Matters Metallica.m4a",
         "duration": 388,
         "title": "Nothing Else Matters",
@@ -4286,7 +4266,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Numb": {
         "path": "lossy/Numb Linkin Park.m4a",
         "duration": 188,
         "title": "Numb",
@@ -4301,7 +4281,7 @@
         "composer": [],
         "date": "2003"
     },
-    {
+    "O Duniya Ke Rakhwale": {
         "path": "lossy/O Duniya Ke Rakhwale Mohammed Rafi.mp3",
         "duration": 326,
         "title": "O Duniya Ke Rakhwale",
@@ -4321,7 +4301,7 @@
         ],
         "date": "1953"
     },
-    {
+    "O Haseena Zulfonwale Jane Jahan": {
         "path": "lossy/O Haseena Zulfonwale Jane Jahan Asha Bhosle.mp3",
         "duration": 415,
         "title": "O Haseena Zulfonwale Jane Jahan",
@@ -4341,7 +4321,7 @@
         ],
         "date": "1966"
     },
-    {
+    "O Mere Sona Re Sona": {
         "path": "lossy/O Mere Sona Re Sona Asha Bhosle.mp3",
         "duration": 300,
         "title": "O Mere Sona Re Sona",
@@ -4362,7 +4342,7 @@
         ],
         "date": "1966"
     },
-    {
+    "O Re Piya": {
         "path": "lossy/O Re Piya Rahat Fateh Ali Khan.mp3",
         "duration": 380,
         "title": "O Re Piya",
@@ -4382,7 +4362,7 @@
         ],
         "date": "2007-10-18"
     },
-    {
+    "One More Light": {
         "path": "lossy/One More Light Linkin Park.mp3",
         "duration": 255,
         "title": "One More Light",
@@ -4397,7 +4377,7 @@
         "composer": [],
         "date": "2017-05-19"
     },
-    {
+    "Paint It, Black": {
         "path": "lossy/Paint It Black The Rolling Stones.m4a",
         "duration": 224,
         "title": "Paint It, Black",
@@ -4414,7 +4394,7 @@
         ],
         "date": "2010"
     },
-    {
+    "Pal Pal Dil Ke Paas": {
         "path": "lossy/Pal Pal Dil Ke Paas Kishore Kumar.mp3",
         "duration": 328,
         "title": "Pal Pal Dil Ke Paas",
@@ -4433,7 +4413,7 @@
         ],
         "date": "1973"
     },
-    {
+    "Paradise": {
         "path": "lossy/Paradise Coldplay.mp3",
         "duration": 279,
         "title": "Paradise",
@@ -4447,7 +4427,7 @@
         "composer": [],
         "date": "2011-10-18"
     },
-    {
+    "Paranoid (2012 - Remaster)": {
         "path": "lossy/Paranoid (2012 Remaster) (2012 Remaster) Black Sabbath.m4a",
         "duration": 167,
         "title": "Paranoid (2012 - Remaster)",
@@ -4464,7 +4444,7 @@
         ],
         "date": "1970"
     },
-    {
+    "Pathar Ke Sanam": {
         "path": "lossy/Pathar Ke Sanam Mohammed Rafi.mp3",
         "duration": 298,
         "title": "Pathar Ke Sanam",
@@ -4483,7 +4463,7 @@
         ],
         "date": "1967"
     },
-    {
+    "Pee Loon": {
         "path": "lossy/Pee Loon Mohit Chauhan.mp3",
         "duration": 286,
         "title": "Pee Loon",
@@ -4503,7 +4483,7 @@
         ],
         "date": "2010"
     },
-    {
+    "Pehli Nazar Mein": {
         "path": "lossy/Pehli Nazar Mein Pritam Chakraborty.mp3",
         "duration": 313,
         "title": "Pehli Nazar Mein",
@@ -4523,7 +4503,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Perfect Day": {
         "path": "lossy/Perfect Day Lou Reed.mp3",
         "duration": 224,
         "title": "Perfect Day",
@@ -4540,7 +4520,7 @@
         ],
         "date": "2009-03-30"
     },
-    {
+    "Phir Mohabbat": {
         "path": "lossy/Phir Mohabbat Mohammed Irfan.mp3",
         "duration": 330,
         "title": "Phir Mohabbat",
@@ -4561,7 +4541,7 @@
         ],
         "date": "2011-05-30"
     },
-    {
+    "Phir Se Ud Chala": {
         "path": "lossy/Phir Se Ud Chala Rockstar.mp3",
         "duration": 272,
         "title": "Phir Se Ud Chala",
@@ -4579,7 +4559,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Piya Aaye Na": {
         "path": "lossy/Piya Aaye Na.mp3",
         "duration": 286,
         "title": "Piya Aaye Na",
@@ -4596,7 +4576,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Professional Griefers": {
         "path": "lossy/Professional Griefers Deadmaus.mp3",
         "duration": 244,
         "title": "Professional Griefers",
@@ -4612,7 +4592,7 @@
         "composer": [],
         "date": "2012"
     },
-    {
+    "Pyar Diwana Hota Hai": {
         "path": "lossy/Pyar Diwana Hota Hai Kishore Kumar.mp3",
         "duration": 284,
         "title": "Pyar Diwana Hota Hai",
@@ -4632,7 +4612,7 @@
         ],
         "date": "1970"
     },
-    {
+    "Bohemian Rhapsody - Remastered 2011": {
         "path": "lossy/Queen Bohemian Rhapsody Remastered 2011.mp3",
         "duration": 356,
         "title": "Bohemian Rhapsody - Remastered 2011",
@@ -4646,7 +4626,7 @@
         "composer": [],
         "date": "1975-11-21"
     },
-    {
+    "Bohemian Rhapsody": {
         "path": "lossy/Queen Bohemian Rhapsody.mp3",
         "duration": 358,
         "title": "Bohemian Rhapsody",
@@ -4661,21 +4641,21 @@
         "composer": [],
         "date": "1992"
     },
-    {
-        "path": "lossy/Queen The Show Must Go On.mp3",
-        "duration": 264,
+    "The Show Must Go On": {
+        "path": "lossy/The Show Must Go On Pink Floyd.m4a",
+        "duration": 97,
         "title": "The Show Must Go On",
         "artists": [
-            "Queen"
+            "Pink Floyd"
         ],
         "genre": [
             "English"
         ],
-        "album": "Platinum Collection, Vol. I, I",
+        "album": "The Wall",
         "composer": [],
-        "date": "2001"
+        "date": "1979"
     },
-    {
+    "We Will Rock You - Remastered": {
         "path": "lossy/Queen We Will Rock You Remastered.mp3",
         "duration": 122,
         "title": "We Will Rock You - Remastered",
@@ -4689,7 +4669,7 @@
         "composer": [],
         "date": "1977-10-28"
     },
-    {
+    "Raabta": {
         "path": "lossy/Raabta Arijit Singh.mp3",
         "duration": 244,
         "title": "Raabta",
@@ -4709,7 +4689,7 @@
         ],
         "date": "2012"
     },
-    {
+    "Radioactive": {
         "path": "lossy/Radioactive Imagine Dragons.m4a",
         "duration": 276,
         "title": "Radioactive",
@@ -4727,7 +4707,7 @@
         ],
         "date": "2012"
     },
-    {
+    "Raftaarein": {
         "path": "lossy/Raftaarein Vishal & Shekhar Vishal Dadlani.m4a",
         "duration": 270,
         "title": "Raftaarein",
@@ -4746,7 +4726,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Rahen Na Rahen Chahe Hum Aur Tum": {
         "path": "lossy/Rahen Na Rahen Chahe Hum Aur Tum Lata Mangeshkar.mp3",
         "duration": 385,
         "title": "Rahen Na Rahen Chahe Hum Aur Tum",
@@ -4767,7 +4747,7 @@
         ],
         "date": "1974-12-31"
     },
-    {
+    "Reckoning Song (One Day)": {
         "path": "lossy/Reckoning Song (One Day) Asaf Avidan & the Mojos.mp3",
         "duration": 167,
         "title": "Reckoning Song (One Day)",
@@ -4782,7 +4762,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Riders In The Sky": {
         "path": "lossy/Riders In The Sky Lawrence Welk.mp3",
         "duration": 115,
         "title": "Riders In The Sky",
@@ -4799,7 +4779,7 @@
         ],
         "date": "2019"
     },
-    {
+    "Roar": {
         "path": "lossy/Roar Katy Perry.mp3",
         "duration": 224,
         "title": "Roar",
@@ -4820,7 +4800,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Rocket Man (I Think It's Going To Be A Long, Long Time)": {
         "path": "lossy/Rocket Man (I Think It's Going To Be A Long Long Time) Elton John.m4a",
         "duration": 282,
         "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
@@ -4837,7 +4817,7 @@
         ],
         "date": "2007"
     },
-    {
+    "Saadda Haq (Featuring Orianthi Panagaris On Guitars)": {
         "path": "lossy/Saadda Haq (Featuring Orianthi Panagaris On Guitars) Rockstar.mp3",
         "duration": 365,
         "title": "Saadda Haq (Featuring Orianthi Panagaris On Guitars)",
@@ -4856,7 +4836,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Saadgi To Hamari": {
         "path": "lossy/Saadgi To Hamari Ustad Nusrat Fateh Ali Khan.mp3",
         "duration": 900,
         "title": "Saadgi To Hamari",
@@ -4874,7 +4854,7 @@
         ],
         "date": "2018-08-09"
     },
-    {
+    "Sara Zamana (Yaarana Soundtrack Version)": {
         "path": "lossy/Saara Zamana Kishore Kumar.mp3",
         "duration": 265,
         "title": "Sara Zamana (Yaarana Soundtrack Version)",
@@ -4894,7 +4874,7 @@
         ],
         "date": "1981"
     },
-    {
+    "Saat Samundar Paar Happy": {
         "path": "lossy/Saat Samundar Paar (Happy) Vishwatma.mp3",
         "duration": 397,
         "title": "Saat Samundar Paar Happy",
@@ -4912,7 +4892,7 @@
         ],
         "date": "1992"
     },
-    {
+    "Saibo": {
         "path": "lossy/Saibo.mp3",
         "duration": 196,
         "title": "Saibo",
@@ -4935,7 +4915,7 @@
         ],
         "date": "2010"
     },
-    {
+    "Saiyyan": {
         "path": "lossy/Saiyyan Kailash Kher.mp3",
         "duration": 344,
         "title": "Saiyyan",
@@ -4954,7 +4934,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Sajdaa": {
         "path": "lossy/Sajdaa Rahat Fateh Ali Khan.mp3",
         "duration": 366,
         "title": "Sajdaa",
@@ -4978,7 +4958,7 @@
         ],
         "date": "2010-07-22"
     },
-    {
+    "Samne Ye Kaun Aya": {
         "path": "lossy/Samne Ye Kaun Aya Jawani Diwani Soundtrack Version Kishore Kumar.mp3",
         "duration": 253,
         "title": "Samne Ye Kaun Aya",
@@ -4997,7 +4977,7 @@
         ],
         "date": "1972-02-10"
     },
-    {
+    "Sar Jo Tera Chakraye": {
         "path": "lossy/Sar Jo Tera Chakraye Mohammed Rafi.mp3",
         "duration": 262,
         "title": "Sar Jo Tera Chakraye",
@@ -5016,7 +4996,7 @@
         ],
         "date": "1957"
     },
-    {
+    "Satisfya": {
         "path": "lossy/Satisfya Imran Khan.m4a",
         "duration": 180,
         "title": "Satisfya",
@@ -5030,7 +5010,7 @@
         "composer": [],
         "date": "2013"
     },
-    {
+    "Sawan Ka Mahina Pawan Kare Sor": {
         "path": "lossy/Sawan Ka Mahina (From  Milan ) Lata Mangeshkar.mp3",
         "duration": 329,
         "title": "Sawan Ka Mahina Pawan Kare Sor",
@@ -5051,7 +5031,7 @@
         ],
         "date": "1967"
     },
-    {
+    "Say Something": {
         "path": "lossy/Say Something Justin Timberlake.mp3",
         "duration": 279,
         "title": "Say Something",
@@ -5073,7 +5053,7 @@
         ],
         "date": "2014-02-02"
     },
-    {
+    "Scorecard Theme Music ICC Mens CWC23 (Extended Version)": {
         "path": "lossy/Scorecard Theme Music ICC Mens CWC23 (Extended Version).mp3",
         "duration": 185,
         "title": "Scorecard Theme Music ICC Mens CWC23 (Extended Version)",
@@ -5087,7 +5067,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Sharp Edges": {
         "path": "lossy/Sharp Edges Linkin Park.mp3",
         "duration": 178,
         "title": "Sharp Edges",
@@ -5103,7 +5083,7 @@
         "composer": [],
         "date": "2017-05-19"
     },
-    {
+    "Sheher Mein": {
         "path": "lossy/Sheher Mein Rockstar.mp3",
         "duration": 244,
         "title": "Sheher Mein",
@@ -5122,7 +5102,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Shine On You Crazy Diamond (Part One)": {
         "path": "lossy/ShineOnYouCrazyDiamondpartOne.mp3",
         "duration": 811,
         "title": "Shine On You Crazy Diamond (Part One)",
@@ -5137,7 +5117,7 @@
         "composer": [],
         "date": "1975"
     },
-    {
+    "Shiva Tandava Stotram": {
         "path": "lossy/Shiva Tandava Stotram Uma Mohan.m4a",
         "duration": 398,
         "title": "Shiva Tandava Stotram",
@@ -5151,7 +5131,7 @@
         "composer": [],
         "date": "2007"
     },
-    {
+    "Sleeper": {
         "path": "lossy/Sleeper Atomic.mp3",
         "duration": 311,
         "title": "Sleeper",
@@ -5165,7 +5145,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Smells Like Teen Spirit": {
         "path": "lossy/Smells Like Teen Spirit Nirvana.mp3",
         "duration": 302,
         "title": "Smells Like Teen Spirit",
@@ -5184,7 +5164,7 @@
         ],
         "date": "2011-01-01"
     },
-    {
+    "Sochta Hoon Ke Woh Kitne Masoom Thay": {
         "path": "lossy/Sochta Hoon Ke Woh Kitne Masoom Thay Nusrat Fateh Ali Khan.mp3",
         "duration": 1588,
         "title": "Sochta Hoon Ke Woh Kitne Masoom Thay",
@@ -5202,7 +5182,7 @@
         ],
         "date": "3000"
     },
-    {
+    "Society": {
         "path": "lossy/Society Eddie Vedder.m4a",
         "duration": 236,
         "title": "Society",
@@ -5216,7 +5196,7 @@
         "composer": [],
         "date": "2017"
     },
-    {
+    "Sorrow": {
         "path": "lossy/Sorrow Pink Floyd.m4a",
         "duration": 525,
         "title": "Sorrow",
@@ -5230,7 +5210,7 @@
         "composer": [],
         "date": "1987"
     },
-    {
+    "Sorry for Now": {
         "path": "lossy/Sorry For Now Linkin Park.mp3",
         "duration": 204,
         "title": "Sorry for Now",
@@ -5246,7 +5226,7 @@
         "composer": [],
         "date": "2017-05-19"
     },
-    {
+    "Stayin Alive": {
         "path": "lossy/Stayin Alive Bee Gees.m4a",
         "duration": 283,
         "title": "Stayin Alive",
@@ -5260,7 +5240,7 @@
         "composer": [],
         "date": "2016"
     },
-    {
+    "Stranger Danger": {
         "path": "lossy/Stranger Danger di Francis Preve.mp3",
         "duration": 114,
         "title": "Stranger Danger",
@@ -5274,7 +5254,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Stuck In The Middle With You": {
         "path": "lossy/Stuck In The Middle With You Stealers Wheel.mp3",
         "duration": 209,
         "title": "Stuck In The Middle With You",
@@ -5292,7 +5272,7 @@
         ],
         "date": "1972"
     },
-    {
+    "Suhana Safar": {
         "path": "lossy/Suhana Safar Mukesh.mp3",
         "duration": 231,
         "title": "Suhana Safar",
@@ -5306,7 +5286,7 @@
         "composer": [],
         "date": "2011-02-02"
     },
-    {
+    "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)": {
         "path": "lossy/Summer LEstate Op 8 No 2 G Minor Presto Vivaldi.mp3",
         "duration": 176,
         "title": "Summer (L'Estate) Op.8 No.2 G Minor: Presto (Tempo Impettuoso d'Estate)",
@@ -5324,7 +5304,7 @@
         ],
         "date": "1994-07-01"
     },
-    {
+    "Sunn Raha Hai (Female)": {
         "path": "lossy/Sun Raha Hai Female.mp3",
         "duration": 315,
         "title": "Sunn Raha Hai (Female)",
@@ -5340,7 +5320,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Sunn Raha Hai": {
         "path": "lossy/Sun Raha Hai Male.mp3",
         "duration": 390,
         "title": "Sunn Raha Hai",
@@ -5356,7 +5336,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Supermassive Black Hole": {
         "path": "lossy/Supermassive Black Hole (Twilight Soundtrack Version) Muse.mp3",
         "duration": 210,
         "title": "Supermassive Black Hole",
@@ -5376,7 +5356,7 @@
         ],
         "date": "2005"
     },
-    {
+    "Suraj Hua Maddham": {
         "path": "lossy/Suraj Hua Maddham Sonu Nigam Alka Yagnik.mp3",
         "duration": 428,
         "title": "Suraj Hua Maddham",
@@ -5396,7 +5376,7 @@
         ],
         "date": "2001-01-04"
     },
-    {
+    "Taarif Karoon Kya Uski": {
         "path": "lossy/Taarif Karoon Kya Uski Mohammed Rafi.mp3",
         "duration": 327,
         "title": "Taarif Karoon Kya Uski",
@@ -5415,7 +5395,7 @@
         ],
         "date": "1964"
     },
-    {
+    "Take Me To Church": {
         "path": "lossy/Take Me To Church Hozier.mp3",
         "duration": 242,
         "title": "Take Me To Church",
@@ -5432,7 +5412,7 @@
         ],
         "date": "2014-07-20"
     },
-    {
+    "Talking to Myself": {
         "path": "lossy/Talking to Myself Linkin Park.mp3",
         "duration": 231,
         "title": "Talking to Myself",
@@ -5448,28 +5428,7 @@
         "composer": [],
         "date": "2017-05-19"
     },
-    {
-        "path": "lossy/Tere Bin Atif Aslam.mp3",
-        "duration": 276,
-        "title": "Tere Bin",
-        "artists": [
-            "Atif Aslam",
-            "Sayeed Quadri"
-        ],
-        "genre": [
-            "Bollywood",
-            "Movie",
-            "Hindi",
-            "Pop",
-            "Sufi"
-        ],
-        "album": "Bas Ek Pal (Original Motion Picture Soundtrack)",
-        "composer": [
-            "Mithoon"
-        ],
-        "date": "2006"
-    },
-    {
+    "Tere Bin": {
         "path": "lossy/Tere Bin Rabbi Shergill.mp3",
         "duration": 323,
         "title": "Tere Bin",
@@ -5486,7 +5445,7 @@
         ],
         "date": "2004"
     },
-    {
+    "Tere Bina Zindagi Se": {
         "path": "lossy/Tere Bina Zindagi Se Lata Mangeshkar.mp3",
         "duration": 354,
         "title": "Tere Bina Zindagi Se",
@@ -5507,7 +5466,7 @@
         ],
         "date": "1975"
     },
-    {
+    "Tere Jaisa Yaar Kahan (Yaarana Soundtrack Version)": {
         "path": "lossy/Tere Jaisa Yaar Kahan Yaarana Kishore Kumar.mp3",
         "duration": 279,
         "title": "Tere Jaisa Yaar Kahan (Yaarana Soundtrack Version)",
@@ -5526,7 +5485,7 @@
         ],
         "date": "1981"
     },
-    {
+    "Teri Deewani": {
         "path": "lossy/Teri Deewani Kailash Kher.mp3",
         "duration": 321,
         "title": "Teri Deewani",
@@ -5544,7 +5503,7 @@
         ],
         "date": "2008"
     },
-    {
+    "Teri Meri Kahaani": {
         "path": "lossy/Teri Meri Kahaani Arijit Singh.mp3",
         "duration": 371,
         "title": "Teri Meri Kahaani",
@@ -5565,7 +5524,7 @@
         ],
         "date": "2015"
     },
-    {
+    "The Champion": {
         "path": "lossy/The Champion Carrie Underwood.mp3",
         "duration": 224,
         "title": "The Champion",
@@ -5586,7 +5545,7 @@
         ],
         "date": "2018"
     },
-    {
+    "The Man Who Sold The World (Live)": {
         "path": "lossy/The Man Who Sold The World (Live) Nirvana.m4a",
         "duration": 261,
         "title": "The Man Who Sold The World (Live)",
@@ -5600,7 +5559,7 @@
         "composer": [],
         "date": "1994"
     },
-    {
+    "The Middle": {
         "path": "lossy/The Middle ZEDD.mp3",
         "duration": 185,
         "title": "The Middle",
@@ -5625,7 +5584,7 @@
         ],
         "date": "2018"
     },
-    {
+    "The Ride Of The Valkyries": {
         "path": "lossy/The Ride Of The Valkyries Wagner.mp3",
         "duration": 291,
         "title": "The Ride Of The Valkyries",
@@ -5639,7 +5598,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "The Scientist": {
         "path": "lossy/The Scientist Coldplay.mp3",
         "duration": 311,
         "title": "The Scientist",
@@ -5653,7 +5612,7 @@
         "composer": [],
         "date": "2002-08-07"
     },
-    {
+    "The Show": {
         "path": "lossy/The Show Lenka.mp3",
         "duration": 236,
         "title": "The Show",
@@ -5671,21 +5630,7 @@
         ],
         "date": "2008"
     },
-    {
-        "path": "lossy/The Show Must Go On Pink Floyd.m4a",
-        "duration": 97,
-        "title": "The Show Must Go On",
-        "artists": [
-            "Pink Floyd"
-        ],
-        "genre": [
-            "English"
-        ],
-        "album": "The Wall",
-        "composer": [],
-        "date": "1979"
-    },
-    {
+    "The Sound of Silence (Electric Version)": {
         "path": "lossy/The Sound of Silence (Electric Version) Simon & Garfunkel.m4a",
         "duration": 185,
         "title": "The Sound of Silence (Electric Version)",
@@ -5699,7 +5644,7 @@
         "composer": [],
         "date": "1966"
     },
-    {
+    "The Times They Are A-Changin'": {
         "path": "lossy/The Times They Are A Changin' Bob Dylan.m4a",
         "duration": 192,
         "title": "The Times They Are A-Changin'",
@@ -5713,7 +5658,7 @@
         "composer": [],
         "date": "1964"
     },
-    {
+    "The Unforgiven II": {
         "path": "lossy/The Unforgiven II Metallica.m4a",
         "duration": 396,
         "title": "The Unforgiven II",
@@ -5727,7 +5672,7 @@
         "composer": [],
         "date": "2008"
     },
-    {
+    "The Unforgiven": {
         "path": "lossy/The Unforgiven Metallica.m4a",
         "duration": 387,
         "title": "The Unforgiven",
@@ -5741,7 +5686,7 @@
         "composer": [],
         "date": "2008"
     },
-    {
+    "Theme Music": {
         "path": "lossy/Theme Music 1947 Earth A.R. Rahman.mp3",
         "duration": 289,
         "title": "Theme Music",
@@ -5759,7 +5704,7 @@
         ],
         "date": "1999"
     },
-    {
+    "Total Eclipse of the Heart": {
         "path": "lossy/Total Eclipse of the Heart Bonnie Tyler.m4a",
         "duration": 418,
         "title": "Total Eclipse of the Heart",
@@ -5773,7 +5718,7 @@
         "composer": [],
         "date": "1983"
     },
-    {
+    "Toxicity": {
         "path": "lossy/Toxicity System Of A Down.m4a",
         "duration": 219,
         "title": "Toxicity",
@@ -5787,7 +5732,7 @@
         "composer": [],
         "date": "2001"
     },
-    {
+    "Tu Hi Haqeeqat": {
         "path": "lossy/Tu Hi Haqeeqat Pritam.mp3",
         "duration": 302,
         "title": "Tu Hi Haqeeqat",
@@ -5808,7 +5753,7 @@
         ],
         "date": "2009-09-08"
     },
-    {
+    "Tu Jaane Na": {
         "path": "lossy/Tu Jaane Na Pritam Chakraborty.mp3",
         "duration": 342,
         "title": "Tu Jaane Na",
@@ -5829,7 +5774,7 @@
         ],
         "date": "2009-11-06"
     },
-    {
+    "Tu Kisi Rail Si": {
         "path": "lossy/Tu Kisi Rail Si Masaan.mp3",
         "duration": 231,
         "title": "Tu Kisi Rail Si",
@@ -5846,7 +5791,7 @@
         ],
         "date": "2015"
     },
-    {
+    "Tujhe Sochta Hoon": {
         "path": "lossy/Tujhe Sochta Hoon KK.mp3",
         "duration": 314,
         "title": "Tujhe Sochta Hoon",
@@ -5866,7 +5811,7 @@
         ],
         "date": "2012"
     },
-    {
+    "Tujhse Naraz Nahin Zindagi (Male Vocals)": {
         "path": "lossy/Tujhse Naraz Nahin Zindagi (Male Vocals) Anup Ghoshal.mp3",
         "duration": 341,
         "title": "Tujhse Naraz Nahin Zindagi (Male Vocals)",
@@ -5885,7 +5830,7 @@
         ],
         "date": "1960"
     },
-    {
+    "Tum Aa Gaye Ho Noor Aa Gaya": {
         "path": "lossy/Tum Aa Gaye Ho Noor Aa Gaya Lata Mangeshkar.mp3",
         "duration": 252,
         "title": "Tum Aa Gaye Ho Noor Aa Gaya",
@@ -5906,7 +5851,7 @@
         ],
         "date": "1975"
     },
-    {
+    "Tum Hi Ho": {
         "path": "lossy/Tum Hi Ho.mp3",
         "duration": 262,
         "title": "Tum Hi Ho",
@@ -5922,7 +5867,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Tum Ho": {
         "path": "lossy/Tum Ho Rockstar.mp3",
         "duration": 318,
         "title": "Tum Ho",
@@ -5941,7 +5886,7 @@
         ],
         "date": "2011"
     },
-    {
+    "Tum Itna Jo Muskura Rahe Ho": {
         "path": "lossy/Tum Itna Jo Muskura Rahe Ho Jagjit Singh.mp3",
         "duration": 321,
         "title": "Tum Itna Jo Muskura Rahe Ho",
@@ -5962,7 +5907,7 @@
         ],
         "date": "1982-08-17"
     },
-    {
+    "Tum Jo Aaye": {
         "path": "lossy/Tum Jo Aaye Rahat Fateh Ali Khan.mp3",
         "duration": 286,
         "title": "Tum Jo Aaye",
@@ -5983,7 +5928,7 @@
         ],
         "date": "2010"
     },
-    {
+    "Tum Se Hi": {
         "path": "lossy/Tum Se Hi Jab We Met.mp3",
         "duration": 321,
         "title": "Tum Se Hi",
@@ -6002,7 +5947,7 @@
         ],
         "date": "0000"
     },
-    {
+    "Tum Tak": {
         "path": "lossy/Tum Tak A.R. Rahman.mp3",
         "duration": 304,
         "title": "Tum Tak",
@@ -6024,7 +5969,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Tumhari Nazar Kyon Khafa Ho Gayi": {
         "path": "lossy/Tumhari Nazar Kyon Khafa Ho Gayi Lata Mangeshkar.mp3",
         "duration": 307,
         "title": "Tumhari Nazar Kyon Khafa Ho Gayi",
@@ -6044,7 +5989,7 @@
         ],
         "date": "1968"
     },
-    {
+    "Tumne Mujhe Dekha Hokar Meherban": {
         "path": "lossy/Tumne Mujhe Dekha Hokar Meherban Mohammed Rafi.mp3",
         "duration": 245,
         "title": "Tumne Mujhe Dekha Hokar Meherban",
@@ -6063,7 +6008,7 @@
         ],
         "date": "1966-12-16"
     },
-    {
+    "Tumse Milke Dil Ka": {
         "path": "lossy/Tumse Milke Dil Ka Sonu Nigam.mp3",
         "duration": 359,
         "title": "Tumse Milke Dil Ka",
@@ -6083,7 +6028,7 @@
         ],
         "date": "2004-02-27"
     },
-    {
+    "Udaarian": {
         "path": "lossy/Udaarian Satinder Sartaaj.mp3",
         "duration": 350,
         "title": "Udaarian",
@@ -6097,7 +6042,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Uden Jab Jab Zulfen Teri": {
         "path": "lossy/Uden Jab Jab Zulfen Teri Mohammed Rafi.mp3",
         "duration": 388,
         "title": "Uden Jab Jab Zulfen Teri",
@@ -6117,7 +6062,7 @@
         ],
         "date": "1957"
     },
-    {
+    "Uma Thurman": {
         "path": "lossy/Uma Thurman Fall Out Boy.mp3",
         "duration": 212,
         "title": "Uma Thurman",
@@ -6142,7 +6087,7 @@
         ],
         "date": "2015"
     },
-    {
+    "Until I Found You": {
         "path": "lossy/Until I Found You Stephen Sanchez.mp3",
         "duration": 178,
         "title": "Until I Found You",
@@ -6160,7 +6105,7 @@
         ],
         "date": "2021"
     },
-    {
+    "Vande Matram": {
         "path": "lossy/Vande Mataram 98 Lata Mangeshkar.mp3",
         "duration": 264,
         "title": "Vande Matram",
@@ -6175,7 +6120,7 @@
         "composer": [],
         "date": "1998"
     },
-    {
+    "Venom (Music From The Motion Picture)": {
         "path": "lossy/Venom (Music From The Motion Picture) Eminem.m4a",
         "duration": 270,
         "title": "Venom (Music From The Motion Picture)",
@@ -6189,7 +6134,7 @@
         "composer": [],
         "date": "2018"
     },
-    {
+    "Vijayi Vishwa Tiranga Pyara": {
         "path": "lossy/Vijayi Vishwa Tiranga Pyara Doordarshan Rare Patriotic Song Abhijeet Bhattacharya The Listener.mp3",
         "duration": 252,
         "title": "Vijayi Vishwa Tiranga Pyara",
@@ -6204,7 +6149,7 @@
         "composer": [],
         "date": "2025"
     },
-    {
+    "Grand Fantasie from Die Walkure": {
         "path": "lossy/Wagner ride of the valkyries.mp3",
         "duration": 57,
         "title": "Grand Fantasie from Die Walkure",
@@ -6219,7 +6164,7 @@
         "composer": [],
         "date": "2000-00-00"
     },
-    {
+    "Wake Up (Album Version)": {
         "path": "lossy/Wake Up (Album Version) Mad Season.mp3",
         "duration": 456,
         "title": "Wake Up (Album Version)",
@@ -6236,7 +6181,7 @@
         ],
         "date": "1995-03-07"
     },
-    {
+    "Wakhra Swag": {
         "path": "lossy/Wakhra Swag Navv Inder Badshah.m4a",
         "duration": 191,
         "title": "Wakhra Swag",
@@ -6254,7 +6199,7 @@
         ],
         "date": "2015"
     },
-    {
+    "Weetabix": {
         "path": "lossy/Weetabix Bryce Dessner.mp3",
         "duration": 97,
         "title": "Weetabix",
@@ -6272,7 +6217,7 @@
         ],
         "date": "2024"
     },
-    {
+    "What A Wonderful World": {
         "path": "lossy/What A Wonderful World Louis Armstrong.mp3",
         "duration": 139,
         "title": "What A Wonderful World",
@@ -6289,7 +6234,7 @@
         ],
         "date": "2006"
     },
-    {
+    "What's Up Danger": {
         "path": "lossy/What's Up Danger Blackway Black Caviar.m4a",
         "duration": 222,
         "title": "What's Up Danger",
@@ -6304,7 +6249,7 @@
         "composer": [],
         "date": "2018"
     },
-    {
+    "Winter (L'Inverno) Op.8 No.4 F Minor: Allegro Non Molto": {
         "path": "lossy/Winter L Inverno Op 8 No 4 F Minor Allegro Vivaldi.mp3",
         "duration": 215,
         "title": "Winter (L'Inverno) Op.8 No.4 F Minor: Allegro Non Molto",
@@ -6321,7 +6266,7 @@
         ],
         "date": "1994-07-01"
     },
-    {
+    "Woh Lamhe Woh Baatein": {
         "path": "lossy/Woh Lamhe Woh Baatein (From  Zeher ) Atif Aslam.mp3",
         "duration": 320,
         "title": "Woh Lamhe Woh Baatein",
@@ -6343,7 +6288,7 @@
         ],
         "date": "2005"
     },
-    {
+    "Ya Ali": {
         "path": "lossy/Ya Ali (From  Gangster ).mp3",
         "duration": 296,
         "title": "Ya Ali",
@@ -6362,7 +6307,7 @@
         ],
         "date": "2006"
     },
-    {
+    "Yaar Berozgaar": {
         "path": "lossy/Yaar Berozgaar Preet Harpal.mp3",
         "duration": 230,
         "title": "Yaar Berozgaar",
@@ -6379,7 +6324,7 @@
         ],
         "date": "2016"
     },
-    {
+    "Ye Jawani Hai Diwani": {
         "path": "lossy/Ye Jawani Hai Diwani Jawani Diwani Soundtrack Version Kishore Kumar .mp3",
         "duration": 266,
         "title": "Ye Jawani Hai Diwani",
@@ -6400,7 +6345,7 @@
         ],
         "date": "1972-02-10"
     },
-    {
+    "Ye Jo Halka Halka A very Rare (First ever recorded) Version": {
         "path": "lossy/Ye Jo Halka Halka A very Rare (First ever recorded) Version.mp3",
         "duration": 1830,
         "title": "Ye Jo Halka Halka A very Rare (First ever recorded) Version",
@@ -6415,7 +6360,7 @@
         "composer": [],
         "date": "3000"
     },
-    {
+    "Ye Jo Halka Halka Saroor Hai": {
         "path": "lossy/Ye Jo Halka Halka Saroor Hai Ustad Nusrat Fateh Ali Khan.mp3",
         "duration": 1134,
         "title": "Ye Jo Halka Halka Saroor Hai",
@@ -6434,7 +6379,7 @@
         ],
         "date": "2011-11-23"
     },
-    {
+    "Yeh Duniya Agar Mil Bhi Jaye To": {
         "path": "lossy/Yeh Duniya Agar Mil Bhi Jaye To Mohammed Rafi.mp3",
         "duration": 308,
         "title": "Yeh Duniya Agar Mil Bhi Jaye To",
@@ -6453,7 +6398,7 @@
         ],
         "date": "1957"
     },
-    {
+    "Yeh Jo Des Hai Tera": {
         "path": "lossy/Yeh Jo Des Hai Tera A.R. Rahman.mp3",
         "duration": 388,
         "title": "Yeh Jo Des Hai Tera",
@@ -6473,7 +6418,7 @@
         ],
         "date": "2004"
     },
-    {
+    "Yeh Jo Mohabbat Hai": {
         "path": "lossy/Yeh Jo Mohabbat Hai Kishore Kumar.mp3",
         "duration": 248,
         "title": "Yeh Jo Mohabbat Hai",
@@ -6493,7 +6438,7 @@
         ],
         "date": "1970"
     },
-    {
+    "Yeh Kya Hua": {
         "path": "lossy/Yeh Kya Hua Kishore Kumar.mp3",
         "duration": 273,
         "title": "Yeh Kya Hua",
@@ -6511,7 +6456,7 @@
         ],
         "date": "1971-12-31"
     },
-    {
+    "Yeh Reshmi Zulfen": {
         "path": "lossy/Yeh Reshmi Zulfen Mohammed Rafi.mp3",
         "duration": 320,
         "title": "Yeh Reshmi Zulfen",
@@ -6531,7 +6476,7 @@
         ],
         "date": "1969"
     },
-    {
+    "Yeh Vaada Raha": {
         "path": "lossy/Yeh Vaada Raha (Yeh Vaada Raha Soundtrack Version) Asha Bhosle Kishore Kumar.m4a",
         "duration": 409,
         "title": "Yeh Vaada Raha",
@@ -6550,7 +6495,7 @@
         ],
         "date": "1982"
     },
-    {
+    "Yellow": {
         "path": "lossy/Yellow Coldplay.mp3",
         "duration": 267,
         "title": "Yellow",
@@ -6564,7 +6509,7 @@
         "composer": [],
         "date": "2000-07-09"
     },
-    {
+    "You Belong With Me": {
         "path": "lossy/You Belong With Me Taylor Swift.m4a",
         "duration": 231,
         "title": "You Belong With Me",
@@ -6578,7 +6523,7 @@
         "composer": [],
         "date": "2009"
     },
-    {
+    "Yumeji's Theme": {
         "path": "lossy/Yumejis Theme (From In the Mood for Love).mp3",
         "duration": 151,
         "title": "Yumeji's Theme",
@@ -6595,7 +6540,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Zara Dekh Mera Deewanapan": {
         "path": "lossy/Zara Dekh Mera Deewanapan Udit Narayan Alka Yagnik.m4a",
         "duration": 286,
         "title": "Zara Dekh Mera Deewanapan",
@@ -6613,7 +6558,7 @@
         ],
         "date": "2003"
     },
-    {
+    "Zara Sa": {
         "path": "lossy/Zara Sa Pritam.mp3",
         "duration": 304,
         "title": "Zara Sa",
@@ -6633,7 +6578,7 @@
         ],
         "date": "0000"
     },
-    {
+    "Zara Zara": {
         "path": "lossy/Zara Zara Bombay Jaishree.mp3",
         "duration": 298,
         "title": "Zara Zara",
@@ -6651,7 +6596,7 @@
         ],
         "date": "2001-12-01"
     },
-    {
+    "Zaroorat": {
         "path": "lossy/Zaroorat Mustafa Zahid.mp3",
         "duration": 369,
         "title": "Zaroorat",
@@ -6671,7 +6616,7 @@
         ],
         "date": "2014-05-28"
     },
-    {
+    "Zaroori Tha": {
         "path": "lossy/Zaroori Tha Rahat Fateh Ali Khan.mp3",
         "duration": 342,
         "title": "Zaroori Tha",
@@ -6689,7 +6634,7 @@
         ],
         "date": "2014-06-09"
     },
-    {
+    "Zinda": {
         "path": "lossy/Zinda Shankar Ehsaan Loy Siddharth Mahadevan.m4a",
         "duration": 211,
         "title": "Zinda",
@@ -6708,7 +6653,7 @@
         ],
         "date": "2013"
     },
-    {
+    "Zindagi Ke Safar Mein": {
         "path": "lossy/Zindagi Ke Safar Mein Kishore Kumar.mp3",
         "duration": 399,
         "title": "Zindagi Ke Safar Mein",
@@ -6723,7 +6668,7 @@
         "composer": [],
         "date": "1974-12-01"
     },
-    {
+    "Zindagi Kuch Toh Bata": {
         "path": "lossy/Zindagi Kuch Toh Bata Bajrangi Bhaijaan.mp3",
         "duration": 262,
         "title": "Zindagi Kuch Toh Bata",
@@ -6742,7 +6687,7 @@
         ],
         "date": "2015-07-07"
     },
-    {
+    "Zombie": {
         "path": "lossy/Zombie The Cranberries.mp3",
         "duration": 306,
         "title": "Zombie",
@@ -6759,7 +6704,7 @@
         ],
         "date": "2002"
     },
-    {
+    "Speak To Me/Breathe [Breathe In The Air]": {
         "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/01. Speak To MeBreathe [Breathe In The Air.mp3",
         "duration": 241,
         "title": "Speak To Me/Breathe [Breathe In The Air]",
@@ -6774,7 +6719,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "On The Run": {
         "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/02. On The Run.mp3",
         "duration": 213,
         "title": "On The Run",
@@ -6789,7 +6734,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Time": {
         "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/03. Time.mp3",
         "duration": 427,
         "title": "Time",
@@ -6804,7 +6749,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "The Great Gig In The Sky": {
         "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/04. The Great Gig In The Sky.mp3",
         "duration": 284,
         "title": "The Great Gig In The Sky",
@@ -6819,7 +6764,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Money": {
         "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/05. Money.mp3",
         "duration": 392,
         "title": "Money",
@@ -6834,7 +6779,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Us And Them": {
         "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/06. Us And Them.mp3",
         "duration": 461,
         "title": "Us And Them",
@@ -6849,7 +6794,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Any Colour You Like": {
         "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/07. Any Colour You Like.mp3",
         "duration": 206,
         "title": "Any Colour You Like",
@@ -6864,7 +6809,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Brain Damage": {
         "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/08. Brain Damage.mp3",
         "duration": 231,
         "title": "Brain Damage",
@@ -6879,7 +6824,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Eclipse": {
         "path": "lossy/Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps/09. Eclipse.mp3",
         "duration": 124,
         "title": "Eclipse",
@@ -6894,7 +6839,7 @@
         "composer": [],
         "date": "2011"
     },
-    {
+    "Shine On You Crazy Diamond (Parts 1-5)": {
         "path": "lossy/Pink Floyd _ Wish You Were Here (1975) [MP3 320] 88/01. Shine On You Crazy Diamond (Parts 1 5).mp3",
         "duration": 811,
         "title": "Shine On You Crazy Diamond (Parts 1-5)",
@@ -6909,7 +6854,7 @@
         "composer": [],
         "date": "1975"
     },
-    {
+    "Welcome To The Machine": {
         "path": "lossy/Pink Floyd _ Wish You Were Here (1975) [MP3 320] 88/02. Welcome To The Machine.mp3",
         "duration": 447,
         "title": "Welcome To The Machine",
@@ -6924,7 +6869,7 @@
         "composer": [],
         "date": "1975"
     },
-    {
+    "Have A Cigar": {
         "path": "lossy/Pink Floyd _ Wish You Were Here (1975) [MP3 320] 88/03. Have A Cigar.mp3",
         "duration": 308,
         "title": "Have A Cigar",
@@ -6939,7 +6884,7 @@
         "composer": [],
         "date": "1975"
     },
-    {
+    "Wish You Were Here": {
         "path": "lossy/Pink Floyd _ Wish You Were Here (1975) [MP3 320] 88/04. Wish You Were Here.mp3",
         "duration": 340,
         "title": "Wish You Were Here",
@@ -6954,7 +6899,7 @@
         "composer": [],
         "date": "1975"
     },
-    {
+    "Shine On You Crazy Diamond (Parts 6-9)": {
         "path": "lossy/Pink Floyd _ Wish You Were Here (1975) [MP3 320] 88/05. Shine On You Crazy Diamond (Parts 6 9).mp3",
         "duration": 743,
         "title": "Shine On You Crazy Diamond (Parts 6-9)",
@@ -6969,4 +6914,4 @@
         "composer": [],
         "date": "1975"
     }
-]
+}

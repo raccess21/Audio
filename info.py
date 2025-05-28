@@ -136,14 +136,14 @@ def all_songs_dict(base_dir=["lossy/"]):
         with open("web_assets/songs.json", "r") as f:
             songs = json.loads(f.read())
     except FileNotFoundError:
-        songs = []
+        songs = {}
     # songs = []
     for i, file_path in enumerate(all_files_in(base_dir=base_dir)):
         name, ext = file_name_ext(file_path)
         if ext in music_extensions() and file_path not in songs:
             print(i, file_path, ' ', sep='"')
             song = clean_tag(ext, file_path)
-            songs.append(song)
+            songs[song["title"]] = song
 
     with open("web_assets/songs.json", "w") as f:
         f.write(json.dumps(songs, indent=4))
@@ -195,8 +195,8 @@ def all_tags():
             print(tag, value)
 
 if __name__ == "__main__":
-    #all_songs_dict()
-    name_clean()
+    all_songs_dict()
+    # name_clean()
     # all_tags()
     # with open("web_assets/songsi.json", "r") as fi:
     #     for song in json.loads(fi.read()):
