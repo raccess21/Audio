@@ -131,7 +131,7 @@ def clean_tag(ext, file_path):
     }
     return cleaners[ext](song)
 
-def all_songs_dict(base_dir=["lossy/"]):
+def all_songs_dict(base_dir=["lossy/", "lossy_web/"]):
     try:
         with open("web_assets/songs.json", "r") as f:
             songs = json.loads(f.read())
@@ -156,6 +156,7 @@ def name_clean(base_dir=["new downloads/"]):
         new_name = path + name.replace("_", " ") + "." + ext
         os.rename(file_path, new_name)
         print(i, new_name, ' ', sep='"')
+    input(f"Confirm name clean in {" & ".join(base_dir)}: ")
 
 # search algo to match youtube songs with local songs
 def get_playlist(id="PLlXEnX_5coLUM5Sn_YV1ldufT55OxP9VS"):
@@ -195,8 +196,8 @@ def all_tags():
             print(tag, value)
 
 if __name__ == "__main__":
-    all_songs_dict()
-    # name_clean()
+    # all_songs_dict()
+    name_clean()
     # all_tags()
     # with open("web_assets/songsi.json", "r") as fi:
     #     for song in json.loads(fi.read()):

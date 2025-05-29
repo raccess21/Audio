@@ -10,7 +10,7 @@ from shutil import copyfile
 import pyperclip
 import info 
 import json
-
+from info import name_clean 
 # extensions supported
 
 #music_extensions = ['.flac', '.mp3', ".m4a"]
@@ -123,6 +123,7 @@ if __name__ == "__main__":
     # pyperclip.copy(search_lyrics("November Rain"))
     
     # download lyrics for new new downloads
+    name_clean()
     save_lyrics()
 
     

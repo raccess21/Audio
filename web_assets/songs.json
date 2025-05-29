@@ -6913,5 +6913,598 @@
         "album": "Wish You Were Here",
         "composer": [],
         "date": "1975"
+    },
+    "Dhunki": {
+        "path": "lossy_web/Dhunki Neha Bhasin.mp3",
+        "duration": 258,
+        "title": "Dhunki",
+        "artists": [
+            "Neha Bhasin",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Rock"
+        ],
+        "album": "Mere Brother Ki Dulhan",
+        "composer": [
+            "SOHAIL SEN"
+        ],
+        "date": "2011-08-09"
+    },
+    "Aankhein Khuli": {
+        "path": "lossy/Aankhein Khuli Lata Mangeshkar.mp3",
+        "duration": 423,
+        "title": "Aankhein Khuli",
+        "artists": [
+            "Lata Mangeshkar",
+            "Udit Narayan",
+            "Anand Bakshi",
+            "Jatin-Lalit",
+            "Ishaan",
+            "Udbhav",
+            "Shweta Pandit",
+            "Shah Rukh Khan",
+            "Manohar Shetty",
+            "Pritha Mazumdar",
+            "Sonali Bhatawdekar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Mohabbatein",
+        "composer": [
+            "Jatin-Lalit"
+        ],
+        "date": "2000"
+    },
+    "Aapke Pyaar Mein Hum": {
+        "path": "lossy/Aapke Pyaar Mein Hum Alka Yagnik.mp3",
+        "duration": 328,
+        "title": "Aapke Pyaar Mein Hum",
+        "artists": [
+            "Alka Yagnik",
+            "Sameer"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Raaz (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Nadeem-Shravan"
+        ],
+        "date": "2002"
+    },
+    "Chalte Chalte": {
+        "path": "lossy/Chalte Chalte Anand Bakshi.mp3",
+        "duration": 459,
+        "title": "Chalte Chalte",
+        "artists": [
+            "Anand Bakshi",
+            "Jatin-Lalit",
+            "Ishaan",
+            "Udbhav",
+            "Shweta Pandit",
+            "Manohar Shetty",
+            "Pritha Mazumdar",
+            "Sonali Bhatawdekar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Mohabbatein",
+        "composer": [
+            "Jatin-Lalit"
+        ],
+        "date": "2000"
+    },
+    "Dil To Hai Dil": {
+        "path": "lossy/Dil To Hai Dil Lata Mangeshkar.mp3",
+        "duration": 251,
+        "title": "Dil To Hai Dil",
+        "artists": [
+            "Lata Mangeshkar",
+            "Anjaan"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Kalyanji - Anandji"
+        ],
+        "date": "1978"
+    },
+    "Duniya Mein Logon Ko Pt. 1": {
+        "path": "lossy/Duniya Mein Logon Ko Pt. 1 Asha Bhosle.mp3",
+        "duration": 354,
+        "title": "Duniya Mein Logon Ko Pt. 1",
+        "artists": [
+            "Asha Bhosle",
+            "R. D. Burman",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop",
+            "Swing"
+        ],
+        "album": "Apna Desh (Original Motion Picture Soundtrack)",
+        "composer": [
+            "R. D. Burman"
+        ],
+        "date": "1972"
+    },
+    "Humko Humise Chura Lo": {
+        "path": "lossy/Humko Humise Chura Lo Lata Mangeshkar.mp3",
+        "duration": 473,
+        "title": "Humko Humise Chura Lo",
+        "artists": [
+            "Lata Mangeshkar",
+            "Udit Narayan",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Mohabbatein",
+        "composer": [
+            "Jatin-Lalit"
+        ],
+        "date": "2000"
+    },
+    "Widor: Symphony for Organ No. 5 in F Minor, Op. 42 No. 1: V. Toccata (Allegro)": {
+        "path": "lossy/Ian Tracey Widor Symphony for Organ No 5 in F Minor, Op 42.mp3",
+        "duration": 349,
+        "title": "Widor: Symphony for Organ No. 5 in F Minor, Op. 42 No. 1: V. Toccata (Allegro)",
+        "artists": [
+            "Ian Tracey"
+        ],
+        "genre": [
+            "Classical",
+            "Soundtrack",
+            "European Classical"
+        ],
+        "album": "Ian Tracey - Organ Recital",
+        "composer": [
+            "Charles-Marie Widor"
+        ],
+        "date": "2003"
+    },
+    "Kaha Ho Tum Chale Aao Shae Gill": {
+        "path": "lossy/Kaha Ho Tum Chale Aao Shae Gill.mp3",
+        "duration": 149,
+        "title": "Kaha Ho Tum Chale Aao Shae Gill",
+        "artists": [
+            "Shae Gill",
+            "Behzaad Lucknawi"
+        ],
+        "genre": [
+            "Ghazal",
+            "Urdu",
+            "Qawali",
+            "Live"
+        ],
+        "album": "Interview Cut",
+        "composer": [
+            "Nayyara Noor"
+        ],
+        "date": "2021"
+    },
+    "Kehna Hai Kehna Hai": {
+        "path": "lossy/Kehna Hai Kehna Hai Kishore Kumar.mp3",
+        "duration": 221,
+        "title": "Kehna Hai Kehna Hai",
+        "artists": [
+            "Kishore Kumar",
+            "Rajendra Krishna"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Padosan (Original Motion Picture Soundtrack)",
+        "composer": [
+            "R. D. Burman"
+        ],
+        "date": "1967"
+    },
+    "Listen at recording": {
+        "path": "lossy/Listen at recording.mp3",
+        "duration": 141,
+        "title": "Listen at recording",
+        "artists": [
+            "Unknown"
+        ],
+        "genre": [
+            ":("
+        ],
+        "album": "Unknown",
+        "composer": [
+            "Unknown"
+        ],
+        "date": "2025"
+    },
+    "Meditation : M\u00e9ditation from Tha\u00efs": {
+        "path": "lossy/London Symphony Orchestra Meditation M\u00e9ditation from Tha\u00efs.mp3",
+        "duration": 350,
+        "title": "Meditation : M\u00e9ditation from Tha\u00efs",
+        "artists": [
+            "Nicola Benedetti",
+            "London Symphony Orchestra",
+            "Daniel Harding"
+        ],
+        "genre": [
+            "Classical",
+            "Soundtrack",
+            "European Classical"
+        ],
+        "album": "Szymanowski: Violin Concerto No.1",
+        "composer": [
+            "Jules Massenet"
+        ],
+        "date": "2005-05-09"
+    },
+    "Mohabbatein Love Themes (Instrumental)": {
+        "path": "lossy/Mohabbatein Love Themes (Instrumental) Lalit Jatin.mp3",
+        "duration": 138,
+        "title": "Mohabbatein Love Themes (Instrumental)",
+        "artists": [
+            "Jatin-Lalit"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Soundtrack"
+        ],
+        "album": "Mohabbatein",
+        "composer": [
+            "Jatin-Lalit"
+        ],
+        "date": "2000-08-27"
+    },
+    "Muqaddar Ka Sikandar": {
+        "path": "lossy/Muqaddar Ka Sikandar (Original Motion Picture Soundtrack) CD.mp3",
+        "duration": 322,
+        "title": "Muqaddar Ka Sikandar",
+        "artists": [
+            "Kishore Kumar",
+            "Anjaan"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Kalyanji - Anandji"
+        ],
+        "date": "1978-12-01"
+    },
+    "O Saathi Re (Female Vocals)": {
+        "path": "lossy/O Saathi Re (Female Vocals) Asha Bhonsle.mp3",
+        "duration": 339,
+        "title": "O Saathi Re (Female Vocals)",
+        "artists": [
+            "Asha Bhosle",
+            "Anjaan"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Kalyanji - Anandji"
+        ],
+        "date": "1978"
+    },
+    "O Saathi Re (Male Vocals)": {
+        "path": "lossy/O Saathi Re (Male Vocals) Kishore Kumar.mp3",
+        "duration": 270,
+        "title": "O Saathi Re (Male Vocals)",
+        "artists": [
+            "Kishore Kumar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Kalyanji - Anandji"
+        ],
+        "date": "1978"
+    },
+    "Pareshaan": {
+        "path": "lossy/Pareshaan Shalmali Kholgade.mp3",
+        "duration": 292,
+        "title": "Pareshaan",
+        "artists": [
+            "Shalmali Kholgade",
+            "Kausar Munir"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop",
+            "Urdu"
+        ],
+        "album": "Ishaqzaade",
+        "composer": [
+            "Amit Trivedi"
+        ],
+        "date": "2011-04-12"
+    },
+    "Pichle Saat Dinon Mein (Album Version)": {
+        "path": "lossy/Pichle Saat Dinon Mein (Album Version) Farhan Akhtar.mp3",
+        "duration": 188,
+        "title": "Pichle Saat Dinon Mein (Album Version)",
+        "artists": [
+            "Farhan Akhtar",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Rock"
+        ],
+        "album": "Rock On",
+        "composer": [
+            "Shankar-Ehsaan-Loy"
+        ],
+        "date": "2008"
+    },
+    "Pichle Saat Dinon Mein (Live Version)": {
+        "path": "lossy/Pichle Saat Dinon Mein (Live Version) Farhan Akhtar.mp3",
+        "duration": 392,
+        "title": "Pichle Saat Dinon Mein (Live Version)",
+        "artists": [
+            "Farhan Akhtar",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Rock"
+        ],
+        "album": "Rock On",
+        "composer": [
+            "Shankar-Ehsaan-Loy"
+        ],
+        "date": "2008"
+    },
+    "Rock On!!": {
+        "path": "lossy/Rock On Farhan Akhtar.mp3",
+        "duration": 232,
+        "title": "Rock On!!",
+        "artists": [
+            "Farhan Akhtar",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Rock"
+        ],
+        "album": "Rock On",
+        "composer": [
+            "Shankar-Ehsaan-Loy"
+        ],
+        "date": "2008"
+    },
+    "Salame Ishq Meri Jaan": {
+        "path": "lossy/Salame Ishq Meri Jaan Lata Mangeshkar.mp3",
+        "duration": 351,
+        "title": "Salame Ishq Meri Jaan",
+        "artists": [
+            "Lata Mangeshkar",
+            "Kishore Kumar",
+            "Prakash Mehra"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Urdu"
+        ],
+        "album": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Kalyanji - Anandji"
+        ],
+        "date": "1978"
+    },
+    "Soni Soni": {
+        "path": "lossy/Soni Soni Udit Narayan.mp3",
+        "duration": 547,
+        "title": "Soni Soni",
+        "artists": [
+            "Udit Narayan",
+            "Jaspinder Narula",
+            "Ishaan",
+            "Udbhav",
+            "Shweta Pandit",
+            "Manohar Shetty",
+            "Pritha Mazumdar",
+            "Jatin-Lalit",
+            "Anand Bakshi",
+            "Sonali Bhatawdekar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Mohabbatein",
+        "composer": [
+            "Jatin-Lalit"
+        ],
+        "date": "2000-08-27"
+    },
+    "Teri Meri": {
+        "path": "lossy/Teri Meri Rahat Fateh Ali Khan.mp3",
+        "duration": 325,
+        "title": "Teri Meri",
+        "artists": [
+            "Rahat Fateh Ali Khan",
+            "Shreya Ghoshal",
+            "Shabbir Ahmed"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop",
+            "Sufi"
+        ],
+        "album": "Bodyguard",
+        "composer": [
+            "Himesh Reshamiya"
+        ],
+        "date": "2011"
+    },
+    "Teri Yaad Humsafar Subah Shaam (Nusrat Casually)": {
+        "path": "lossy/Teri Yaad Humsafar Subah Shaam Ustad Nusrat Fateh Ali Khan.mp3",
+        "duration": 82,
+        "title": "Teri Yaad Humsafar Subah Shaam (Nusrat Casually)",
+        "artists": [
+            "Nusrat Fateh Ali Khan",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Ghazal",
+            "Hindi",
+            "Urdu",
+            "Live"
+        ],
+        "album": "Ustaad Nusrat Fateh Ali Khan",
+        "composer": [
+            "Nusrat Fateh Ali Khan"
+        ],
+        "date": "2000"
+    },
+    "Zinda Rehti Hain Unki Mohabbatein": {
+        "path": "lossy/Zinda Rehti Hain Unki Mohabbatein Lata Mangeshkar.mp3",
+        "duration": 143,
+        "title": "Zinda Rehti Hain Unki Mohabbatein",
+        "artists": [
+            "Lata Mangeshkar",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Mohabbatein",
+        "composer": [
+            "Jatin-Lalit"
+        ],
+        "date": "2000-08-27"
+    },
+    "Kahin Door Jab Din Dhal Jaye": {
+        "path": "lossy/Kahin Door Jab Din Dhal Jaye Mukesh.mp3",
+        "duration": 337,
+        "title": "Kahin Door Jab Din Dhal Jaye",
+        "artists": [
+            "Mukesh",
+            "Yogesh"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Anand (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Salil Chowdhury"
+        ],
+        "date": "1970"
+    },
+    "Maine Tere Liye": {
+        "path": "lossy/Maine Tere Liye Mukesh.mp3",
+        "duration": 187,
+        "title": "Maine Tere Liye",
+        "artists": [
+            "Mukesh",
+            "Gulzar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Anand (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Salil Chowdhury"
+        ],
+        "date": "1970"
+    },
+    "Mere Samnewali Khidki Mein": {
+        "path": "lossy/Mere Samnewali Khidki Mein Kishore Kumar.mp3",
+        "duration": 172,
+        "title": "Mere Samnewali Khidki Mein",
+        "artists": [
+            "R.D. Burman",
+            "Rajendra Krishna"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Padosan (Original Motion Picture Soundtrack)",
+        "composer": [
+            "R.D. Burman"
+        ],
+        "date": "1967"
+    },
+    "Zindagi Kaisi Hai Paheli": {
+        "path": "lossy/Zindagi Kaisi Hai Paheli Manna Dey.mp3",
+        "duration": 209,
+        "title": "Zindagi Kaisi Hai Paheli",
+        "artists": [
+            "Manna Dey",
+            "Yogesh"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Anand (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Salil Chowdhury"
+        ],
+        "date": "1970"
     }
 }
