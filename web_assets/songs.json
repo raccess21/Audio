@@ -1896,7 +1896,8 @@
         "duration": 512,
         "title": "Dulhe Ka Sehra",
         "artists": [
-            "Nusrat Fateh Ali Khan"
+            "Nusrat Fateh Ali Khan",
+            "Sameer Anjaan"
         ],
         "genre": [
             "Hindi",
@@ -1905,10 +1906,9 @@
         ],
         "album": "Dhadkan (Original Motion Picture Soundtrack)",
         "composer": [
-            "Nadeem",
-            "Shravan"
+            "Nadeem-Shravan"
         ],
-        "date": "2000-07-02"
+        "date": "2000"
     },
     "Duniya Mein Logon Ko Pt. 1": {
         "path": "lossy/Duniya Mein Logon Ko Pt. 1 Asha Bhosle.mp3",
@@ -5155,7 +5155,7 @@
         "title": "O Saathi Re (Male Vocals)",
         "artists": [
             "Kishore Kumar",
-			"Anjaan"
+            "Anjaan"
         ],
         "genre": [
             "Bollywood",
@@ -6279,7 +6279,7 @@
         "composer": [
             "Harris Jayraj"
         ],
-        "date": "2001"
+        "date": "0000"
     },
     "Suhana Safar": {
         "path": "lossy/Suhana Safar Mukesh.mp3",
@@ -7774,18 +7774,18 @@
         "title": "Zara Zara",
         "artists": [
             "Bombay Jayashri",
-			"Sameer Anjaan"
+            "Sameer Anjaan"
         ],
         "genre": [
             "Bollywood",
-            "Hindi",
-            "Pop"
+            "Movie",
+            "Hindi"
         ],
         "album": "Rehnaa Hai Terre Dil Mein (Original Motion Picture Soundtrack)",
         "composer": [
             "Harris Jayaraj"
         ],
-        "date": "2001-12-01"
+        "date": "0000"
     },
     "Zaroorat": {
         "path": "lossy/Zaroorat Mustafa Zahid.mp3",
@@ -8164,5 +8164,328 @@
             "SOHAIL SEN"
         ],
         "date": "2011-08-09"
+    },
+    "Achha To Hum Chalte Hain": {
+        "path": "lossy/Achha To Hum Chalte Hain Lata Mangeshkar.mp3",
+        "duration": 299,
+        "title": "Achha To Hum Chalte Hain",
+        "artists": [
+            "Lata Mangeshkar",
+            "Kishore Kumar",
+            "Anand Bakshi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Aan Milo Sajna (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Laxmikant - Pyarelal"
+        ],
+        "date": "1970"
+    },
+    "Aisa Des Hai Mera": {
+        "path": "lossy/Aisa Des Hai Mera Lata Mangeshkar.mp3",
+        "duration": 428,
+        "title": "Aisa Des Hai Mera",
+        "artists": [
+            "Lata Mangeshkar",
+            "Udit Narayan",
+            "Gurdas Mann",
+            "Pritha Majumder",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Veer - Zaara",
+        "composer": [
+            "Madan Mohan"
+        ],
+        "date": "0000-09-18"
+    },
+    "Aksar Is Duniya Mein": {
+        "path": "lossy/Aksar Is Duniya Mein Alka Yagnik.mp3",
+        "duration": 343,
+        "title": "Aksar Is Duniya Mein",
+        "artists": [
+            "Alka Yagnik",
+            "Sameer Anjaan"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Dhadkan (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Nadeem - Shravan"
+        ],
+        "date": "2000"
+    },
+    "Ala Barfi": {
+        "path": "lossy/Ala Barfi Pritam.mp3",
+        "duration": 319,
+        "title": "Ala Barfi",
+        "artists": [
+            "Mohit Chauhan",
+            "Swanand Kirkire"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Barfi! (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Pritam"
+        ],
+        "date": "2015"
+    },
+    "Do Pal": {
+        "path": "lossy/Do Pal Lata Mangeshkar.mp3",
+        "duration": 266,
+        "title": "Do Pal",
+        "artists": [
+            "Lata Mangeshkar",
+            "Sonu Nigam",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Veer - Zaara",
+        "composer": [
+            "Madan Mohan"
+        ],
+        "date": "2004"
+    },
+    "Hale Dil": {
+        "path": "lossy/Hale Dil Harshit Saxena.mp3",
+        "duration": 347,
+        "title": "Hale Dil",
+        "artists": [
+            "Harshit Saxena",
+            "Sayeed Quadri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Murder 2",
+        "composer": [
+            "Harshit Saxena"
+        ],
+        "date": "2011"
+    },
+    "Hum Tumhare Hain Sanam": {
+        "path": "lossy/Hum Tumhare Hain Sanam Anuradha Paudwal.mp3",
+        "duration": 358,
+        "title": "Hum Tumhare Hain Sanam",
+        "artists": [
+            "Anuradha Paudwal",
+            "Udit Narayan",
+            "Sameer Anjaan"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Hum Tumhare Hain Sanam",
+        "composer": [
+            "Nikhil-Vinay"
+        ],
+        "date": "2002"
+    },
+    "Kabhi Alvida Naa Kehna": {
+        "path": "lossy/Kabhi Alvida Naa Kehna Shankar Ehsaan Loy.mp3",
+        "duration": 484,
+        "title": "Kabhi Alvida Naa Kehna",
+        "artists": [
+            "Sonu Nigam",
+            "Alka Yagnik",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Shankar Mahadevan",
+            "Ehsaan Noorani",
+            "Loy Mendonsa"
+        ],
+        "date": "2006"
+    },
+    "Kyon": {
+        "path": "lossy/Kyon Pritam.mp3",
+        "duration": 266,
+        "title": "Kyon",
+        "artists": [
+            "Papon",
+            "Sunidhi Chauhan",
+            "Neelesh Misra"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Barfi! (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Pritam"
+        ],
+        "date": "2012"
+    },
+    "Main Kya Karoon": {
+        "path": "lossy/Main Kya Karoon Pritam.mp3",
+        "duration": 270,
+        "title": "Main Kya Karoon",
+        "artists": [
+            "Nikhil Paul George",
+            "Ashish Pandit"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Barfi! (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Pritam"
+        ],
+        "date": "2012"
+    },
+    "Main Yahaan Hoon": {
+        "path": "lossy/Main Yahaan Hoon Udit Narayan.mp3",
+        "duration": 295,
+        "title": "Main Yahaan Hoon",
+        "artists": [
+            "Udit Narayan",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Veer - Zaara",
+        "composer": [
+            "Madan Mohan"
+        ],
+        "date": "2004"
+    },
+    "Mitwa": {
+        "path": "lossy/Mitwa Shankar Ehsaan Loy.mp3",
+        "duration": 383,
+        "title": "Mitwa",
+        "artists": [
+            "Shankar Mahadevan",
+            "Caralisa Montiero",
+            "Shafqat Amanat Ali",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Shankar Mahadevan",
+            "Ehsaan Noorani",
+            "Loy Mendonsa"
+        ],
+        "date": "2006"
+    },
+    "Sab Kuchh Bhula Diya": {
+        "path": "lossy/Sab Kuchh Bhula Diya Sonu Nigam.mp3",
+        "duration": 476,
+        "title": "Sab Kuchh Bhula Diya",
+        "artists": [
+            "Sonu Nigam",
+            "Sapna Awasthi",
+            "",
+            "Kartik Awasthi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Hum Tumhare Hain Sanam",
+        "composer": [
+            "Bali Brahambhatt"
+        ],
+        "date": "2002"
+    },
+    "Somebody That I Used To Know": {
+        "path": "lossy/Somebody That I Used To Know Gotye.mp3",
+        "duration": 245,
+        "title": "Somebody That I Used To Know",
+        "artists": [
+            "Gotye",
+            "Kimbra"
+        ],
+        "genre": [
+            "Alternative",
+            "English",
+            "Pop"
+        ],
+        "album": "Making Mirrors",
+        "composer": [
+            "Wally De Backer"
+        ],
+        "date": "2011"
+    },
+    "Taaron Ka Chamakta": {
+        "path": "lossy/Taaron Ka Chamakta Udit Narayan.mp3",
+        "duration": 367,
+        "title": "Taaron Ka Chamakta",
+        "artists": [
+            "Udit Narayan",
+            "Bali Brahambhatt",
+            "Sameer Anjaan"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Hum Tumhare Hain Sanam",
+        "composer": [
+            "Bali Brahambhatt"
+        ],
+        "date": "2002"
+    },
+    "White Room": {
+        "path": "lossy/White Room Cream.mp3",
+        "duration": 303,
+        "title": "White Room",
+        "artists": [
+            "Cream",
+            "Pete Brown"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Wheels Of Fire",
+        "composer": [
+            "Jack Bruce"
+        ],
+        "date": "1968"
     }
 }
