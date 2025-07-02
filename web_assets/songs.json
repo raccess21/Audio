@@ -611,7 +611,7 @@
         "duration": 185,
         "title": "Awara Hoon",
         "artists": [
-            "Shankar-Jaikishan",
+            "Shailendra",
             "Mukesh"
         ],
         "genre": [
@@ -619,7 +619,7 @@
         ],
         "album": "Awaara",
         "composer": [
-            "Shankar-Jaikishan"
+            "Shankar - Jaikishan"
         ],
         "date": "1951"
     },
@@ -2309,7 +2309,7 @@
         ],
         "album": "Don 2",
         "composer": [
-            "Javed Akhtar"
+            "Shankar-Whsaan-Loy"
         ],
         "date": "2011"
     },
@@ -4048,7 +4048,7 @@
         ],
         "album": "Kanyadaan (Original Motion Picture Soundtrack)",
         "composer": [
-            "Shankar-Jaikishan"
+            "Shankar - Jaikishan"
         ],
         "date": "1968"
     },
@@ -7584,7 +7584,7 @@
         ],
         "album": "Swades",
         "composer": [
-            "Javed Akhtar"
+            "A.R. Rahman"
         ],
         "date": "2004"
     },
@@ -8222,7 +8222,7 @@
         ],
         "album": "Dhadkan (Original Motion Picture Soundtrack)",
         "composer": [
-            "Nadeem - Shravan"
+            "Nadeem-Shravan"
         ],
         "date": "2000"
     },
@@ -8487,5 +8487,369 @@
             "Jack Bruce"
         ],
         "date": "1968"
+    },
+    "A Hard Rain's A-Gonna Fall": {
+        "path": "lossy/A Hard Rains A Gonna Fall Bob Dylan.mp3",
+        "duration": 412,
+        "title": "A Hard Rain's A-Gonna Fall",
+        "artists": [
+            "Bob Dylan"
+        ],
+        "genre": [
+            "Folk",
+            "English"
+        ],
+        "album": "The Freewheelin' Bob Dylan",
+        "composer": [
+            "Bob Dylan"
+        ],
+        "date": "1963"
+    },
+    "Babuji Dheere Chalna": {
+        "path": "lossy/Babuji Dheere Chalna Geeta Dutt.mp3",
+        "duration": 208,
+        "title": "Babuji Dheere Chalna",
+        "artists": [
+            "Geeta Dutt",
+            "Majrooh Sultanpuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Aar Paar (Original Motion Picture Soundtrack)",
+        "composer": [
+            "O.P. Nayyar"
+        ],
+        "date": "1954"
+    },
+    "Chahoonga Main Tujhe": {
+        "path": "lossy/Chahoonga Main Tujhe Mohammed Rafi.mp3",
+        "duration": 295,
+        "title": "Chahoonga Main Tujhe",
+        "artists": [
+            "Mohammed Rafi",
+            "Majrooh Sultanpuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Dosti (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Laxmikant - Pyarelal"
+        ],
+        "date": "1964"
+    },
+    "Come As You Are": {
+        "path": "lossy/Come As You Are Nirvana.mp3",
+        "duration": 219,
+        "title": "Come As You Are",
+        "artists": [
+            "Nirvana"
+        ],
+        "genre": [
+            "Rock",
+            "English",
+            "Grunge"
+        ],
+        "album": "Nevermind (Remastered)",
+        "composer": [
+            "Nirvana"
+        ],
+        "date": "1991"
+    },
+    "Dil Ka Haal Sune Dilwala": {
+        "path": "lossy/Dil Ka Haal Sune Dilwala Manna Dey.mp3",
+        "duration": 291,
+        "title": "Dil Ka Haal Sune Dilwala",
+        "artists": [
+            "Manna Dey",
+            "Shailendra"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Shree 420 (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Shankar - Jaikishan"
+        ],
+        "date": "1955"
+    },
+    "Ek Pal Ka Jeena": {
+        "path": "lossy/Ek Pal Ka Jeena Lucky Ali.mp3",
+        "duration": 397,
+        "title": "Ek Pal Ka Jeena",
+        "artists": [
+            "Lucky Ali",
+            "Vijay Akela"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Electronic",
+            "Dance"
+        ],
+        "album": "Kaho Naa Pyaar Hai (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Rajesh Roshan"
+        ],
+        "date": "2000"
+    },
+    "Hui Aankh Nam": {
+        "path": "lossy/Hui Aankh Nam Anuradha Paudwal.mp3",
+        "duration": 302,
+        "title": "Hui Aankh Nam",
+        "artists": [
+            "Anuradha Paudwal",
+            "Nawab Arzoo"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Saathi",
+        "composer": [
+            "Bhushan Dua"
+        ],
+        "date": "1991"
+    },
+    "Hurricane": {
+        "path": "lossy/Hurricane Bob Dylan.mp3",
+        "duration": 513,
+        "title": "Hurricane",
+        "artists": [
+            "Bob Dylan",
+            "Jacques Levy"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Desire",
+        "composer": [
+            "Bob Dylan"
+        ],
+        "date": "1976"
+    },
+    "Ja Ja Ja Bewafa": {
+        "path": "lossy/Ja Ja Ja Bewafa Geeta Dutt.mp3",
+        "duration": 203,
+        "title": "Ja Ja Ja Bewafa",
+        "artists": [
+            "Geeta Dutt",
+            "Majrooh Sultanpuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Aar Paar (Original Motion Picture Soundtrack)",
+        "composer": [
+            "O.P. Nayyar"
+        ],
+        "date": "1954"
+    },
+    "Janewalo Zara Mudke Dekho": {
+        "path": "lossy/Janewalo Zara Mudke Dekho Mohammed Rafi.mp3",
+        "duration": 317,
+        "title": "Janewalo Zara Mudke Dekho",
+        "artists": [
+            "Mohammed Rafi",
+            "Majrooh Sultanpuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Dosti (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Laxmikant - Pyarelal"
+        ],
+        "date": "1964"
+    },
+    "Lithium": {
+        "path": "lossy/Lithium Nirvana.mp3",
+        "duration": 257,
+        "title": "Lithium",
+        "artists": [
+            "Nirvana"
+        ],
+        "genre": [
+            "Rock",
+            "English",
+            "Grunge"
+        ],
+        "album": "Nevermind (Remastered)",
+        "composer": [
+            "Nirvana"
+        ],
+        "date": "1991"
+    },
+    "Mera Joota Hai Japani": {
+        "path": "lossy/Mera Joota Hai Japani Mukesh.mp3",
+        "duration": 269,
+        "title": "Mera Joota Hai Japani",
+        "artists": [
+            "Mukesh",
+            "Shailendra"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Shree 420 (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Shankar - Jaikishan"
+        ],
+        "date": "1955"
+    },
+    "Meri Dosti Mera Pyar": {
+        "path": "lossy/Meri Dosti Mera Pyar Mohammed Rafi.mp3",
+        "duration": 260,
+        "title": "Meri Dosti Mera Pyar",
+        "artists": [
+            "Mohammed Rafi",
+            "Majrooh Sultanpuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Dosti (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Laxmikant - Pyarelal"
+        ],
+        "date": "1964"
+    },
+    "Milo Na Tum To Ham Ghabraye": {
+        "path": "lossy/Milo Na Tum To Ham Ghabraye Lata Mangeshkar.mp3",
+        "duration": 298,
+        "title": "Milo Na Tum To Ham Ghabraye",
+        "artists": [
+            "Lata Mangeshkar",
+            "Kaifi Azmi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Heer Raanjha (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Madan Mohan"
+        ],
+        "date": "1970"
+    },
+    "Something In The Way": {
+        "path": "lossy/Something In The Way Nirvana.mp3",
+        "duration": 232,
+        "title": "Something In The Way",
+        "artists": [
+            "Nirvana"
+        ],
+        "genre": [
+            "Rock",
+            "English",
+            "Grunge"
+        ],
+        "album": "Nevermind (Remastered)",
+        "composer": [
+            "Kurt Cobain",
+            "Dave Grohl",
+            "Krist Novoselic"
+        ],
+        "date": "1991"
+    },
+    "Steal My Girl": {
+        "path": "lossy/Steal My Girl One Direction.mp3",
+        "duration": 228,
+        "title": "Steal My Girl",
+        "artists": [
+            "One Direction"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "FOUR (Deluxe)",
+        "composer": [
+            "Wayne Hector",
+            "John Ryan",
+            "Julian Bunetta",
+            "Ed Drewett",
+            "Louis Tomlinson",
+            "Liam Payne"
+        ],
+        "date": "2014"
+    },
+    "Ye Ishq Hai": {
+        "path": "lossy/Ye Ishq Hai Pritam.mp3",
+        "duration": 281,
+        "title": "Ye Ishq Hai",
+        "artists": [
+            "Shreya Ghoshal",
+            "Irshad Kamil"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop",
+            "Dance"
+        ],
+        "album": "Jab We Met",
+        "composer": [
+            "Pritam"
+        ],
+        "date": "2007"
+    },
+    "Yeh Duniya Yeh Mehfil": {
+        "path": "lossy/Yeh Duniya Yeh Mehfil Mohammed Rafi.mp3",
+        "duration": 424,
+        "title": "Yeh Duniya Yeh Mehfil",
+        "artists": [
+            "Mohammed Rafi",
+            "Kaifi Azmi"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Heer Raanjha (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Madan Mohan"
+        ],
+        "date": "1970"
+    },
+    "Zindagi Ki Talash Mein": {
+        "path": "lossy/Zindagi Ki Talash Mein Kumar Sanu.mp3",
+        "duration": 349,
+        "title": "Zindagi Ki Talash Mein",
+        "artists": [
+            "Kumar Sanu",
+            "Sameer Anjaan"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Saathi",
+        "composer": [
+            "Nadeem-Shravan"
+        ],
+        "date": "1991"
     }
 }
