@@ -8851,5 +8851,21 @@
             "Nadeem-Shravan"
         ],
         "date": "1991"
+    },
+    "California Dreamin' (Single Version)": {
+        "path": "lossy/California Dreamin Single Version The Mamas and The Papas.mp3",
+        "duration": 162,
+        "title": "California Dreamin' (Single Version)",
+        "artists": [
+            "The Mamas & The Papas"
+        ],
+        "genre": [
+            "Pop",
+            "English",
+            "Soft Rock"
+        ],
+        "album": "If You Can Believe Your Eyes & Ears",
+        "composer": [],
+        "date": "1966"
     }
 }
