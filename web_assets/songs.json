@@ -2443,7 +2443,8 @@
         "duration": 186,
         "title": "Here Comes The Sun",
         "artists": [
-            "The Beatles"
+            "The Beatles",
+            "George Harrison"
         ],
         "genre": [
             "Rock",
@@ -2453,7 +2454,7 @@
         "composer": [
             "George Harrison"
         ],
-        "date": "1969-09-26"
+        "date": "1969"
     },
     "David Bowie - Heroes (Album Version) (Remastered Audio)": {
         "path": "lossy/Heroes (Album Version) (Remastered Audio) David Bowie.mp3",
@@ -8867,5 +8868,172 @@
         "album": "If You Can Believe Your Eyes & Ears",
         "composer": [],
         "date": "1966"
+    },
+    "Californication": {
+        "path": "lossy/Californication Red Hot Chili Peppers.mp3",
+        "duration": 330,
+        "title": "Californication",
+        "artists": [
+            "Anthony Kiedis",
+            "Red Hot Chili Peppers"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "Californication (Deluxe Edition)",
+        "composer": [
+            "Red Hot Chili Peppers"
+        ],
+        "date": "1999"
+    },
+    "Free Bird": {
+        "path": "lossy/Free Bird Lynyrd Skynyrd.mp3",
+        "duration": 559,
+        "title": "Free Bird",
+        "artists": [
+            "Lynyrd Skynyrd"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "(Pronounced 'Leh-'N\u00e9rd 'Skin-'N\u00e9rd)",
+        "composer": [],
+        "date": "1973"
+    },
+    "Have You Ever Seen The Rain": {
+        "path": "lossy/Have You Ever Seen The Rain Creedence Clearwater Revival.mp3",
+        "duration": 160,
+        "title": "Have You Ever Seen The Rain",
+        "artists": [
+            "Creedence Clearwater Revival",
+            "John Fogerty"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Pendulum (Expanded Edition)",
+        "composer": [
+            "John Fogerty"
+        ],
+        "date": "1970"
+    },
+    "Hey Jude": {
+        "path": "lossy/Hey Jude (Remastered 2009) The Beatles.mp3",
+        "duration": 431,
+        "title": "Hey Jude",
+        "artists": [
+            "The Beatles"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "The Beatles 1967 - 1970 (Remastered)",
+        "composer": [
+            "Paul McCartney",
+            "John Lennon"
+        ],
+        "date": "1968"
+    },
+    "Hotel California": {
+        "path": "lossy/Hotel California (2013 Remaster) Eagles.mp3",
+        "duration": 391,
+        "title": "Hotel California",
+        "artists": [
+            "Eagles",
+            "Don Felder"
+        ],
+        "genre": [
+            "Pop",
+            "Rock",
+            "English"
+        ],
+        "album": "Hotel California (2013 Remaster)",
+        "composer": [
+            "Don Henley",
+            "Glenn Frey"
+        ],
+        "date": "1977"
+    },
+    "Otherside": {
+        "path": "lossy/Otherside Red Hot Chili Peppers.mp3",
+        "duration": 255,
+        "title": "Otherside",
+        "artists": [
+            "Anthony Keidis",
+            "Red Hot Chili Peppers"
+        ],
+        "genre": [
+            "Alternative",
+            "Rock",
+            "English"
+        ],
+        "album": "Californication (Deluxe Edition)",
+        "composer": [
+            "Red Hot Chili Peppers"
+        ],
+        "date": "1999"
+    },
+    "Shake It Off": {
+        "path": "lossy/Shake It Off Taylor Swift.mp3",
+        "duration": 219,
+        "title": "Shake It Off",
+        "artists": [
+            "Shellback",
+            "Max Martin",
+            "Taylor Swift"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "1989 (Deluxe)",
+        "composer": [
+            "Taylor Swift"
+        ],
+        "date": "2014"
+    },
+    "The Reason": {
+        "path": "lossy/The Reason Hoobastank.mp3",
+        "duration": 233,
+        "title": "The Reason",
+        "artists": [
+            "Hoobastank",
+            "Douglas Robb",
+            "Daniel Estrin",
+            "Markku Lappalainen",
+            "Chris Hesse"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "The Reason (20th Anniversary)",
+        "composer": [
+            "Hoobastank"
+        ],
+        "date": "2003"
+    },
+    "What's Up?": {
+        "path": "lossy/What s Up 4 Non Blondes.mp3",
+        "duration": 295,
+        "title": "What's Up?",
+        "artists": [
+            "4 Non Blondes",
+            "Linda Perry"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Bigger, Better, Faster, More !",
+        "composer": [
+            "Linda Perry"
+        ],
+        "date": "1992"
     }
 }
