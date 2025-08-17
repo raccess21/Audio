@@ -9035,5 +9035,60 @@
             "Linda Perry"
         ],
         "date": "1992"
+    },
+    "500 Miles (Live in London 1965)": {
+        "path": "lossy/500 Miles Joan Baez (Live in London 1965).mp3",
+        "duration": 179,
+        "title": "500 Miles (Live in London 1965)",
+        "artists": [
+            "Joan Baez"
+        ],
+        "genre": [
+            "Indie Pop",
+            "English",
+            "Country"
+        ],
+        "album": "Live In London 1965",
+        "composer": [
+            "Joan Baez"
+        ],
+        "date": "2016"
+    },
+    "I Love It (feat. Charli XCX)": {
+        "path": "lossy/I Love It (feat Charli XCX) Icona Pop.mp3",
+        "duration": 155,
+        "title": "I Love It (feat. Charli XCX)",
+        "artists": [
+            "Icona Pop",
+            "Charli XCX"
+        ],
+        "genre": [
+            "Dance",
+            "English",
+            "Electronic",
+            "EDM"
+        ],
+        "album": "I Love It (feat. Charli XCX)",
+        "composer": [
+            "Icona Pip"
+        ],
+        "date": "2012"
+    },
+    "Plus rien ne m'\u00e9tonne": {
+        "path": "lossy/Plus Rien Ne Metonne Tikon Jah Fakoly.mp3",
+        "duration": 249,
+        "title": "Plus rien ne m'\u00e9tonne",
+        "artists": [
+            "Tiken Jah Fakoly"
+        ],
+        "genre": [
+            "Reggae",
+            "French"
+        ],
+        "album": "Coup de guele",
+        "composer": [
+            "Tiken Jah Fakoly"
+        ],
+        "date": "2004"
     }
 }
