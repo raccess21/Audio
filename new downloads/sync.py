@@ -160,7 +160,7 @@ class LyricLine(tk.Frame):
 
 
 class LyricSyncer:
-    def __init__(self, master):
+    def __init__(self, master, audio_file=""):
         self.master = master
         master.title("Lyrics Sync")
         master.configure(bg="#f8f9fa")
@@ -170,7 +170,7 @@ class LyricSyncer:
         except:
             pass
         
-        self.audio_file = "Sanson Ki Mala Peh Simroon Main Nusrat Fateh Ali Khan.mp3"
+        self.audio_file = audio_file
         self.lrc_file = ""
         self.lyrics = []
         self.lyric_lines = []
@@ -227,6 +227,8 @@ class LyricSyncer:
         container.pack(fill=tk.BOTH, expand=True, padx=20, pady=(0, 20))
         
         self.canvas = tk.Canvas(container, bg="white", highlightthickness=0)
+        self._bind_mousewheel()
+
         self.scrollbar = ttk.Scrollbar(container, orient="vertical", command=self.canvas.yview)
         self.scrollable_frame = tk.Frame(self.canvas, bg="#f8f9fa")
 
@@ -241,6 +243,31 @@ class LyricSyncer:
         self.canvas.pack(side="left", fill="both", expand=True, padx=1, pady=1)
         self.scrollbar.pack(side="right", fill="y")
 
+    def _bind_mousewheel(self):
+        self.canvas.bind("<Enter>", lambda e: self._activate_mousewheel())
+        self.canvas.bind("<Leave>", lambda e: self._deactivate_mousewheel())
+
+    def _activate_mousewheel(self):
+        # Windows / Linux
+        self.canvas.bind_all("<MouseWheel>", self._on_mousewheel)
+        # macOS
+        self.canvas.bind_all("<Button-4>", self._on_mousewheel)
+        self.canvas.bind_all("<Button-5>", self._on_mousewheel)
+
+    def _deactivate_mousewheel(self):
+        self.canvas.unbind_all("<MouseWheel>")
+        self.canvas.unbind_all("<Button-4>")
+        self.canvas.unbind_all("<Button-5>")
+
+    def _on_mousewheel(self, event):
+        if event.num == 4:   # macOS scroll up
+            self.canvas.yview_scroll(-1, "units")
+        elif event.num == 5: # macOS scroll down
+            self.canvas.yview_scroll(1, "units")
+        else:                # Windows / Linux
+            self.canvas.yview_scroll(-1 * (event.delta // 120), "units")
+
+    
     # --- data loading / saving ---
     def load_audio(self):
         self.audio_file = self.audio_file or filedialog.askopenfilename(
@@ -351,27 +378,40 @@ class LyricSyncer:
         self.update_highlight()
 
     # --- highlighting + scrolling ---
-    def _scroll_line_into_view(self, idx, margin=20):
-        """Ensure the lyric line at idx is visible in the canvas."""
+    def _scroll_line_into_view(self, idx, margin=20, lookahead=1):
+        """
+        Ensure the lyric line at idx (and next lines) are visible in the canvas.
+        `lookahead` = how many lines ahead should also be visible.
+        """
         if not (0 <= idx < len(self.lyric_lines)):
             return
+
+        # Current + next line to consider
+        last_idx = min(len(self.lyric_lines) - 1, idx + lookahead)
         widget = self.lyric_lines[idx]
+        next_widget = self.lyric_lines[last_idx]
+
         self.canvas.update_idletasks()
-        y = widget.winfo_y()
-        h = widget.winfo_height()
+
+        # Top & bottom of the current + next widget block
+        y_top = widget.winfo_y()
+        y_bottom = next_widget.winfo_y() + next_widget.winfo_height()
+
+        # Current visible region
         top = self.canvas.canvasy(0)
         bottom = top + self.canvas.winfo_height()
 
-        # If above view -> scroll up
-        if y < top + margin:
-            target = max(0, y - margin)
+        # Scroll up if current line is above
+        if y_top < top + margin:
+            target = max(0, y_top - margin)
             total = max(1, self.scrollable_frame.winfo_height())
             self.canvas.yview_moveto(min(1.0, max(0.0, target / total)))
-        # If below view -> scroll down
-        elif (y + h) > (bottom - margin):
-            target = (y + h) - self.canvas.winfo_height() + margin
+        # Scroll down if next line is below
+        elif y_bottom > (bottom - margin):
+            target = y_bottom - self.canvas.winfo_height() + margin
             total = max(1, self.scrollable_frame.winfo_height())
             self.canvas.yview_moveto(min(1.0, max(0.0, target / total)))
+
 
     def update_highlight(self):
         # keep scheduling even if paused/stopped; if stopped, reset button text
@@ -410,6 +450,6 @@ class LyricSyncer:
 if __name__ == "__main__":
     pygame.init()
     root = tk.Tk()
-    app = LyricSyncer(root)
+    app = LyricSyncer(root, audio_file="Plus Rien Ne Metonne Tikon Jah Fakoly.mp3")
     root.mainloop()
     pygame.quit()
