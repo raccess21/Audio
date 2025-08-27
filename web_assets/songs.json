@@ -9090,5 +9090,65 @@
             "Tiken Jah Fakoly"
         ],
         "date": "2004"
+    },
+    "Taras": {
+        "path": "lossy/Taras Jasmine Sandals.mp3",
+        "duration": 189,
+        "title": "Taras",
+        "artists": [
+            "Jasmine Sandlas",
+            "Amitabh Bhattacharya",
+            "Sachin-Jigar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "Munjya",
+        "composer": [
+            "Sachin-Jigar"
+        ],
+        "date": "2024"
+    },
+    "There's Nothing Holdin' Me Back": {
+        "path": "lossy/Theres Nothing Holdin  Me Back Shawn Mendes.mp3",
+        "duration": 199,
+        "title": "There's Nothing Holdin' Me Back",
+        "artists": [
+            "Shawn Mendes",
+            "Teddy Geiger",
+            "Scott Harris",
+            "Geoffrey Warburton"
+        ],
+        "genre": [
+            "English",
+            "Pop"
+        ],
+        "album": "Illuminate (Deluxe)",
+        "composer": [
+            "Shawn Mendes"
+        ],
+        "date": "2017"
+    },
+    "Zhi Yao Wei Ni Huo Yi Tian": {
+        "path": "lossy/Zhi Yao Wei Ni Huo Yi Tian Khong Ming.mp3",
+        "duration": 127,
+        "title": "Zhi Yao Wei Ni Huo Yi Tian",
+        "artists": [
+            "Khong Ming",
+            "Huang Sheng-Yi",
+            "Ling Huan-Kung"
+        ],
+        "genre": [
+            "Chinese",
+            "Movie"
+        ],
+        "album": "Kung Fu Hustle",
+        "composer": [
+            "Liu Chia-Chang"
+        ],
+        "date": "2007"
     }
 }

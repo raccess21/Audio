@@ -450,6 +450,6 @@ class LyricSyncer:
 if __name__ == "__main__":
     pygame.init()
     root = tk.Tk()
-    app = LyricSyncer(root, audio_file="Plus Rien Ne Metonne Tikon Jah Fakoly.mp3")
+    app = LyricSyncer(root)
     root.mainloop()
     pygame.quit()
