@@ -34,7 +34,7 @@ def save_audio(audio):
 # return a tuple for (file_name, extension_of_file)
 def file_name_ext(filename):
     ext = filename.split('.')[-1]
-    filename = filename.split('/')[-1].split('.' + ext)[0]
+    filename = filename.split('/')[-1].split('.' + ext)[0] or ''
     return (filename, ext)
 
 # walk all files in provided base directory
