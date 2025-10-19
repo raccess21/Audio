@@ -9150,5 +9150,136 @@
             "Liu Chia-Chang"
         ],
         "date": "2007"
+    },
+    "Asli Hip Hop": {
+        "path": "lossy/Asli Hip Hop Gully Boy.mp3",
+        "duration": 109,
+        "title": "Asli Hip Hop",
+        "artists": [
+            "Ranveer Singh",
+            "Spitfire",
+            "D-Cypher",
+            "BeatRAW"
+        ],
+        "genre": [
+            "Hindi",
+            "Hip Hop",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Gully Boy",
+        "composer": [
+            "Spitfire"
+        ],
+        "date": "2019"
+    },
+    "Azadi": {
+        "path": "lossy/Azadi Gully Boy.mp3",
+        "duration": 156,
+        "title": "Azadi",
+        "artists": [
+            "Dub Sharma",
+            "DIVINE"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Hip Hop"
+        ],
+        "album": "Gully Boy",
+        "composer": [
+            "Dub Sharma",
+            "DIVINE"
+        ],
+        "date": "2019"
+    },
+    "Kaam Bhaari": {
+        "path": "lossy/Kaam Bhaari Gully Boy.mp3",
+        "duration": 138,
+        "title": "Kaam Bhaari",
+        "artists": [
+            "Kaam Bhaari",
+            "Ankur Tewari"
+        ],
+        "genre": [
+            "Hindi",
+            "Hip Hop",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Gully Boy",
+        "composer": [
+            "Ankur Tewari",
+            "Kaam Bhaari"
+        ],
+        "date": "2019"
+    },
+    "Mere Gully Mein": {
+        "path": "lossy/Mere Gully Mein Gully Boy.mp3",
+        "duration": 185,
+        "title": "Mere Gully Mein",
+        "artists": [
+            "Ranveer Singh",
+            "DIVINE",
+            "Naezy"
+        ],
+        "genre": [
+            "Hindi",
+            "Hip Hop",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Gully Boy",
+        "composer": [
+            "Sez On The Beat",
+            "DIVINE",
+            "Naezy"
+        ],
+        "date": "2019"
+    },
+    "Never Ending Story": {
+        "path": "lossy/Never Ending Story Rainn Byrns.mp3",
+        "duration": 190,
+        "title": "Never Ending Story",
+        "artists": [
+            "Rainn Byrns"
+        ],
+        "genre": [
+            "Alternative",
+            "Indie Pop",
+            "Indie Rock",
+            "English",
+            "Pop"
+        ],
+        "album": "Never Ending Story",
+        "composer": [
+            "Rainn Byrns"
+        ],
+        "date": "2022"
+    },
+    "Train Song": {
+        "path": "lossy/Train Song Gully Boy.mp3",
+        "duration": 239,
+        "title": "Train Song",
+        "artists": [
+            "Midival Punditz",
+            "Karsh Kale",
+            "Raghu Dixit",
+            "Javed Akhtar"
+        ],
+        "genre": [
+            "Hindi",
+            "Hip Hop",
+            "Bollywood",
+            "Movie"
+        ],
+        "album": "Gully Boy",
+        "composer": [
+            "Midival Punditz",
+            "Karsh Kale",
+            "Raghu Dixit"
+        ],
+        "date": "2019"
     }
 }
