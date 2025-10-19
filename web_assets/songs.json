@@ -9281,5 +9281,101 @@
             "Raghu Dixit"
         ],
         "date": "2019"
+    },
+    "Dangal": {
+        "path": "lossy/Dangal Title Song.mp3",
+        "duration": 299,
+        "title": "Dangal",
+        "artists": [
+            "Daler Mehndi",
+            "Amitabh Bhattacharya"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Dangal",
+        "composer": [
+            "Pritam"
+        ],
+        "date": "2016"
+    },
+    "Dhaakad": {
+        "path": "lossy/Dhaakad Dangal.mp3",
+        "duration": 125,
+        "title": "Dhaakad",
+        "artists": [
+            "Raftaar",
+            "Pritam"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Dangal",
+        "composer": [
+            "Pritam"
+        ],
+        "date": "2016"
+    },
+    "Gilehriyaan": {
+        "path": "lossy/Gilehriyaan Dangal.mp3",
+        "duration": 220,
+        "title": "Gilehriyaan",
+        "artists": [
+            "Jonita Gandhi",
+            "Pritam",
+            "Amitabh Bhattacharya"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Dangal",
+        "composer": [
+            "Pritam"
+        ],
+        "date": "2016"
+    },
+    "Haanikaarak Bapu": {
+        "path": "lossy/Haanikaarak Bapu Dangal.mp3",
+        "duration": 263,
+        "title": "Haanikaarak Bapu",
+        "artists": [
+            "Sarwar Khan",
+            "Sartaz Khan Barna",
+            "Amitabh Bhattacharya"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Dangal",
+        "composer": [
+            "Pritam"
+        ],
+        "date": "2016"
+    },
+    "Naina": {
+        "path": "lossy/Naina Dangal.mp3",
+        "duration": 226,
+        "title": "Naina",
+        "artists": [
+            "Arijit Singh"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Dangal",
+        "composer": [
+            "Pritam"
+        ],
+        "date": "2016"
     }
 }

@@ -275,6 +275,7 @@ class LyricSyncer:
             title="Select Audio File"
         )
         if self.audio_file:
+            # add counter for load click on 3 clicks open file dialog
             self.lrc_file = os.path.splitext(self.audio_file)[0] + ".lrc"
             self.status_var.set(f"Loaded: {os.path.basename(self.audio_file)}")
             self.load_lyrics()
