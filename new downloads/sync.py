@@ -282,7 +282,7 @@ class LyricSyncer:
 
     def load_lyrics(self):
         if self.lrc_file and os.path.exists(self.lrc_file):
-            with open(self.lrc_file, "r", encoding="utf-8") as f:
+            with open(self.lrc_file, "r", encoding="utf-8", errors="replace") as f:
                 self.lyrics = f.readlines()
             self.status_var.set(f"Loaded lyrics from: {os.path.basename(self.lrc_file)}")
         else:
