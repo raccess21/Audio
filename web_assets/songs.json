@@ -9377,5 +9377,61 @@
             "Pritam"
         ],
         "date": "2016"
+    },
+    "Aap Jaisa Koi": {
+        "path": "lossy/Aap Jaisa Koi Qurbani.mp3",
+        "duration": 249,
+        "title": "Aap Jaisa Koi",
+        "artists": [
+            "Nazia Hassan",
+            "Indeevar"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Disco"
+        ],
+        "album": "Qurbani",
+        "composer": [
+            "Biddu"
+        ],
+        "date": "1980-10-27"
+    },
+    "Believer": {
+        "path": "lossy/Believer Imagine Dragons.mp3",
+        "duration": 204,
+        "title": "Believer",
+        "artists": [
+            "Imagine Dragons"
+        ],
+        "genre": [
+            "Alternative",
+            "English",
+            "Pop"
+        ],
+        "album": "Evolve",
+        "composer": [
+            "Mattman",
+            "Robin"
+        ],
+        "date": "2017"
+    },
+    "For the Damaged Coda": {
+        "path": "lossy/For the Damaged Coda Blonde Redhead.mp3",
+        "duration": 157,
+        "title": "For the Damaged Coda",
+        "artists": [
+            "Blonde Redhead"
+        ],
+        "genre": [
+            "Alternative",
+            "Soundtrack"
+        ],
+        "album": "Melody of Certain Damaged Lemons",
+        "composer": [
+            "Blonde Redhead"
+        ],
+        "date": "2000"
     }
 }
