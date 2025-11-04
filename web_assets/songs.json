@@ -9433,5 +9433,300 @@
             "Blonde Redhead"
         ],
         "date": "2000"
+    },
+    "Akele Akele Kahan Ja Rahe Ho": {
+        "path": "lossy/Akele Akele Kahan Ja Rahe Ho Mohammed Rafi.mp3",
+        "duration": 286,
+        "title": "Akele Akele Kahan Ja Rahe Ho",
+        "artists": [
+            "Mohammed Rafi",
+            "Hasrat Jaipuri"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Pop"
+        ],
+        "album": "An Evening in Paris (Original Motion Picture Soundtrack)",
+        "composer": [
+            "Shankar - Jaikishan"
+        ],
+        "date": "1967"
+    },
+    "Apna Time Aayega": {
+        "path": "lossy/Apna Time Aayega Gully Boy.mp3",
+        "duration": 141,
+        "title": "Apna Time Aayega",
+        "artists": [
+            "Dub Sharma",
+            "Divine",
+            "Ankur Tewari",
+            "Ranveer Singh"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Gully Boy",
+        "composer": [
+            "Dub Sharma",
+            "DIVINE"
+        ],
+        "date": "2019"
+    },
+    "Azadi Do": {
+        "path": "lossy/Azadi Do Official Bhagat.mp3",
+        "duration": 165,
+        "title": "Azadi Do",
+        "artists": [
+            "Official Bhagat",
+            "Md. Nafis",
+            "Uddin Ahmed",
+            "Sirbible",
+            "Manikk",
+            "Shivranjani Singh"
+        ],
+        "genre": [
+            "Hindi",
+            "Hip Hop"
+        ],
+        "album": "Azadi Do",
+        "composer": [
+            "Official Bhagat"
+        ],
+        "date": "2021"
+    },
+    "Dusk Till Dawn (feat. Sia)": {
+        "path": "lossy/Dusk Till Dawn (feat. Sia) (Radio Edit) ZAYN.mp3",
+        "duration": 239,
+        "title": "Dusk Till Dawn (feat. Sia)",
+        "artists": [
+            "Zayn Malik",
+            "Sia"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Icarus",
+        "composer": [
+            "Zayn Malik",
+            "Greg Kurstin",
+            "Sia",
+            "Alex Oriet",
+            "David Phelan"
+        ],
+        "date": "2018"
+    },
+    "Happy Together": {
+        "path": "lossy/Happy Together The Turtles.mp3",
+        "duration": 176,
+        "title": "Happy Together",
+        "artists": [
+            "The Turtles",
+            "Garry Bonner",
+            "Alan Gordon"
+        ],
+        "genre": [
+            "Alternative",
+            "English",
+            "Soft Rock"
+        ],
+        "album": "Happy Together",
+        "composer": [
+            "The Turtles"
+        ],
+        "date": "1967"
+    },
+    "Jeene Mein Aye Maza": {
+        "path": "lossy/Jeene Mein Aye Maza Gully Boy.mp3",
+        "duration": 199,
+        "title": "Jeene Mein Aye Maza",
+        "artists": [
+            "Ankur Tewari"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi"
+        ],
+        "album": "Gully Boy",
+        "composer": [
+            "Ankur Tewari",
+            "Mikey McCleary"
+        ],
+        "date": "2019"
+    },
+    "Jingostan": {
+        "path": "lossy/Jingostan Gully Boy.mp3",
+        "duration": 155,
+        "title": "Jingostan",
+        "artists": [
+            "Dub Sharma"
+        ],
+        "genre": [
+            "Bollywood",
+            "Movie",
+            "Hindi",
+            "Hip Hop"
+        ],
+        "album": "Gully Boy",
+        "composer": [
+            "Dub Sharma"
+        ],
+        "date": "2019"
+    },
+    "Let Me Love You": {
+        "path": "lossy/Let Me Love You DJ Snake.mp3",
+        "duration": 206,
+        "title": "Let Me Love You",
+        "artists": [
+            "Justin Bieber"
+        ],
+        "genre": [
+            "Dance",
+            "EDM",
+            "English"
+        ],
+        "album": "Encore",
+        "composer": [
+            "DJ Snake"
+        ],
+        "date": "2016"
+    },
+    "Make Your Own Kind Of Music": {
+        "path": "lossy/Make Your Own Kind Of Music Mama Cass.mp3",
+        "duration": 140,
+        "title": "Make Your Own Kind Of Music",
+        "artists": [
+            "Mama Cass Elliot",
+            "Barry Mann",
+            "Cynthia Well"
+        ],
+        "genre": [
+            "Pop",
+            "English"
+        ],
+        "album": "Make Your Own Kind Of Music",
+        "composer": [
+            "Steve Barri"
+        ],
+        "date": "1969"
+    },
+    "Raindrops Keep Fallin' On My Head": {
+        "path": "lossy/Raindrops Keep Fallin On My Head B J Thomas.mp3",
+        "duration": 185,
+        "title": "Raindrops Keep Fallin' On My Head",
+        "artists": [
+            "B. J. Thomas",
+            "Hal David"
+        ],
+        "genre": [
+            "Pop",
+            "English",
+            "Soft Rock"
+        ],
+        "album": "Raindrops Keep Fallin' On My Head",
+        "composer": [
+            "Burt Bacharach"
+        ],
+        "date": "1969"
+    },
+    "Put the Blame On Mame": {
+        "path": "lossy/Rita Hayworth Put the Blame On Mame Theme from  Gilda  Original.mp3",
+        "duration": 138,
+        "title": "Put the Blame On Mame",
+        "artists": [
+            "Rita Hayworth",
+            "Doris Fischer"
+        ],
+        "genre": [
+            "English",
+            "Movie",
+            "Pop"
+        ],
+        "album": "Gilda",
+        "composer": [
+            "Allan Roberts",
+            "Doris Fischer",
+            "Hugo Friedhoder"
+        ],
+        "date": "1946"
+    },
+    "Sanson Ki Mala Peh Simroon Main": {
+        "path": "lossy/Sanson Ki Mala Peh Simroon Main Nusrat Fateh Ali Khan.mp3",
+        "duration": 386,
+        "title": "Sanson Ki Mala Peh Simroon Main",
+        "artists": [
+            "Nusrat Fateh Ali Khan",
+            "Tufail Hoshiarpuri",
+            "Meera Bai"
+        ],
+        "genre": [
+            "Hindi",
+            "Urdu",
+            "Sufi",
+            "Qawali"
+        ],
+        "album": "Best Of Shahenshah-E.-Qawwalan, Pt. 1, Vol. 1",
+        "composer": [
+            "Nusrat Fateh Ali Khan"
+        ],
+        "date": "1991"
+    },
+    "Somebody to Love": {
+        "path": "lossy/Somebody to Love Jefferson Airplane.mp3",
+        "duration": 175,
+        "title": "Somebody to Love",
+        "artists": [
+            "Jefferson Airplane",
+            "Darby Slick"
+        ],
+        "genre": [
+            "English",
+            "Rock",
+            "Psychedelic Rock"
+        ],
+        "album": "Surrealistic Pillow",
+        "composer": [
+            "Darby Slick"
+        ],
+        "date": "2002"
+    },
+    "Still Same": {
+        "path": "lossy/Still Same Official Bhagat.mp3",
+        "duration": 160,
+        "title": "Still Same",
+        "artists": [
+            "Official Bhagat"
+        ],
+        "genre": [
+            "Hindi",
+            "Hip Hop"
+        ],
+        "album": "Still Same",
+        "composer": [
+            "Official Bhagat"
+        ],
+        "date": "2021"
+    },
+    "Sultans Of Swing": {
+        "path": "lossy/Sultans Of Swing Dire Straits.mp3",
+        "duration": 349,
+        "title": "Sultans Of Swing",
+        "artists": [
+            "Dire Straits"
+        ],
+        "genre": [
+            "Rock",
+            "English"
+        ],
+        "album": "Dire Straits",
+        "composer": [
+            "Mark Knopfler"
+        ],
+        "date": "1978"
     }
 }
